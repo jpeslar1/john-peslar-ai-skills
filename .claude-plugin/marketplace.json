@@ -1,0 +1,118 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "john-peslar-ai-skills",
+  "description": "Public agent skills from John Peslar AI for business strategy, AI automation, lead generation, founder content, and offer building",
+  "owner": {
+    "name": "John Peslar AI",
+    "email": "john@launchpadfast.com"
+  },
+  "metadata": {
+    "description": "Public agent skills from John Peslar AI for business strategy, AI automation, lead generation, founder content, and offer building",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "strategy-thinking",
+      "description": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching and offer stack design",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "strategy",
+        "business-planning",
+        "founder",
+        "chamath",
+        "offer",
+        "decision-making"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./chamath-strategy-coach",
+        "./offer-stack-builder"
+      ]
+    },
+    {
+      "name": "ai-automation",
+      "description": "AI workflow architecture skills for turning manual business processes into agents, SOPs, and automation plans",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "ai-automation",
+        "agents",
+        "workflow",
+        "sop",
+        "operations"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./ai-workflow-architect"
+      ]
+    },
+    {
+      "name": "lead-generation",
+      "description": "Lead generation skills for lead magnets, LinkedIn signals, warm outreach, and audience capture",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "lead-generation",
+        "lead-magnets",
+        "linkedin",
+        "outreach",
+        "buying-signals"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./lead-magnet-factory",
+        "./linkedin-signal-miner"
+      ]
+    },
+    {
+      "name": "content-distribution",
+      "description": "Founder content skills for LinkedIn, newsletters, YouTube ideas, and distribution systems",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "content",
+        "linkedin",
+        "newsletter",
+        "youtube",
+        "founder-brand"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./founder-content-engine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "strategy-thinking",
+  "version": "0.1.0",
+  "description": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching and offer stack design",
+  "author": {
+    "name": "John Peslar AI",
+    "url": "https://www.youtube.com/@JohnPeslarAi"
+  },
+  "interface": {
+    "displayName": "Strategy Thinking",
+    "shortDescription": "Founder strategy and offer thinking",
+    "longDescription": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching and offer stack design.",
+    "developerName": "John Peslar AI",
+    "category": "Productivity",
+    "defaultPrompt": "Use $chamath-strategy-coach to pressure-test my business plan and turn it into a concrete operating plan.",
+    "capabilities": [
+      "Business strategy",
+      "Offer design",
+      "Founder coaching"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "keywords": [
+    "strategy",
+    "business-planning",
+    "founder",
+    "chamath",
+    "offer"
+  ],
+  "skills": "./skills/"
+}

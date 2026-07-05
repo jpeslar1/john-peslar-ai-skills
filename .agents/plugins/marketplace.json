@@ -1,0 +1,56 @@
+{
+  "name": "john-peslar-ai-skills",
+  "interface": {
+    "displayName": "John Peslar AI Skills"
+  },
+  "plugins": [
+    {
+      "name": "strategy-thinking",
+      "source": {
+        "source": "local",
+        "path": "./plugins/strategy-thinking"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "ai-automation",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ai-automation"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "lead-generation",
+      "source": {
+        "source": "local",
+        "path": "./plugins/lead-generation"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "content-distribution",
+      "source": {
+        "source": "local",
+        "path": "./plugins/content-distribution"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

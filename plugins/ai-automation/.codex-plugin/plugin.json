@@ -1,0 +1,33 @@
+{
+  "name": "ai-automation",
+  "version": "0.1.0",
+  "description": "AI workflow architecture skills for turning manual business processes into agents, SOPs, and automation plans",
+  "author": {
+    "name": "John Peslar AI",
+    "url": "https://www.youtube.com/@JohnPeslarAi"
+  },
+  "interface": {
+    "displayName": "AI Automation",
+    "shortDescription": "Design practical AI workflows",
+    "longDescription": "AI workflow architecture skills for turning manual business processes into agents, SOPs, approval loops, and implementation plans.",
+    "developerName": "John Peslar AI",
+    "category": "Productivity",
+    "defaultPrompt": "Use $ai-workflow-architect to turn this manual process into an AI-assisted workflow.",
+    "capabilities": [
+      "Workflow mapping",
+      "AI automation planning",
+      "SOP design"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "keywords": [
+    "ai-automation",
+    "agents",
+    "workflow",
+    "sop",
+    "operations"
+  ],
+  "skills": "./skills/"
+}

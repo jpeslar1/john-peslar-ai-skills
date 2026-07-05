@@ -1,0 +1,33 @@
+{
+  "name": "content-distribution",
+  "version": "0.1.0",
+  "description": "Founder content skills for LinkedIn, newsletters, YouTube ideas, and distribution systems",
+  "author": {
+    "name": "John Peslar AI",
+    "url": "https://www.youtube.com/@JohnPeslarAi"
+  },
+  "interface": {
+    "displayName": "Content Distribution",
+    "shortDescription": "Founder content systems",
+    "longDescription": "Founder content skills for turning expertise, notes, calls, product work, and case studies into LinkedIn posts, newsletters, YouTube ideas, and weekly distribution systems.",
+    "developerName": "John Peslar AI",
+    "category": "Productivity",
+    "defaultPrompt": "Use $founder-content-engine to turn these notes into a week of founder content.",
+    "capabilities": [
+      "Founder content",
+      "LinkedIn posts",
+      "Newsletter planning"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "keywords": [
+    "content",
+    "linkedin",
+    "newsletter",
+    "youtube",
+    "founder-brand"
+  ],
+  "skills": "./skills/"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "lead-generation",
+  "version": "0.1.0",
+  "description": "Lead generation skills for lead magnets, LinkedIn signals, warm outreach, and audience capture",
+  "author": {
+    "name": "John Peslar AI",
+    "url": "https://www.youtube.com/@JohnPeslarAi"
+  },
+  "interface": {
+    "displayName": "Lead Generation",
+    "shortDescription": "Lead magnets and LinkedIn signals",
+    "longDescription": "Lead generation skills for building useful lead magnets, mining LinkedIn buying signals, and turning warm signals into outreach angles.",
+    "developerName": "John Peslar AI",
+    "category": "Productivity",
+    "defaultPrompt": "Use $lead-magnet-factory to create a lead magnet and distribution plan for my offer.",
+    "capabilities": [
+      "Lead magnet creation",
+      "LinkedIn signal mining",
+      "Warm outreach"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "keywords": [
+    "lead-generation",
+    "lead-magnets",
+    "linkedin",
+    "outreach",
+    "buying-signals"
+  ],
+  "skills": "./skills/"
+}
