@@ -1,20 +1,20 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "john-peslar-ai-skills",
-  "description": "Public agent skills from John Peslar AI for business strategy, AI automation, lead generation, founder content, and offer building",
+  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, lead generation, founder content, and offer building",
   "owner": {
     "name": "John Peslar AI",
     "email": "john@launchpadfast.com"
   },
   "metadata": {
-    "description": "Public agent skills from John Peslar AI for business strategy, AI automation, lead generation, founder content, and offer building",
-    "version": "0.1.0"
+    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, lead generation, founder content, and offer building",
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "strategy-thinking",
-      "description": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching and offer stack design",
-      "version": "0.1.0",
+      "description": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching, My First Million-style idea generation, Shaan Puri-inspired founder thinking, and offer stack design",
+      "version": "0.2.0",
       "author": {
         "name": "John Peslar AI",
         "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -28,6 +28,9 @@
         "business-planning",
         "founder",
         "chamath",
+        "my-first-million",
+        "shaan-puri",
+        "business-ideas",
         "offer",
         "decision-making"
       ],
@@ -35,6 +38,8 @@
       "strict": false,
       "skills": [
         "./chamath-strategy-coach",
+        "./my-first-million-idea-engine",
+        "./shaan-puri-founder-brain",
         "./offer-stack-builder"
       ]
     },

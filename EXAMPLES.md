@@ -22,6 +22,22 @@ My problem:
 Ask me the questions first, then give me a 30-day operating cadence.
 ```
 
+```text
+Use $my-first-million-idea-engine to generate 20 business ideas from this trend:
+
+[paste trend, market, or audience]
+
+For each idea, include the buyer, why now, first test, and rough revenue path. Then pick the top 3.
+```
+
+```text
+Use $shaan-puri-founder-brain to help me choose between these business directions:
+
+[paste options]
+
+I want the best loop, the mispriced asset, the highest-upside move, and a 7-day public proof sprint.
+```
+
 ## AI Automation
 
 ```text

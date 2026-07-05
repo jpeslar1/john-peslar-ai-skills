@@ -22,6 +22,8 @@ Install one skill:
 
 ```bash
 npx skills add jpeslar1/john-peslar-ai-skills/chamath-strategy-coach --global
+npx skills add jpeslar1/john-peslar-ai-skills/my-first-million-idea-engine --global
+npx skills add jpeslar1/john-peslar-ai-skills/shaan-puri-founder-brain --global
 npx skills add jpeslar1/john-peslar-ai-skills/ai-workflow-architect --global
 npx skills add jpeslar1/john-peslar-ai-skills/lead-magnet-factory --global
 ```
@@ -48,6 +50,8 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | Skill | Use It For |
 |---|---|
 | [`chamath-strategy-coach`](chamath-strategy-coach/SKILL.md) | Chamath-inspired strategy sessions, personal operating systems, capital allocation thinking, and hard-truth coaching |
+| [`my-first-million-idea-engine`](my-first-million-idea-engine/SKILL.md) | MFM-inspired business idea brainstorming, weird business teardowns, opportunity scoring, and execution plans |
+| [`shaan-puri-founder-brain`](shaan-puri-founder-brain/SKILL.md) | Shaan-inspired founder lane selection, mispriced assets, audience leverage, and fast public proof sprints |
 | [`ai-workflow-architect`](ai-workflow-architect/SKILL.md) | Turning manual business processes into AI-assisted workflows, agents, SOPs, and implementation plans |
 | [`lead-magnet-factory`](lead-magnet-factory/SKILL.md) | Creating lead magnets that convert attention into email subscribers, DMs, calls, and community members |
 | [`linkedin-signal-miner`](linkedin-signal-miner/SKILL.md) | Finding LinkedIn buying signals and turning them into warm outreach angles |
@@ -90,6 +94,74 @@ Use $chamath-strategy-coach to audit this annual plan and tell me what is real s
 
 ```text
 Use $chamath-strategy-coach to help me build a personal operating system for ambition, focus, and consistency.
+```
+
+---
+
+### [`my-first-million-idea-engine`](my-first-million-idea-engine/SKILL.md)
+
+My First Million-inspired business idea generator for turning trends, weird businesses, founder stories, boring markets, and platform shifts into concrete opportunities. Use it when you want more than a list of ideas: you want buyer, wedge, first test, risks, and execution path.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [My First Million](https://www.mfmpod.com/), hosted by [Sam Parr](https://x.com/theSamParr) and [Shaan Puri](https://x.com/ShaanVP). The official show positioning is that Sam and Shaan brainstorm business ideas every week, and HubSpot's MFM idea database turns episode ideas into a searchable business idea asset. This skill is not affiliated with or endorsed by My First Million, Sam Parr, Shaan Puri, or HubSpot.
+
+**Use when you need to:**
+
+- Brainstorm business ideas from a trend, market, audience, or asset
+- Find weird cash-flow businesses hiding in plain sight
+- Turn a founder story into business opportunities
+- Score ideas by speed to first dollar, founder fit, and upside
+- Extract the mechanism from a business without copying it blindly
+- Build a first test before writing software
+- Choose between cash-flow, media, service, AI, local, marketplace, or community ideas
+
+**Example prompts:**
+
+```text
+Use $my-first-million-idea-engine to generate 20 business ideas from this trend: AI agents for local service businesses.
+```
+
+```text
+Use $my-first-million-idea-engine to analyze this weird business and extract 5 startup ideas from it.
+```
+
+```text
+Use $my-first-million-idea-engine to score these ideas by speed to first dollar, founder fit, and upside.
+```
+
+---
+
+### [`shaan-puri-founder-brain`](shaan-puri-founder-brain/SKILL.md)
+
+Shaan Puri-inspired founder thinking skill for finding your lane, spotting mispriced assets, building audience leverage, copying proven patterns, and converting ideas into fast public proof. Use it when the real bottleneck is indecision, weak framing, or too much private thinking.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Shaan Puri](https://www.shaanpuri.com/), founder, investor, and creator of My First Million. His public writing covers finding your thing, mispriced assets, audience building, shameless cloning, constraints, and founder life. This skill is not affiliated with or endorsed by Shaan Puri.
+
+**Use when you need to:**
+
+- Choose between multiple founder directions
+- Find the repeatable loop you can keep doing
+- Identify mispriced assets in your audience, network, skills, or market
+- Turn a vague idea into a 7-day public proof sprint
+- Build audience leverage around a business
+- Copy a proven business or content pattern ethically
+- Stop overthinking and pick the next move
+
+**Example prompts:**
+
+```text
+Use $shaan-puri-founder-brain to help me find my thing from these 5 business directions.
+```
+
+```text
+Use $shaan-puri-founder-brain to find mispriced assets in my current business and audience.
+```
+
+```text
+Use $shaan-puri-founder-brain to turn this idea into a 7-day public proof sprint.
 ```
 
 ---
