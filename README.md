@@ -26,6 +26,7 @@ npx skills add jpeslar1/john-peslar-ai-skills/my-first-million-idea-engine --glo
 npx skills add jpeslar1/john-peslar-ai-skills/shaan-puri-founder-brain --global
 npx skills add jpeslar1/john-peslar-ai-skills/ai-workflow-architect --global
 npx skills add jpeslar1/john-peslar-ai-skills/lead-magnet-factory --global
+npx skills add jpeslar1/john-peslar-ai-skills/sales-funnel-systems-auditor --global
 ```
 
 ### With Codex Plugins
@@ -55,6 +56,7 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`ai-workflow-architect`](ai-workflow-architect/SKILL.md) | Turning manual business processes into AI-assisted workflows, agents, SOPs, and implementation plans |
 | [`lead-magnet-factory`](lead-magnet-factory/SKILL.md) | Creating lead magnets that convert attention into email subscribers, DMs, calls, and community members |
 | [`linkedin-signal-miner`](linkedin-signal-miner/SKILL.md) | Finding LinkedIn buying signals and turning them into warm outreach angles |
+| [`sales-funnel-systems-auditor`](sales-funnel-systems-auditor/SKILL.md) | Auditing founder-led funnels, offer ladders, nurture, bootcamp drips, and sales-system leaks |
 | [`founder-content-engine`](founder-content-engine/SKILL.md) | Turning founder expertise into LinkedIn posts, newsletters, YouTube ideas, and reusable content systems |
 | [`offer-stack-builder`](offer-stack-builder/SKILL.md) | Packaging services, products, bonuses, proof, guarantees, and pricing into a clearer offer |
 
@@ -264,6 +266,40 @@ Use $linkedin-signal-miner to turn these LinkedIn posts into outreach angles wit
 
 ```text
 Use $linkedin-signal-miner to design a daily 30-minute prospecting workflow for my founder-led sales motion.
+```
+
+---
+
+### [`sales-funnel-systems-auditor`](sales-funnel-systems-auditor/SKILL.md)
+
+Founder-led funnel audit skill for finding where attention, lead magnets, newsletters, communities, webinars, bootcamps, SaaS products, and DFY/DWY offers leak revenue. Use it when the business has enough activity but the buyer journey feels confusing, inconsistent, or too dependent on the founder.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Based on:** John's operating-system approach to lead generation, AI SDR offers, bootcamp launches, LeadPanther, Zevari, Agent J, and sales-system audits. It also incorporates the practical lesson that many funnels do not need more traffic first - they need clearer offer routing, pipeline visibility, and owner-independent follow-up.
+
+**Use when you need to:**
+
+- Audit a funnel and find the real leak
+- Clarify a messy offer ladder
+- Route leads between free, community, bootcamp, DFY, and SaaS offers
+- Improve a bootcamp, webinar, or launch drip sequence
+- Diagnose owner-dependent sales and feast/famine revenue
+- Build a dashboard for opens, clicks, replies, deposits, calls, and referrals
+- Turn delivery proof into acquisition, upsells, and referrals
+
+**Example prompts:**
+
+```text
+Use $sales-funnel-systems-auditor to audit my funnel and tell me where the revenue is leaking.
+```
+
+```text
+Use $sales-funnel-systems-auditor to clean up my offer ladder across newsletter, community, bootcamp, DFY, and SaaS.
+```
+
+```text
+Use $sales-funnel-systems-auditor to improve this bootcamp drip sequence and make the buyer routing clearer.
 ```
 
 ---

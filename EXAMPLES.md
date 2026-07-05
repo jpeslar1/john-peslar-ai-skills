@@ -80,6 +80,29 @@ Offer:
 Give me signal categories, example posts to look for, outreach angles, and a daily review workflow.
 ```
 
+```text
+Use $sales-funnel-systems-auditor to audit this funnel:
+
+Audience:
+[followers, list size, community size, traffic]
+
+Current flow:
+[top of funnel -> lead capture -> nurture -> offers -> sales process]
+
+Offers:
+[free, paid community, bootcamp, DFY, SaaS, coaching, etc.]
+
+Tell me the main leak, the offer ladder fix, the routing matrix, and the next 7 days of action.
+```
+
+```text
+Use $sales-funnel-systems-auditor to improve this bootcamp drip sequence:
+
+[paste sequence]
+
+I want the diagnosis, buyer-state routing, CTA cleanup, proof gaps, objection handling, and final-close structure.
+```
+
 ## Content
 
 ```text
@@ -151,4 +174,14 @@ ICP:
 
 Assets:
 [describe current content, lists, proof, and tools]
+```
+
+```text
+Use $sales-funnel-systems-auditor and $offer-stack-builder together.
+
+First, find where this funnel is leaking.
+Then rebuild the offer ladder and primary CTA for each buyer state.
+
+Business context:
+[paste funnel, products, list/community numbers, offers, and recent launch results]
 ```
