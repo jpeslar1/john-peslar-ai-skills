@@ -74,6 +74,17 @@ The goal is to turn the funnel into a visible, measurable, repeatable system.
 6. **Recommend the operating cadence**
    Include weekly review, dashboard metrics, follow-up rules, proof capture, and referral prompts.
 
+## Will Barron Source Lens
+
+This skill is partly based on public sales-system lessons from **Will Barron** and his YouTube channel, [`@wbarron`](https://www.youtube.com/@wbarron). Barron is the founder of Salesman.com / Salesman.org and publicly positions his work around coaching 2,000+ business owners and salespeople to large cumulative revenue outcomes. His strongest YouTube content repeatedly diagnoses the same problem in service businesses: the owner does not need more random tactics first; they need a visible, measurable sales system that does not live only in the founder's head.
+
+Why trust this lens:
+
+- His public positioning claims 2,000+ coached business owners and salespeople, plus large cumulative revenue outcomes.
+- His best-performing videos center on practical sales-system problems: fake-full pipeline, inconsistent follow-up, feast/famine revenue, owner bottlenecks, and simple sales processes.
+- The ideas are directly useful for founder-led funnels, bootcamps, DFY services, communities, and AI SDR offers because they focus on operationalizing sales behavior rather than adding more top-of-funnel noise.
+- This skill is not affiliated with or endorsed by Will Barron or Salesman.com. Use the lens as a practical diagnostic pattern, not as a claim of partnership.
+
 ## Barron-Style Sales System Lens
 
 Use this diagnostic when the user has founder-led sales, a service offer, a bootcamp, a coaching offer, or a DFY/DWY implementation offer.
