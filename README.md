@@ -72,7 +72,7 @@ Chamath-inspired strategy coaching for business decisions, capital allocation, f
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [Chamath Palihapitiya](https://x.com/chamath) and his public YouTube channel, including videos on business advice, investing, elite performance, risk, status, and consistency. This skill is not affiliated with or endorsed by Chamath Palihapitiya.
+**Source inspiration:** [Chamath Palihapitiya](https://x.com/chamath) and his public YouTube channel ([YouTube](https://www.youtube.com/@chamath)), including videos on business advice, investing, elite performance, risk, status, and consistency. This skill is not affiliated with or endorsed by Chamath Palihapitiya.
 
 **Use when you need to:**
 
@@ -106,7 +106,7 @@ My First Million-inspired business idea generator for turning trends, weird busi
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [My First Million](https://www.mfmpod.com/), hosted by [Sam Parr](https://x.com/theSamParr) and [Shaan Puri](https://x.com/ShaanVP). The official show positioning is that Sam and Shaan brainstorm business ideas every week, and HubSpot's MFM idea database turns episode ideas into a searchable business idea asset. This skill is not affiliated with or endorsed by My First Million, Sam Parr, Shaan Puri, or HubSpot.
+**Source inspiration:** [My First Million](https://www.mfmpod.com/) and its public YouTube channel ([YouTube](https://www.youtube.com/@MyFirstMillionPod)), hosted by [Sam Parr](https://x.com/theSamParr) and [Shaan Puri](https://x.com/ShaanVP). The official show positioning is that Sam and Shaan brainstorm business ideas every week, and HubSpot's MFM idea database turns episode ideas into a searchable business idea asset. This skill is not affiliated with or endorsed by My First Million, Sam Parr, Shaan Puri, or HubSpot.
 
 **Use when you need to:**
 
@@ -140,7 +140,7 @@ Shaan Puri-inspired founder thinking skill for finding your lane, spotting mispr
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [Shaan Puri](https://www.shaanpuri.com/), founder, investor, and creator of My First Million. His public writing covers finding your thing, mispriced assets, audience building, shameless cloning, constraints, and founder life. This skill is not affiliated with or endorsed by Shaan Puri.
+**Source inspiration:** [Shaan Puri](https://www.shaanpuri.com/) ([X](https://x.com/ShaanVP)), founder, investor, and creator of My First Million. His public writing covers finding your thing, mispriced assets, audience building, shameless cloning, constraints, and founder life. This skill is not affiliated with or endorsed by Shaan Puri.
 
 **Use when you need to:**
 
@@ -174,7 +174,7 @@ Business process automation skill for turning manual work into AI-assisted workf
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Based on:** John's practical AI automation work across client operations, lead generation, content systems, and founder workflows. Follow John's builds on [YouTube](https://www.youtube.com/@JohnPeslarAi) or join [Agent J](https://www.skool.com/agent-j).
+**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's practical AI automation work across client operations, lead generation, content systems, and founder workflows. It also draws from live build and education work inside [Agent J](https://www.skool.com/agent-j).
 
 **Use when you need to:**
 
@@ -208,7 +208,7 @@ Lead magnet creation skill for turning an offer, audience, pain point, or conten
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Product connection:** This skill pairs naturally with [LeadPanther](https://leadpanther.ai), John's lead magnet and LinkedIn DM infrastructure, but it is useful with any lead capture workflow.
+**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's lead magnet, comment-to-DM, and demand-capture work. It pairs naturally with [LeadPanther](https://leadpanther.ai), John's lead magnet and LinkedIn DM infrastructure, but it is useful with any lead capture workflow.
 
 **Use when you need to:**
 
@@ -242,7 +242,7 @@ LinkedIn lead generation skill for finding buying signals and turning them into 
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Product connection:** This skill maps to John's LinkedIn growth and signal-based outreach work, including [LeadPanther](https://leadpanther.ai) and AI-assisted prospecting workflows.
+**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's LinkedIn growth, buying-signal mining, warm outreach, and AI-assisted prospecting workflows. It also maps to John's [LeadPanther](https://leadpanther.ai) work.
 
 **Use when you need to:**
 
@@ -276,7 +276,7 @@ Founder-led funnel audit skill for finding where attention, lead magnets, newsle
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Based on:** John's operating-system approach to lead generation, AI SDR offers, bootcamp launches, LeadPanther, Zevari, Agent J, and sales-system audits. It also incorporates the practical lesson that many funnels do not need more traffic first - they need clearer offer routing, pipeline visibility, and owner-independent follow-up.
+**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi), [John Peslar on X](https://x.com/johnwhereareu), and [Will Barron](https://www.youtube.com/@wbarron). The skill combines John's operating-system approach to lead generation, AI SDR offers, bootcamp launches, [LeadPanther](https://leadpanther.ai), [Zevari](https://zevari.ai), and [Agent J](https://www.skool.com/agent-j) with Barron's public sales-system lessons around pipeline visibility, follow-up, feast/famine revenue, and owner-independent sales process. This skill is not affiliated with or endorsed by Will Barron or Salesman.com.
 
 **Use when you need to:**
 
@@ -310,7 +310,7 @@ Founder content system for turning expertise, calls, product work, webinars, not
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Based on:** John's founder-led content system across [YouTube](https://www.youtube.com/@JohnPeslarAi), LinkedIn, newsletters, webinars, and Agent J education. Join [Agent J](https://www.skool.com/agent-j) for live AI automation builds.
+**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's founder-led content system across YouTube, LinkedIn, newsletters, webinars, and Agent J education. It also draws from live AI automation builds inside [Agent J](https://www.skool.com/agent-j).
 
 **Use when you need to:**
 
@@ -344,7 +344,7 @@ Offer design skill for packaging services, SaaS products, AI automation offers, 
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Based on:** John's offer-building work across AI automation, lead generation, community, and productized service offers. This skill is designed to make offers easier to understand, easier to buy, and easier to deliver.
+**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's offer-building work across AI automation, lead generation, community, and productized service offers. This skill is designed to make offers easier to understand, easier to buy, and easier to deliver.
 
 **Use when you need to:**
 
