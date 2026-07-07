@@ -140,7 +140,7 @@ Shaan Puri-inspired founder thinking skill for finding your lane, spotting mispr
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [Shaan Puri](https://www.shaanpuri.com/) ([X](https://x.com/ShaanVP)), founder, investor, and creator of My First Million. His public writing covers finding your thing, mispriced assets, audience building, shameless cloning, constraints, and founder life. This skill is not affiliated with or endorsed by Shaan Puri.
+**Source inspiration:** [Shaan Puri](https://www.shaanpuri.com/) ([X](https://x.com/ShaanVP)) and public [My First Million](https://www.mfmpod.com/) patterns. The skill is based on public Shaan Puri essays, public My First Million patterns, and public founder history. This skill is not affiliated with or endorsed by Shaan Puri or My First Million.
 
 **Use when you need to:**
 
@@ -174,7 +174,7 @@ Business process automation skill for turning manual work into AI-assisted workf
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's practical AI automation work across client operations, lead generation, content systems, and founder workflows. It also draws from live build and education work inside [Agent J](https://www.skool.com/agent-j).
+**Source inspiration:** No external person or source inspiration is named in `ai-workflow-architect/SKILL.md`.
 
 **Use when you need to:**
 
@@ -208,7 +208,7 @@ Lead magnet creation skill for turning an offer, audience, pain point, or conten
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's lead magnet, comment-to-DM, and demand-capture work. It pairs naturally with [LeadPanther](https://leadpanther.ai), John's lead magnet and LinkedIn DM infrastructure, but it is useful with any lead capture workflow.
+**Source inspiration:** No external person or source inspiration is named in `lead-magnet-factory/SKILL.md`.
 
 **Use when you need to:**
 
@@ -242,7 +242,7 @@ LinkedIn lead generation skill for finding buying signals and turning them into 
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's LinkedIn growth, buying-signal mining, warm outreach, and AI-assisted prospecting workflows. It also maps to John's [LeadPanther](https://leadpanther.ai) work.
+**Source inspiration:** No external person or source inspiration is named in `linkedin-signal-miner/SKILL.md`.
 
 **Use when you need to:**
 
@@ -276,7 +276,7 @@ Founder-led funnel audit skill for finding where attention, lead magnets, newsle
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi), [John Peslar on X](https://x.com/johnwhereareu), and [Will Barron](https://www.youtube.com/@wbarron). The skill combines John's operating-system approach to lead generation, AI SDR offers, bootcamp launches, [LeadPanther](https://leadpanther.ai), [Zevari](https://zevari.ai), and [Agent J](https://www.skool.com/agent-j) with Barron's public sales-system lessons around pipeline visibility, follow-up, feast/famine revenue, and owner-independent sales process. This skill is not affiliated with or endorsed by Will Barron or Salesman.com.
+**Source inspiration:** [Will Barron](https://www.youtube.com/@wbarron), founder of [Salesman.com](https://salesman.com/) / [Salesman.org](https://salesman.org/), and his public sales-system lessons around visible, measurable sales systems, pipeline visibility, follow-up, feast/famine revenue, owner bottlenecks, and simple sales processes. This skill is not affiliated with or endorsed by Will Barron or Salesman.com.
 
 **Use when you need to:**
 
@@ -310,7 +310,7 @@ Founder content system for turning expertise, calls, product work, webinars, not
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's founder-led content system across YouTube, LinkedIn, newsletters, webinars, and Agent J education. It also draws from live AI automation builds inside [Agent J](https://www.skool.com/agent-j).
+**Source inspiration:** No external person or source inspiration is named in `founder-content-engine/SKILL.md`.
 
 **Use when you need to:**
 
@@ -344,7 +344,7 @@ Offer design skill for packaging services, SaaS products, AI automation offers, 
 
 **Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
 
-**Source inspiration:** [John Peslar AI](https://www.youtube.com/@JohnPeslarAi) and [John Peslar on X](https://x.com/johnwhereareu), based on John's offer-building work across AI automation, lead generation, community, and productized service offers. This skill is designed to make offers easier to understand, easier to buy, and easier to deliver.
+**Source inspiration:** No external person or source inspiration is named in `offer-stack-builder/SKILL.md`.
 
 **Use when you need to:**
 
