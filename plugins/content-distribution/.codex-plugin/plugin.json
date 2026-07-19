@@ -1,7 +1,7 @@
 {
   "name": "content-distribution",
-  "version": "0.1.0",
-  "description": "Founder content skills for LinkedIn, newsletters, YouTube ideas, and distribution systems",
+  "version": "0.2.0",
+  "description": "Founder content skills for LinkedIn, newsletters, YouTube ideas, and distribution systems, including a MrBeast-inspired content brain for packaging and retention",
   "author": {
     "name": "John Peslar AI",
     "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -16,7 +16,8 @@
     "capabilities": [
       "Founder content",
       "LinkedIn posts",
-      "Newsletter planning"
+      "Newsletter planning",
+      "YouTube packaging and retention"
     ]
   },
   "license": "MIT",
@@ -27,7 +28,10 @@
     "linkedin",
     "newsletter",
     "youtube",
-    "founder-brand"
+    "founder-brand",
+    "mrbeast",
+    "retention",
+    "thumbnails"
   ],
   "skills": "./skills/"
 }

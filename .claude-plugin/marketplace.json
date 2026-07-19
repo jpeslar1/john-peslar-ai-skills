@@ -8,7 +8,7 @@
   },
   "metadata": {
     "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, lead generation, funnel audits, founder content, and offer building",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "plugins": [
     {
@@ -98,8 +98,8 @@
     },
     {
       "name": "content-distribution",
-      "description": "Founder content skills for LinkedIn, newsletters, YouTube ideas, and distribution systems",
-      "version": "0.1.0",
+      "description": "Founder content skills for LinkedIn, newsletters, YouTube ideas, and distribution systems, including a MrBeast-inspired content brain for packaging and retention",
+      "version": "0.2.0",
       "author": {
         "name": "John Peslar AI",
         "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -113,12 +113,16 @@
         "linkedin",
         "newsletter",
         "youtube",
-        "founder-brand"
+        "founder-brand",
+        "mrbeast",
+        "retention",
+        "thumbnails"
       ],
       "source": "./",
       "strict": false,
       "skills": [
-        "./founder-content-engine"
+        "./founder-content-engine",
+        "./mrbeast-content-brain"
       ]
     }
   ]

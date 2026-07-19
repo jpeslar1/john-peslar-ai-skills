@@ -128,6 +128,22 @@ Offer:
 I want pillars, proof stories, recurring series ideas, and a weekly cadence.
 ```
 
+```text
+Use $mrbeast-content-brain to package this video idea into 8 titles and matching thumbnail concepts:
+
+[describe the idea, the channel, and the budget or constraints]
+
+Score each on click and legibility, then pick the strongest package.
+```
+
+```text
+Use $mrbeast-content-brain to map the retention curve for this video and tell me exactly what to cut:
+
+[paste the outline or rough script]
+
+Show cold open, open loops, escalations, wow beats, payoff, and a cut list.
+```
+
 ## Offers
 
 ```text

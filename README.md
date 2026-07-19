@@ -27,6 +27,7 @@ npx skills add jpeslar1/john-peslar-ai-skills/shaan-puri-founder-brain --global
 npx skills add jpeslar1/john-peslar-ai-skills/ai-workflow-architect --global
 npx skills add jpeslar1/john-peslar-ai-skills/lead-magnet-factory --global
 npx skills add jpeslar1/john-peslar-ai-skills/sales-funnel-systems-auditor --global
+npx skills add jpeslar1/john-peslar-ai-skills/mrbeast-content-brain --global
 ```
 
 ### With Codex Plugins
@@ -58,6 +59,7 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`linkedin-signal-miner`](linkedin-signal-miner/SKILL.md) | Finding LinkedIn buying signals and turning them into warm outreach angles |
 | [`sales-funnel-systems-auditor`](sales-funnel-systems-auditor/SKILL.md) | Auditing founder-led funnels, offer ladders, nurture, bootcamp drips, and sales-system leaks |
 | [`founder-content-engine`](founder-content-engine/SKILL.md) | Turning founder expertise into LinkedIn posts, newsletters, YouTube ideas, and reusable content systems |
+| [`mrbeast-content-brain`](mrbeast-content-brain/SKILL.md) | MrBeast-inspired video packaging, clickable titles and thumbnail concepts, retention mapping, escalating stakes, and high-energy scripting |
 | [`offer-stack-builder`](offer-stack-builder/SKILL.md) | Packaging services, products, bonuses, proof, guarantees, and pricing into a clearer offer |
 
 > **Looking for real-world scenarios?** See [EXAMPLES.md](EXAMPLES.md) for copy-paste prompts organized by workflow.
@@ -334,6 +336,39 @@ Use $founder-content-engine to create my content pillars for an AI automation bu
 
 ```text
 Use $founder-content-engine to turn this messy founder story into 5 LinkedIn posts and 3 YouTube ideas.
+```
+
+---
+
+### [`mrbeast-content-brain`](mrbeast-content-brain/SKILL.md)
+
+MrBeast-inspired content brain that reverse-engineers a video from the click backward: clickable titles and thumbnail concepts first, then a second-by-second retention map, escalating stakes, open loops with payoffs, and high-energy scripting. It captures publicly documented methodology and voice, not an audio deepfake, and it will not impersonate MrBeast or fabricate quotes.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [MrBeast (Jimmy Donaldson)](https://www.youtube.com/@MrBeast) and his public interviews, talks, and posts about titles, thumbnails, retention, and simplicity. This skill is not affiliated with or endorsed by MrBeast or Jimmy Donaldson.
+
+**Use when you need to:**
+
+- Package a video into clickable titles and thumbnail concepts before shooting
+- Diagnose why a finished video has weak retention and what to cut
+- Choose the most clickable idea from a list and understand why
+- Map a retention curve with open loops, resets, and payoffs
+- Simplify a premise until a 9-year-old and a 90-year-old both get it
+- Rewrite a cold open or hook in a high-energy creator voice
+
+**Example prompts:**
+
+```text
+Use $mrbeast-content-brain to package this video idea into 8 titles and thumbnail concepts.
+```
+
+```text
+Use $mrbeast-content-brain to map the retention curve for this 10-minute video and tell me what to cut.
+```
+
+```text
+Use $mrbeast-content-brain to pick the most clickable idea from these 6 and explain why.
 ```
 
 ---
