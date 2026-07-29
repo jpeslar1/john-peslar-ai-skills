@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "john-peslar-ai-skills",
-  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, lead generation, funnel audits, founder content, and offer building",
+  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, funnel audits, founder content, and offer building",
   "owner": {
     "name": "John Peslar AI",
     "email": "john@launchpadfast.com"
   },
   "metadata": {
-    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, lead generation, funnel audits, founder content, and offer building",
+    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, funnel audits, founder content, and offer building",
     "version": "0.4.0"
   },
   "plugins": [
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-automation",
-      "description": "AI workflow architecture skills for turning manual business processes into agents, SOPs, and automation plans",
-      "version": "0.1.0",
+      "description": "AI workflow and AI-assisted build audit skills for turning messy work into reliable agents, SOPs, automation plans, and verified software changes",
+      "version": "0.2.0",
       "author": {
         "name": "John Peslar AI",
         "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -60,12 +60,16 @@
         "agents",
         "workflow",
         "sop",
-        "operations"
+        "operations",
+        "claude-code",
+        "software-architecture",
+        "verification"
       ],
       "source": "./",
       "strict": false,
       "skills": [
-        "./ai-workflow-architect"
+        "./ai-workflow-architect",
+        "./claude-code-build-auditor"
       ]
     },
     {

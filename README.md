@@ -25,6 +25,7 @@ npx skills add jpeslar1/john-peslar-ai-skills/chamath-strategy-coach --global
 npx skills add jpeslar1/john-peslar-ai-skills/my-first-million-idea-engine --global
 npx skills add jpeslar1/john-peslar-ai-skills/shaan-puri-founder-brain --global
 npx skills add jpeslar1/john-peslar-ai-skills/ai-workflow-architect --global
+npx skills add jpeslar1/john-peslar-ai-skills/claude-code-build-auditor --global
 npx skills add jpeslar1/john-peslar-ai-skills/lead-magnet-factory --global
 npx skills add jpeslar1/john-peslar-ai-skills/sales-funnel-systems-auditor --global
 npx skills add jpeslar1/john-peslar-ai-skills/mrbeast-content-brain --global
@@ -55,6 +56,7 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`my-first-million-idea-engine`](my-first-million-idea-engine/SKILL.md) | MFM-inspired business idea brainstorming, weird business teardowns, opportunity scoring, and execution plans |
 | [`shaan-puri-founder-brain`](shaan-puri-founder-brain/SKILL.md) | Shaan-inspired founder lane selection, mispriced assets, audience leverage, and fast public proof sprints |
 | [`ai-workflow-architect`](ai-workflow-architect/SKILL.md) | Turning manual business processes into AI-assisted workflows, agents, SOPs, and implementation plans |
+| [`claude-code-build-auditor`](claude-code-build-auditor/SKILL.md) | Auditing AI-assisted builds for bloat, over-instruction, weak architecture, and missing verification |
 | [`lead-magnet-factory`](lead-magnet-factory/SKILL.md) | Creating lead magnets that convert attention into email subscribers, DMs, calls, and community members |
 | [`linkedin-signal-miner`](linkedin-signal-miner/SKILL.md) | Finding LinkedIn buying signals and turning them into warm outreach angles |
 | [`sales-funnel-systems-auditor`](sales-funnel-systems-auditor/SKILL.md) | Auditing founder-led funnels, offer ladders, nurture, bootcamp drips, and sales-system leaks |
@@ -200,6 +202,40 @@ Use $ai-workflow-architect to audit this SOP and show me where AI can save time 
 
 ```text
 Use $ai-workflow-architect to design an approval-based workflow for publishing webinar clips across YouTube, LinkedIn, and Instagram.
+```
+
+---
+
+### [`claude-code-build-auditor`](claude-code-build-auditor/SKILL.md)
+
+Claude Code build audit skill for deciding whether an AI-assisted build is over-instructed, under-instructed, bloated, poorly verified, or architecturally hard for agents and humans to maintain. Use it before large agent runs, during implementation drift, after model upgrades, and before shipping.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** Boris Cherny and the public Y Combinator talk, [Boris Cherny: Building Claude Code](https://www.youtube.com/watch?v=qyPCVqFUyDo). This skill is not affiliated with or endorsed by Boris Cherny, Anthropic, Claude Code, or Y Combinator.
+
+**Use when you need to:**
+
+- Decide whether an architecture is simple enough for an AI agent and a developer to maintain
+- Catch AI-generated bloat, duplicate abstractions, speculative files, and weak tests
+- Decide whether the agent has too many instructions, too few instructions, or the wrong context
+- Turn repeated agent failures into a prompt, skill, MCP context source, code comment, or eval
+- Audit a Claude Code or Codex plan before letting it run for a long build
+- Re-check old skills, hooks, and prompts after a model upgrade
+- Build a verification plan before shipping AI-written code
+
+**Example prompts:**
+
+```text
+Use $claude-code-build-auditor to audit this architecture before I let Claude Code build it.
+```
+
+```text
+Use $claude-code-build-auditor to review this AI-generated diff for bloat, duplicate abstractions, and missing verification.
+```
+
+```text
+Use $claude-code-build-auditor to decide whether this repeated Claude Code failure should become a prompt instruction, a skill, an MCP context source, or a test.
 ```
 
 ---

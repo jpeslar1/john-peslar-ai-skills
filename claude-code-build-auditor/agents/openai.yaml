@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Code Build Auditor"
+  short_description: "Audit AI-assisted builds safely"
+  default_prompt: "Use $claude-code-build-auditor to audit this AI-assisted build plan before we ship it."

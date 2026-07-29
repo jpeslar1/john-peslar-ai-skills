@@ -1,22 +1,25 @@
 {
   "name": "ai-automation",
-  "version": "0.1.0",
-  "description": "AI workflow architecture skills for turning manual business processes into agents, SOPs, and automation plans",
+  "version": "0.2.0",
+  "description": "AI workflow and AI-assisted build audit skills for turning messy work into reliable agents, SOPs, automation plans, and verified software changes",
   "author": {
     "name": "John Peslar AI",
     "url": "https://www.youtube.com/@JohnPeslarAi"
   },
   "interface": {
     "displayName": "AI Automation",
-    "shortDescription": "Design practical AI workflows",
-    "longDescription": "AI workflow architecture skills for turning manual business processes into agents, SOPs, approval loops, and implementation plans.",
+    "shortDescription": "Design and audit AI workflows",
+    "longDescription": "AI workflow and AI-assisted build audit skills for turning manual business processes into agents, SOPs, approval loops, implementation plans, and verified software changes.",
     "developerName": "John Peslar AI",
     "category": "Productivity",
-    "defaultPrompt": "Use $ai-workflow-architect to turn this manual process into an AI-assisted workflow.",
+    "defaultPrompt": "Use $claude-code-build-auditor to audit this AI-assisted build plan before we ship it.",
     "capabilities": [
       "Workflow mapping",
       "AI automation planning",
-      "SOP design"
+      "SOP design",
+      "Claude Code build audits",
+      "AI bloat control",
+      "Verification planning"
     ]
   },
   "license": "MIT",
@@ -27,7 +30,10 @@
     "agents",
     "workflow",
     "sop",
-    "operations"
+    "operations",
+    "claude-code",
+    "software-architecture",
+    "verification"
   ],
   "skills": "./skills/"
 }

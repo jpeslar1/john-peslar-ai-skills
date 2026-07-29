@@ -54,6 +54,30 @@ Use $ai-workflow-architect to audit this SOP and find where an AI agent could sa
 [paste SOP]
 ```
 
+```text
+Use $claude-code-build-auditor to audit this architecture before I let Claude Code build it:
+
+[paste architecture, file map, constraints, and intended behavior]
+
+Tell me what to delete, what the agent will misunderstand, what instructions are too much or too little, and what verification must happen before shipping.
+```
+
+```text
+Use $claude-code-build-auditor to review this AI-generated diff:
+
+[paste diff or summarize changed files]
+
+Find bloat, duplicate abstractions, weak tests, stale scaffolding, and the smallest safe next step.
+```
+
+```text
+Use $claude-code-build-auditor to turn this repeated agent failure into the right durable fix:
+
+[describe the failure and what has repeated]
+
+Decide whether this belongs in the prompt, a skill, MCP context, code comments, tests, or nowhere yet.
+```
+
 ## Lead Generation
 
 ```text
