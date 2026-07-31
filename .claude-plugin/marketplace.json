@@ -8,13 +8,13 @@
   },
   "metadata": {
     "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, funnel audits, founder content, and offer building",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "plugins": [
     {
       "name": "strategy-thinking",
-      "description": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching, My First Million-style idea generation, Shaan Puri-inspired founder thinking, and offer stack design",
-      "version": "0.2.0",
+      "description": "Strategy and decision-making skills for founders and operators, including Chamath-inspired strategy coaching, My First Million-style idea generation, Shaan Puri-inspired founder thinking, offer stack design, and Hormozi-style offer packaging",
+      "version": "0.3.0",
       "author": {
         "name": "John Peslar AI",
         "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -32,6 +32,8 @@
         "shaan-puri",
         "business-ideas",
         "offer",
+        "hormozi",
+        "grand-slam-offer",
         "decision-making"
       ],
       "source": "./",
@@ -40,7 +42,9 @@
         "./chamath-strategy-coach",
         "./my-first-million-idea-engine",
         "./shaan-puri-founder-brain",
-        "./offer-stack-builder"
+        "./offer-stack-builder",
+        "./hormozi-pitch",
+        "./hundred-million-offers"
       ]
     },
     {
@@ -74,8 +78,8 @@
     },
     {
       "name": "lead-generation",
-      "description": "Lead generation skills for lead magnets, LinkedIn signals, funnel audits, warm outreach, and audience capture",
-      "version": "0.2.0",
+      "description": "Lead generation skills for lead magnets, LinkedIn signals, funnel audits, warm outreach, audience capture, and buyer-attracting hooks",
+      "version": "0.3.0",
       "author": {
         "name": "John Peslar AI",
         "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -90,14 +94,17 @@
         "funnels",
         "linkedin",
         "outreach",
-        "buying-signals"
+        "buying-signals",
+        "hormozi",
+        "hooks"
       ],
       "source": "./",
       "strict": false,
       "skills": [
         "./lead-magnet-factory",
         "./linkedin-signal-miner",
-        "./sales-funnel-systems-auditor"
+        "./sales-funnel-systems-auditor",
+        "./hormozi-hooks"
       ]
     },
     {

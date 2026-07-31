@@ -191,6 +191,34 @@ Current price:
 [describe]
 ```
 
+```text
+Use $hormozi-hooks to generate buyer-attracting hooks for this offer:
+
+Offer:
+[describe]
+
+Audience:
+[describe]
+
+Give me variations for LinkedIn, ads, email subject lines, and landing page headlines. Pick the top 10 and explain why they work.
+```
+
+```text
+Use $hormozi-pitch to turn this rough offer into a launch-ready pitch:
+
+[paste offer]
+
+Include the Value Equation diagnosis, offer name options, value stack, bonus stack, guarantee options, objection handling, and short/medium/long pitch versions.
+```
+
+```text
+Use $hundred-million-offers to redesign this offer into a Grand Slam Offer:
+
+[paste offer, customer, current price, proof, and delivery model]
+
+Score the current offer, show what needs to change to reach 10/10, then rebuild the package with bonuses, guarantee, ethical urgency, and MAGIC name options.
+```
+
 ## Combined Workflows
 
 ```text

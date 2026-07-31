@@ -29,6 +29,9 @@ npx skills add jpeslar1/john-peslar-ai-skills/claude-code-build-auditor --global
 npx skills add jpeslar1/john-peslar-ai-skills/lead-magnet-factory --global
 npx skills add jpeslar1/john-peslar-ai-skills/sales-funnel-systems-auditor --global
 npx skills add jpeslar1/john-peslar-ai-skills/mrbeast-content-brain --global
+npx skills add jpeslar1/john-peslar-ai-skills/hormozi-hooks --global
+npx skills add jpeslar1/john-peslar-ai-skills/hormozi-pitch --global
+npx skills add jpeslar1/john-peslar-ai-skills/hundred-million-offers --global
 ```
 
 ### With Codex Plugins
@@ -63,6 +66,9 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`founder-content-engine`](founder-content-engine/SKILL.md) | Turning founder expertise into LinkedIn posts, newsletters, YouTube ideas, and reusable content systems |
 | [`mrbeast-content-brain`](mrbeast-content-brain/SKILL.md) | MrBeast-inspired video packaging, clickable titles and thumbnail concepts, retention mapping, escalating stakes, and high-energy scripting |
 | [`offer-stack-builder`](offer-stack-builder/SKILL.md) | Packaging services, products, bonuses, proof, guarantees, and pricing into a clearer offer |
+| [`hormozi-hooks`](hormozi-hooks/SKILL.md) | Generating buyer-attracting hooks for posts, ads, emails, and landing pages using Hormozi-style outcome, speed, effort, and objection framing |
+| [`hormozi-pitch`](hormozi-pitch/SKILL.md) | Turning rough offers into launch-ready pitches with value stacks, guarantees, urgency, objections, and short/medium/long pitch versions |
+| [`hundred-million-offers`](hundred-million-offers/SKILL.md) | Creating Grand Slam Offers using the Value Equation, bonus stacking, guarantees, ethical scarcity, MAGIC naming, and market selection |
 
 > **Looking for real-world scenarios?** See [EXAMPLES.md](EXAMPLES.md) for copy-paste prompts organized by workflow.
 
@@ -439,6 +445,105 @@ Use $offer-stack-builder to turn this service into a productized offer with bonu
 
 ```text
 Use $offer-stack-builder to audit this landing page offer and tell me why buyers might hesitate.
+```
+
+---
+
+### [`hormozi-hooks`](hormozi-hooks/SKILL.md)
+
+Hormozi-style hook generator for posts, ads, emails, and landing pages. Use it when content is not getting attention, hooks feel generic, or you need buyer-attracting opening lines tied to a specific audience, outcome, pain, speed, and objection.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** Alex Hormozi's public books, videos, and offer/copy frameworks around specificity, outcomes, speed, effort reduction, and objection removal. This skill is not affiliated with or endorsed by Alex Hormozi or Acquisition.com.
+
+**Use when you need to:**
+
+- Make weak hooks more specific and buyer-relevant
+- Generate outcome, time, effort, callout, contrarian, pain, mechanism, and transformation hooks
+- Turn a vague offer into concrete attention-grabbing angles
+- Match hooks to ads, organic posts, emails, and landing pages
+- Add speed, ease, and objection handling without making false claims
+
+**Example prompts:**
+
+```text
+Use $hormozi-hooks to generate hooks for this offer and pick the top 10.
+```
+
+```text
+Use $hormozi-hooks to rewrite these LinkedIn openings so they attract buyers, not just views.
+```
+
+```text
+Use $hormozi-hooks to create ad, email, and landing page hook variations for this lead magnet.
+```
+
+---
+
+### [`hormozi-pitch`](hormozi-pitch/SKILL.md)
+
+Hormozi-style pitch builder for turning a raw product, service, or offer into a clearer pitch with a value proposition, value stack, bonuses, pricing logic, guarantee options, urgency, objection handling, and short/medium/long pitch versions.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** Alex Hormozi's public offer-building and pitch frameworks, especially the Value Equation, value stacking, guarantees, and urgency/scarcity principles. This skill is not affiliated with or endorsed by Alex Hormozi or Acquisition.com.
+
+**Use when you need to:**
+
+- Turn a rough offer into a launch-ready pitch
+- Diagnose why an offer feels vague, risky, slow, or too expensive
+- Build a value stack and bonus stack
+- Choose a guarantee that fits the model and risk
+- Write short, medium, and long pitch versions
+- Prepare a landing page, sales call, ad, or DM pitch
+
+**Example prompts:**
+
+```text
+Use $hormozi-pitch to turn this rough AI automation service into a compelling pitch.
+```
+
+```text
+Use $hormozi-pitch to improve this offer before I launch it.
+```
+
+```text
+Use $hormozi-pitch to create a value stack, guarantee, objection responses, and landing page pitch for this program.
+```
+
+---
+
+### [`hundred-million-offers`](hundred-million-offers/SKILL.md)
+
+Grand Slam Offer creation framework for making an offer more compelling using the Value Equation, starving-crowd selection, 10x value pricing, bonus stacking, guarantees, ethical scarcity, urgency, and MAGIC naming.
+
+**Skill author:** WondelAI
+
+**Source inspiration:** Alex Hormozi's public offer framework from *$100M Offers* and *$100M Leads*. This skill is not affiliated with or endorsed by Alex Hormozi, Acquisition.com, or WondelAI.
+
+**Use when you need to:**
+
+- Create or audit a Grand Slam Offer
+- Score an offer against the Value Equation
+- Find the weak row in an offer diagnostic
+- Build a bonus stack that kills objections
+- Design a guarantee or risk reversal
+- Add real urgency or scarcity
+- Name an offer using the MAGIC formula
+
+**Example prompts:**
+
+```text
+Use $hundred-million-offers to audit this offer and score it out of 10.
+```
+
+```text
+Use $hundred-million-offers to build a Grand Slam Offer for this service.
+```
+
+```text
+Use $hundred-million-offers to redesign this offer with bonuses, guarantee, pricing logic, scarcity, and MAGIC name options.
 ```
 
 ---

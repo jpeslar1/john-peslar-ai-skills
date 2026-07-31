@@ -1,15 +1,15 @@
 {
   "name": "lead-generation",
-  "version": "0.2.0",
-  "description": "Lead generation skills for lead magnets, LinkedIn signals, warm outreach, funnel audits, and audience capture",
+  "version": "0.3.0",
+  "description": "Lead generation skills for lead magnets, LinkedIn signals, warm outreach, funnel audits, audience capture, and buyer-attracting hooks",
   "author": {
     "name": "John Peslar AI",
     "url": "https://www.youtube.com/@JohnPeslarAi"
   },
   "interface": {
     "displayName": "Lead Generation",
-    "shortDescription": "Lead magnets, signals, and funnel audits",
-    "longDescription": "Lead generation skills for building useful lead magnets, mining LinkedIn buying signals, auditing funnel leaks, and turning warm signals into outreach angles.",
+    "shortDescription": "Lead magnets, signals, hooks, funnels",
+    "longDescription": "Lead generation skills for building useful lead magnets, mining LinkedIn buying signals, auditing funnel leaks, writing buyer-attracting hooks, and turning warm signals into outreach angles.",
     "developerName": "John Peslar AI",
     "category": "Productivity",
     "defaultPrompt": "Use $lead-magnet-factory to create a lead magnet and distribution plan for my offer.",
@@ -17,6 +17,7 @@
       "Lead magnet creation",
       "LinkedIn signal mining",
       "Warm outreach",
+      "Buyer-attracting hooks",
       "Funnel audits"
     ]
   },
@@ -29,7 +30,9 @@
     "funnels",
     "linkedin",
     "outreach",
-    "buying-signals"
+    "buying-signals",
+    "hormozi",
+    "hooks"
   ],
   "skills": "./skills/"
 }
