@@ -147,6 +147,32 @@ Use $kara-cold-outbound to critique and rewrite these cold LinkedIn DMs:
 Score each one against the rubric and rewrite them reply-first.
 ```
 
+```text
+Use $kellen-copy-coach to critique this outbound email:
+
+[paste email]
+
+Context:
+- Offer: [describe]
+- Persona: [describe]
+- Industry: [describe]
+- Goal: [reply, call, asset send, referral, etc.]
+
+Give me the blunt verdict, psychology, line edits, and 3 rewrite variants.
+```
+
+```text
+Use $kellen-copy-coach to find the strongest outbound angles for this offer:
+
+Offer:
+[describe]
+
+Target buyer:
+[describe]
+
+Give me angles by status quo pain, hidden cost, skepticism, personal motive, and low-friction CTA.
+```
+
 ## Content
 
 ```text

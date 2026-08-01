@@ -30,6 +30,7 @@ npx skills add jpeslar1/john-peslar-ai-skills/lead-magnet-factory --global
 npx skills add jpeslar1/john-peslar-ai-skills/sales-funnel-systems-auditor --global
 npx skills add jpeslar1/john-peslar-ai-skills/mrbeast-content-brain --global
 npx skills add jpeslar1/john-peslar-ai-skills/hormozi-hooks --global
+npx skills add jpeslar1/john-peslar-ai-skills/kellen-copy-coach --global
 npx skills add jpeslar1/john-peslar-ai-skills/hormozi-pitch --global
 npx skills add jpeslar1/john-peslar-ai-skills/hundred-million-offers --global
 npx skills add jpeslar1/john-peslar-ai-skills/kara-cold-outbound --global
@@ -68,6 +69,7 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`mrbeast-content-brain`](mrbeast-content-brain/SKILL.md) | MrBeast-inspired video packaging, clickable titles and thumbnail concepts, retention mapping, escalating stakes, and high-energy scripting |
 | [`offer-stack-builder`](offer-stack-builder/SKILL.md) | Packaging services, products, bonuses, proof, guarantees, and pricing into a clearer offer |
 | [`hormozi-hooks`](hormozi-hooks/SKILL.md) | Generating buyer-attracting hooks for posts, ads, emails, and landing pages using Hormozi-style outcome, speed, effort, and objection framing |
+| [`kellen-copy-coach`](kellen-copy-coach/SKILL.md) | Kellen Casebeer-inspired outbound copy critique, rewrites, psychology, CTA sharpening, and buyer-centric framing |
 | [`hormozi-pitch`](hormozi-pitch/SKILL.md) | Turning rough offers into launch-ready pitches with value stacks, guarantees, urgency, objections, and short/medium/long pitch versions |
 | [`hundred-million-offers`](hundred-million-offers/SKILL.md) | Creating Grand Slam Offers using the Value Equation, bonus stacking, guarantees, ethical scarcity, MAGIC naming, and market selection |
 | [`kara-cold-outbound`](kara-cold-outbound/SKILL.md) | Writing and fixing LinkedIn cold outbound: connection requests, DM icebreaker sequences, follow-ups, and reply-first messaging |
@@ -479,6 +481,40 @@ Use $hormozi-hooks to rewrite these LinkedIn openings so they attract buyers, no
 
 ```text
 Use $hormozi-hooks to create ad, email, and landing page hook variations for this lead magnet.
+```
+
+---
+
+### [`kellen-copy-coach`](kellen-copy-coach/SKILL.md)
+
+Kellen Casebeer-inspired outbound copy coaching for cold email, LinkedIn DMs, follow-ups, lead magnets, reply-generation, and offer/message framing. Use it when copy needs blunt feedback, buyer psychology, tighter CTAs, sharper first lines, less vendor-speak, or practical rewrite variants.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** Feedback patterns from [Kellen Casebeer](https://thedeallab.com/) of The Deal Lab. This skill is not affiliated with or endorsed by Kellen Casebeer or The Deal Lab.
+
+**Use when you need to:**
+
+- Critique cold email, LinkedIn DMs, follow-ups, or reply copy
+- Rewrite outbound into shorter, buyer-centric variants
+- Diagnose cognitive load, skepticism, proof relevance, and CTA friction
+- Turn vague personalization into real relevance
+- Separate “why they would talk” from “why they would buy”
+- Add psychological framing without making the copy academic
+- Generate new use cases, angles, and tests for an offer or persona
+
+**Example prompts:**
+
+```text
+Use $kellen-copy-coach to critique this cold email and rewrite it into 3 shorter variants.
+```
+
+```text
+Use $kellen-copy-coach to tell me why this LinkedIn DM feels too vendor-y and fix the CTA.
+```
+
+```text
+Use $kellen-copy-coach to generate outbound angles for this offer, then pick the one most likely to earn a reply.
 ```
 
 ---

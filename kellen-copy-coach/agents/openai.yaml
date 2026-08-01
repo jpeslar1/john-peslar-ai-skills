@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kellen Copy Coach"
+  short_description: "Kellen-style outbound copy feedback"
+  default_prompt: "Use $kellen-copy-coach to critique this outbound email and suggest sharper rewrites."

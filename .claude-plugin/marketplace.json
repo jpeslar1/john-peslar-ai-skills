@@ -1,14 +1,14 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "john-peslar-ai-skills",
-  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, funnel audits, founder content, and offer building",
+  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building",
   "owner": {
     "name": "John Peslar AI",
     "email": "john@launchpadfast.com"
   },
   "metadata": {
-    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, funnel audits, founder content, and offer building",
-    "version": "0.5.0"
+    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building",
+    "version": "0.6.0"
   },
   "plugins": [
     {
@@ -78,8 +78,8 @@
     },
     {
       "name": "lead-generation",
-      "description": "Lead generation skills for lead magnets, LinkedIn signals, funnel audits, warm outreach, audience capture, and buyer-attracting hooks",
-      "version": "0.3.0",
+      "description": "Lead generation skills for lead magnets, LinkedIn signals, funnel audits, warm outreach, outbound copy feedback, audience capture, and buyer-attracting hooks",
+      "version": "0.4.0",
       "author": {
         "name": "John Peslar AI",
         "url": "https://www.youtube.com/@JohnPeslarAi"
@@ -94,6 +94,9 @@
         "funnels",
         "linkedin",
         "outreach",
+        "copywriting",
+        "cold-email",
+        "buyer-psychology",
         "buying-signals",
         "hormozi",
         "hooks"
@@ -104,7 +107,8 @@
         "./lead-magnet-factory",
         "./linkedin-signal-miner",
         "./sales-funnel-systems-auditor",
-        "./hormozi-hooks"
+        "./hormozi-hooks",
+        "./kellen-copy-coach"
       ]
     },
     {
