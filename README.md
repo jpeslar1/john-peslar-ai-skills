@@ -32,6 +32,7 @@ npx skills add jpeslar1/john-peslar-ai-skills/mrbeast-content-brain --global
 npx skills add jpeslar1/john-peslar-ai-skills/hormozi-hooks --global
 npx skills add jpeslar1/john-peslar-ai-skills/hormozi-pitch --global
 npx skills add jpeslar1/john-peslar-ai-skills/hundred-million-offers --global
+npx skills add jpeslar1/john-peslar-ai-skills/kara-cold-outbound --global
 ```
 
 ### With Codex Plugins
@@ -69,6 +70,7 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`hormozi-hooks`](hormozi-hooks/SKILL.md) | Generating buyer-attracting hooks for posts, ads, emails, and landing pages using Hormozi-style outcome, speed, effort, and objection framing |
 | [`hormozi-pitch`](hormozi-pitch/SKILL.md) | Turning rough offers into launch-ready pitches with value stacks, guarantees, urgency, objections, and short/medium/long pitch versions |
 | [`hundred-million-offers`](hundred-million-offers/SKILL.md) | Creating Grand Slam Offers using the Value Equation, bonus stacking, guarantees, ethical scarcity, MAGIC naming, and market selection |
+| [`kara-cold-outbound`](kara-cold-outbound/SKILL.md) | Writing and fixing LinkedIn cold outbound: connection requests, DM icebreaker sequences, follow-ups, and reply-first messaging |
 
 > **Looking for real-world scenarios?** See [EXAMPLES.md](EXAMPLES.md) for copy-paste prompts organized by workflow.
 
@@ -544,6 +546,38 @@ Use $hundred-million-offers to build a Grand Slam Offer for this service.
 
 ```text
 Use $hundred-million-offers to redesign this offer with bonuses, guarantee, pricing logic, scarcity, and MAGIC name options.
+```
+
+---
+
+### [`kara-cold-outbound`](kara-cold-outbound/SKILL.md)
+
+LinkedIn cold outbound playbook for writing, rewriting, and critiquing connection requests, DM icebreaker sequences, and follow-ups. Built around reply-first messaging: the sequence exists to start conversations, not to beg for calls. Includes the last-message-as-inbox-preview technique, geo-personalization openers, objection handling, and a 7-point critique rubric.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Kara McMaster](https://www.karamcmaster.com/) and the LinkedIn outbound playbook she shared publicly on the Agent J AI Prompting Masterclass, filled out with Kellen Casebeer / GTM Cafe teachings and top-engagement practitioner research. This skill is not affiliated with or endorsed by Kara McMaster or Kellen Casebeer.
+
+**Use when you need to:**
+
+- Write a LinkedIn cold DM icebreaker sequence that gets replies
+- Fix connection requests or follow-ups that are getting ignored
+- Personalize openers beyond mail-merge variables
+- Handle objections and non-replies without burning the account
+- Score a draft sequence against the reply-first rubric
+
+**Example prompts:**
+
+```text
+Use $kara-cold-outbound to write a 4-message LinkedIn icebreaker sequence for this ICP and offer.
+```
+
+```text
+Use $kara-cold-outbound to critique this cold DM and rewrite it to optimize for a reply.
+```
+
+```text
+Use $kara-cold-outbound to build the follow-up plan after a prospect replies "not right now".
 ```
 
 ---

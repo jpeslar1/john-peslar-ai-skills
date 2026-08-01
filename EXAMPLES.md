@@ -127,6 +127,26 @@ Use $sales-funnel-systems-auditor to improve this bootcamp drip sequence:
 I want the diagnosis, buyer-state routing, CTA cleanup, proof gaps, objection handling, and final-close structure.
 ```
 
+```text
+Use $kara-cold-outbound to build a LinkedIn cold outbound sequence for this offer:
+
+Offer:
+[describe]
+
+ICP:
+[describe]
+
+I want a blank connection request strategy, a 4-message icebreaker sequence optimized for replies, follow-up timing, and objection-handling replies.
+```
+
+```text
+Use $kara-cold-outbound to critique and rewrite these cold LinkedIn DMs:
+
+[paste messages]
+
+Score each one against the rubric and rewrite them reply-first.
+```
+
 ## Content
 
 ```text
