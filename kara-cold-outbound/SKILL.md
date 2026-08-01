@@ -87,10 +87,18 @@ When reviewing a draft message or sequence, score it against:
 5. **Effort signal**: does it look like a human spent 60 seconds on this specific person?
 6. **Anti-pattern scan**: none of the spam-tell phrases above.
 7. **Trust gate**: if an offer is being made, is there tracked engagement justifying it?
+8. **Punctuation tell**: zero colons, zero em/en dashes, no hyphen used as a pause. If any message trips this, rewrite it into plain sentences before it ships (see House Style).
 
 ## House Style
 
-All copy: no em dashes or en dashes - use hyphens.
+Cold outbound has to read like a human typing in the DM box, not like formatted marketing copy. Punctuation is the biggest tell, so these rules are hard:
+
+- **No colons in message copy.** A colon reads as a header, a label, or a pitch setup ("Quick question:", "Here's the thing:", "One idea for you:"). Rewrite it as two short sentences or just delete it. Colons are fine in this doc and in internal notes, never in a message a prospect receives.
+- **No em dashes or en dashes, ever.** Use plain sentences.
+- **Do not use a hyphen as a dramatic pause or clause separator.** A hyphen standing in for an em dash ("I was in town last week - figured I'd reach out") is still the banned pattern wearing a disguise. Split it into two sentences instead. Real hyphens inside compound words (revenue-share, 30-second, follow-up) are fine and don't count.
+- **One or zero pieces of "clever" punctuation per message.** If a draft has multiple hyphens or any colon, it looks auto-generated, the exact thing that gets ignored. Prefer periods. Short, plain sentences beat punctuation gymnastics.
+
+Note: some examples elsewhere in this doc use hyphens as separators for readability in the doc itself. Do not copy that punctuation into actual messages, convert to plain sentences.
 
 ## Sources
 
