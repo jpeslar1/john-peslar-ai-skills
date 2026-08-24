@@ -1,0 +1,40 @@
+{
+  "name": "voice-dna",
+  "version": "0.1.0",
+  "description": "Voice DNA skills for writing in the style of iconic business and marketing voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, and Josh Braun - each with a researched voice fingerprint, verbatim-grounded corpus, and role playbooks (ghostwriting, hooks, LinkedIn content, cold outreach, follow-ups, objection handling, closing)",
+  "author": {
+    "name": "John Peslar AI",
+    "url": "https://www.youtube.com/@JohnPeslarAi"
+  },
+  "interface": {
+    "displayName": "Voice DNA",
+    "shortDescription": "Write in iconic business and marketing voices",
+    "longDescription": "Voice DNA skills for writing in the style of iconic business and marketing voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, and Josh Braun - each with a researched voice fingerprint, verbatim-grounded corpus, and role playbooks (ghostwriting, hooks, LinkedIn content, cold outreach, follow-ups, objection handling, closing).",
+    "developerName": "John Peslar AI",
+    "category": "Productivity",
+    "defaultPrompt": "Use $alex-hormozi-voice to ghostwrite a LinkedIn post about my offer in Hormozi's voice.",
+    "capabilities": [
+      "Ghostwriting",
+      "Hook creation",
+      "LinkedIn content",
+      "Cold outreach copy",
+      "Follow-up sequences",
+      "Objection handling",
+      "Sales closing",
+      "Contrarian takes",
+      "Newsletter writing",
+      "Build-in-public posts"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "keywords": [
+    "voice",
+    "ghostwriting",
+    "copywriting",
+    "linkedin",
+    "cold-outreach"
+  ],
+  "skills": "./skills/"
+}

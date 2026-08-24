@@ -73,6 +73,18 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`hormozi-pitch`](hormozi-pitch/SKILL.md) | Turning rough offers into launch-ready pitches with value stacks, guarantees, urgency, objections, and short/medium/long pitch versions |
 | [`hundred-million-offers`](hundred-million-offers/SKILL.md) | Creating Grand Slam Offers using the Value Equation, bonus stacking, guarantees, ethical scarcity, MAGIC naming, and market selection |
 | [`kara-cold-outbound`](kara-cold-outbound/SKILL.md) | Writing and fixing LinkedIn cold outbound: connection requests, DM icebreaker sequences, follow-ups, and reply-first messaging |
+| [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md) | Writing in Alex Hormozi's voice: blunt math-of-money frameworks for posts, hooks, offers, objections, and closes |
+| [`mark-cuban-voice`](mark-cuban-voice/SKILL.md) | Writing in Mark Cuban's voice: combative pragmatist takes, sales-cures-all commentary, and blunt objection handling |
+| [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md) | Writing in Kevin O'Leary's voice: money-has-no-feelings deal logic for closes, negotiations, and spicy commentary |
+| [`codie-sanchez-voice`](codie-sanchez-voice/SKILL.md) | Writing in Codie Sanchez's voice: contrarian boring-business content, hooks, newsletters, and LinkedIn posts |
+| [`naval-voice`](naval-voice/SKILL.md) | Writing in Naval Ravikant's voice: compressed aphorisms, leverage philosophy, and permanent-truth one-liners |
+| [`rory-sutherland-voice`](rory-sutherland-voice/SKILL.md) | Writing in Rory Sutherland's voice: behavioral-economics wit, psychological reframes, and counterintuitive persuasion |
+| [`adam-robinson-voice`](adam-robinson-voice/SKILL.md) | Writing in Adam Robinson's voice: build-in-public revenue transparency, anti-VC takes, and spicy LinkedIn posts |
+| [`lara-acosta-voice`](lara-acosta-voice/SKILL.md) | Writing in Lara Acosta's voice: high-emotion personal-brand LinkedIn content with format-perfect hooks |
+| [`tyler-denk-voice`](tyler-denk-voice/SKILL.md) | Writing in Tyler Denk's voice: operator-metrics build-in-public newsletters and startup humor |
+| [`justin-welsh-voice`](justin-welsh-voice/SKILL.md) | Writing in Justin Welsh's voice: calm solopreneur systems content for LinkedIn and newsletters |
+| [`chris-walker-voice`](chris-walker-voice/SKILL.md) | Writing in Chris Walker's voice: data-backed contrarian B2B demand-gen theses and belief-dismantling replies |
+| [`josh-braun-voice`](josh-braun-voice/SKILL.md) | Writing in Josh Braun's voice: anti-pitch cold outreach, no-reply follow-ups, and curiosity-first objection handling |
 
 > **Looking for real-world scenarios?** See [EXAMPLES.md](EXAMPLES.md) for copy-paste prompts organized by workflow.
 
@@ -617,6 +629,29 @@ Use $kara-cold-outbound to build the follow-up plan after a prospect replies "no
 ```
 
 ---
+
+
+### Voice DNA Collection
+
+Twelve skills for writing in the style of iconic business and marketing voices. Each skill carries a researched voice fingerprint (cadence, hook patterns, lexicon, taboo words, formatting), a corpus of short verbatim attributed excerpts in `references/voice-corpus.md`, and only the playbooks that fit that person (ghostwriting, hook creation, LinkedIn content, cold outreach, no-reply follow-ups, objection handling, sales closing, contrarian takes, newsletters, build-in-public).
+
+Business voices: [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md), [`mark-cuban-voice`](mark-cuban-voice/SKILL.md), [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md), [`codie-sanchez-voice`](codie-sanchez-voice/SKILL.md), [`naval-voice`](naval-voice/SKILL.md), [`rory-sutherland-voice`](rory-sutherland-voice/SKILL.md).
+
+Marketing and sales voices: [`adam-robinson-voice`](adam-robinson-voice/SKILL.md), [`lara-acosta-voice`](lara-acosta-voice/SKILL.md), [`tyler-denk-voice`](tyler-denk-voice/SKILL.md), [`justin-welsh-voice`](justin-welsh-voice/SKILL.md), [`chris-walker-voice`](chris-walker-voice/SKILL.md), [`josh-braun-voice`](josh-braun-voice/SKILL.md).
+
+Example prompts:
+
+```
+Use $alex-hormozi-voice to ghostwrite a LinkedIn post about my new offer.
+
+Use $josh-braun-voice to write a 4-touch cold email sequence plus no-reply follow-ups for this ICP.
+
+Use $lara-acosta-voice to turn this client win into a personal-brand LinkedIn post.
+
+Use $rory-sutherland-voice to reframe this pricing objection.
+```
+
+None of these skills are affiliated with or endorsed by the people they study. They are style studies grounded in public material, with guardrails against impersonation and fabricated quotes.
 
 ## Work With John
 

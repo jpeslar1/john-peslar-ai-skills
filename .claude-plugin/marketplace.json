@@ -8,7 +8,7 @@
   },
   "metadata": {
     "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "plugins": [
     {
@@ -138,6 +138,54 @@
       "skills": [
         "./founder-content-engine",
         "./mrbeast-content-brain"
+      ]
+    },
+    {
+      "name": "voice-dna",
+      "description": "Voice DNA skills for writing in the style of iconic business and marketing voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, and Josh Braun - each with a researched voice fingerprint, verbatim-grounded corpus, and role playbooks (ghostwriting, hooks, LinkedIn content, cold outreach, follow-ups, objection handling, closing)",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "voice",
+        "ghostwriting",
+        "copywriting",
+        "hormozi",
+        "mark-cuban",
+        "kevin-oleary",
+        "codie-sanchez",
+        "naval",
+        "rory-sutherland",
+        "adam-robinson",
+        "lara-acosta",
+        "tyler-denk",
+        "justin-welsh",
+        "chris-walker",
+        "josh-braun",
+        "linkedin",
+        "cold-outreach"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./alex-hormozi-voice",
+        "./mark-cuban-voice",
+        "./kevin-oleary-voice",
+        "./codie-sanchez-voice",
+        "./naval-voice",
+        "./rory-sutherland-voice",
+        "./adam-robinson-voice",
+        "./lara-acosta-voice",
+        "./tyler-denk-voice",
+        "./justin-welsh-voice",
+        "./chris-walker-voice",
+        "./josh-braun-voice"
       ]
     }
   ]
