@@ -1,14 +1,14 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "john-peslar-ai-skills",
-  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building",
+  "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building, and Agent J Sales 101 first-client execution",
   "owner": {
     "name": "John Peslar AI",
     "email": "john@launchpadfast.com"
   },
   "metadata": {
-    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building",
-    "version": "0.7.0"
+    "description": "Public agent skills from John Peslar AI for business strategy, business ideas, AI automation, AI-assisted build audits, lead generation, outbound copy feedback, funnel audits, founder content, and offer building, and Agent J Sales 101 first-client execution",
+    "version": "0.8.0"
   },
   "plugins": [
     {
@@ -186,6 +186,43 @@
         "./justin-welsh-voice",
         "./chris-walker-voice",
         "./josh-braun-voice"
+      ]
+    },
+    {
+      "name": "sales-101",
+      "description": "Agent J Sales 101 skills for a first paid automation client: ICP validation, offer design, first meetings, discovery, pricing, follow-up, objections, and weekly execution",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "sales",
+        "first-client",
+        "automation-business",
+        "icp",
+        "offers",
+        "discovery",
+        "outreach",
+        "agent-j"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./first-client-90-day-plan",
+        "./icp-validation-sprint",
+        "./first-client-offer-builder",
+        "./first-meeting-30-day-sprint",
+        "./sales-discovery-call-coach",
+        "./automation-pricing-and-close",
+        "./sales-follow-up-planner",
+        "./sales-objection-sorter",
+        "./weekly-sales-loop",
+        "./sales-pipeline-clinic"
       ]
     }
   ]

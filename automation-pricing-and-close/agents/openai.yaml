@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automation Pricing and Close"
+  short_description: "Cost the work and ask for a clear buying decision"
+  default_prompt: "Use $automation-pricing-and-close to price my scoped automation pilot and write a closing script with clear terms and a bounded risk reversal."

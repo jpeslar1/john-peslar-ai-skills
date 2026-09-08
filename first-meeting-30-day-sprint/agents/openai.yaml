@@ -1,0 +1,4 @@
+interface:
+  display_name: "First Meeting in 30 Days"
+  short_description: "Choose one channel and test your way to a meeting"
+  default_prompt: "Use $first-meeting-30-day-sprint to plan a 30-day sprint toward my first qualified meeting using one channel and a scored prospect list."

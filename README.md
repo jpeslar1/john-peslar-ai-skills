@@ -51,6 +51,7 @@ codex plugin install strategy-thinking@john-peslar-ai-skills
 codex plugin install ai-automation@john-peslar-ai-skills
 codex plugin install lead-generation@john-peslar-ai-skills
 codex plugin install content-distribution@john-peslar-ai-skills
+codex plugin install sales-101@john-peslar-ai-skills
 ```
 
 ## Skills
@@ -85,12 +86,243 @@ codex plugin install content-distribution@john-peslar-ai-skills
 | [`justin-welsh-voice`](justin-welsh-voice/SKILL.md) | Writing in Justin Welsh's voice: calm solopreneur systems content for LinkedIn and newsletters |
 | [`chris-walker-voice`](chris-walker-voice/SKILL.md) | Writing in Chris Walker's voice: data-backed contrarian B2B demand-gen theses and belief-dismantling replies |
 | [`josh-braun-voice`](josh-braun-voice/SKILL.md) | Writing in Josh Braun's voice: anti-pitch cold outreach, no-reply follow-ups, and curiosity-first objection handling |
+| [`first-client-90-day-plan`](first-client-90-day-plan/SKILL.md) | Plan the path from buyer evidence to a paid pilot |
+| [`icp-validation-sprint`](icp-validation-sprint/SKILL.md) | Validate a reachable buyer before writing outreach |
+| [`first-client-offer-builder`](first-client-offer-builder/SKILL.md) | Turn buyer pain into a clear, deliverable first offer |
+| [`first-meeting-30-day-sprint`](first-meeting-30-day-sprint/SKILL.md) | Choose one channel and test your way to a meeting |
+| [`sales-discovery-call-coach`](sales-discovery-call-coach/SKILL.md) | Run discovery that ends with a clear next step |
+| [`automation-pricing-and-close`](automation-pricing-and-close/SKILL.md) | Cost the work and ask for a clear buying decision |
+| [`sales-follow-up-planner`](sales-follow-up-planner/SKILL.md) | Follow up with relevance and a clear stopping point |
+| [`sales-objection-sorter`](sales-objection-sorter/SKILL.md) | Clarify objections and separate fit from persuasion |
+| [`weekly-sales-loop`](weekly-sales-loop/SKILL.md) | Keep sales moving when delivery gets busy |
+| [`sales-pipeline-clinic`](sales-pipeline-clinic/SKILL.md) | Find the sales bottleneck and rewrite one asset |
 
 > **Looking for real-world scenarios?** See [EXAMPLES.md](EXAMPLES.md) for copy-paste prompts organized by workflow.
 
 ---
 
+## Agent J Sales 101: first-client skill collection
+
+Ten practical skills turn the Sales 101 decks into buyer research, offers, outreach drafts, call preparation, and a weekly sales routine. Start with `first-client-90-day-plan` for the whole journey, or choose a specific skill for the step you are on. First-meeting and first-client deadlines are planning targets; real buyer responses determine progress.
+
+The ICP and offer skills follow the detailed Week 1 and Week 2 decks. The remaining skills expand the curriculum outline into practical workflows. [The source and coverage map](docs/sales-101-skill-map.md) identifies those adaptations and the educators credited by the decks.
+
+Each folder contains a portable `SKILL.md`; the skills also include Codex UI metadata and repository discovery links for Claude Code, Codex, and Cursor. They do not require the original PDFs, paid connectors, or the other skills to be installed. Where an assistant cannot install skill folders, provide the `SKILL.md` as instructions and include any linked reference file; that is a manual workflow, not a claim of native skill installation in every chat product.
+
+For Claude Code, add this repository as a plugin marketplace and select the `sales-101` collection. For agents using folder-based skills, use the repository's existing installation method and select any of the ten skills below.
+
 ## Skill Details
+
+### [`first-client-90-day-plan`](first-client-90-day-plan/SKILL.md)
+
+Build or revise a 90-day sales execution plan for an AI automation freelancer or agency seeking its first paid client. Use for the end-to-end journey from buyer validation to paid pilot, or adapt it to an internal sponsor-backed pilot.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, pages 2-15; week1-icp-deck.pdf, pages 3-10; week2-offer-deck.pdf, pages 4-12. The 90-day schedule and stage gates below are this skill's implementation of the curriculum, not a timeline promised by the decks.
+
+**Use when you need to:**
+
+- Plan the path from buyer evidence to a paid pilot.
+- Prioritize the next sales step without waiting to complete a twelve-week course.
+
+**Example prompt:**
+
+```text
+Use $first-client-90-day-plan to build a realistic 90-day plan for my first paid automation client using my skills, available hours, and buyer access.
+```
+
+---
+
+### [`icp-validation-sprint`](icp-validation-sprint/SKILL.md)
+
+Choose and validate a buyer ICP for an automation service using pain, ability to pay, reachability, five disqualifiers, and ten real conversations. Use when choosing a niche, getting poor-fit replies, or preparing a first-meeting campaign.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 week1-icp-deck.pdf, pages 3-10 and 12; curriculum-deck.pdf, page 4. The deck credits Josh Braun for the without formula and illumination questions.
+
+**Use when you need to:**
+
+- Validate a reachable buyer before writing outreach.
+- Choose KEEP, REWRITE, or KILL from real conversations and contradictory evidence.
+
+**Example prompt:**
+
+```text
+Use $icp-validation-sprint to help me choose an ICP and design ten conversations to validate pain, budget, and reachability in seven days.
+```
+
+---
+
+### [`first-client-offer-builder`](first-client-offer-builder/SKILL.md)
+
+Package a first automation service, retainer, or internal pilot into one evidence-based offer paragraph with a Value Equation review, delivery stack, bounded risk reversal, and three-buyer test. Use after choosing a buyer and before writing acquisition copy.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 week2-offer-deck.pdf, pages 3-12; curriculum-deck.pdf, page 5. The deck credits Alex Hormozi / Acquisition.com and $100M Offers for the Value Equation, stack, and risk reversal; the without phrasing follows the deck's Josh Braun influence.
+
+**Use when you need to:**
+
+- Turn buyer pain into a clear, deliverable first offer.
+- Check delivery feasibility and test whether three people can repeat the offer.
+
+**Example prompt:**
+
+```text
+Use $first-client-offer-builder to turn my ICP and buyer conversations into one credible automation offer I can test with three people.
+```
+
+---
+
+### [`first-meeting-30-day-sprint`](first-meeting-30-day-sprint/SKILL.md)
+
+Build a 30-day acquisition sprint toward a first qualified sales meeting using one channel, a scored 25-50-person prospect list, and a small reply-first test. Use when an automation freelancer or agency has a buyer hypothesis and needs a concrete route to conversations.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, pages 6-9; week1-icp-deck.pdf, pages 3-10; week2-offer-deck.pdf, page 13. The outline credits Josh Braun for 4T and Kara McMaster for LinkedIn four-touch outreach. Channel schedules, scoring anchors, and drafted messages here are practical adaptations, not verbatim educator scripts.
+
+**Use when you need to:**
+
+- Choose one channel and test your way to a meeting.
+- Create the actual outreach or lead magnet assets for one chosen channel.
+
+**Example prompt:**
+
+```text
+Use $first-meeting-30-day-sprint to plan a 30-day sprint toward my first qualified meeting using one channel and a scored prospect list.
+```
+
+---
+
+### [`sales-discovery-call-coach`](sales-discovery-call-coach/SKILL.md)
+
+Prepare, role-play, or review a first sales discovery call for an automation service or internal pilot. Use to uncover pain, funding, authority, and timing and end with a specific mutual next step or a clean disqualification.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 10, and week1-icp-deck.pdf, page 9. The decks credit Josh Braun for illumination questions. The agenda and review structure are adaptations of the curriculum outline.
+
+**Use when you need to:**
+
+- Run discovery that ends with a clear next step.
+- Review a call and distinguish a confirmed next step from a vague expression of interest.
+
+**Example prompt:**
+
+```text
+Use $sales-discovery-call-coach to prepare a discovery agenda and five questions for my next automation prospect call.
+```
+
+---
+
+### [`automation-pricing-and-close`](automation-pricing-and-close/SKILL.md)
+
+Price a scoped automation pilot or setup-plus-retainer service and draft a clear closing conversation. Use when a qualified opportunity is ready for commercial terms, pricing feels arbitrary, or another approver is needed.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 11; week2-offer-deck.pdf, pages 6-9. The decks credit Hormozi for value-based packaging and risk reversal. Cost calculations and commercial worksheets are this skill's adaptations.
+
+**Use when you need to:**
+
+- Cost the work and ask for a clear buying decision.
+- Separate setup costs, recurring costs, gross margin, and buyer willingness to pay.
+
+**Example prompt:**
+
+```text
+Use $automation-pricing-and-close to price my scoped automation pilot and write a closing script with clear terms and a bounded risk reversal.
+```
+
+---
+
+### [`sales-follow-up-planner`](sales-follow-up-planner/SKILL.md)
+
+Draft a bounded follow-up sequence for a real open deal or dormant sales thread using useful new information, buyer timing, and a respectful close-out. Use after a conversation, proposal, or unanswered next-step request.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 12. The outline credits Josh Braun for soft breakup and Kara McMaster for reply cadence. Exact schedules and example messages are adaptations, not verbatim source methods.
+
+**Use when you need to:**
+
+- Follow up with relevance and a clear stopping point.
+- Continue an open deal with useful information while respecting buyer timing and refusals.
+
+**Example prompt:**
+
+```text
+Use $sales-follow-up-planner to draft a useful, finite follow-up sequence from my actual prospect thread, including when to stop.
+```
+
+---
+
+### [`sales-objection-sorter`](sales-objection-sorter/SKILL.md)
+
+Diagnose and respond to sales objections with neutral menu questions and clear fit decisions. Use for price, timing, authority, risk, or send-me-information responses in an automation service or internal-pilot conversation.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 13. The outline credits Josh Braun for detachment, menu questions, and selling as sorting. Example replies and decision branches are adaptations.
+
+**Use when you need to:**
+
+- Clarify objections and separate fit from persuasion.
+- Handle price, timing, and information requests without pressure or invented certainty.
+
+**Example prompt:**
+
+```text
+Use $sales-objection-sorter to turn my top three buyer objections into neutral menu questions, response branches, and clear walk-away conditions.
+```
+
+---
+
+### [`weekly-sales-loop`](weekly-sales-loop/SKILL.md)
+
+Build or audit a sustainable weekly sales routine with List Build, Work-the-List, Reply Triage, and an evidence-based pipeline scorecard. Use when delivery work crowds out selling or a busy-looking pipeline is not producing meetings.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 14. The Week 1 and Week 2 source slides also reference Will Barron for sales cadence. Time budgets, cohort definitions, and diagnosis rules here are adaptations.
+
+**Use when you need to:**
+
+- Keep sales moving when delivery gets busy.
+- See where the pipeline is leaking without confusing message touches with unique prospects.
+
+**Example prompt:**
+
+```text
+Use $weekly-sales-loop to build a weekly sales routine that fits my delivery workload and tracks real replies, meetings, and paid deals.
+```
+
+---
+
+### [`sales-pipeline-clinic`](sales-pipeline-clinic/SKILL.md)
+
+Diagnose a stuck first-client pipeline and rewrite one high-impact ICP, offer, email, DM, or deal next-step asset. Use for a focused sales clinic based on real copy, buyer replies, and stage counts rather than a broad funnel redesign.
+
+**Skill author:** John Peslar AI
+
+**Source inspiration:** Agent J Sales 101 curriculum-deck.pdf, page 15, supported by week1-icp-deck.pdf, page 10, and week2-offer-deck.pdf, page 10. The outline credits Kellen Casebeer for copy critique, cognitive load, I:you ratio, and premature-pitch review.
+
+**Use when you need to:**
+
+- Find the sales bottleneck and rewrite one asset.
+- Fix one asset this week using buyer replies and real stage counts.
+
+**Example prompt:**
+
+```text
+Use $sales-pipeline-clinic to diagnose my stuck pipeline from real evidence, rewrite the highest-impact asset, and design one test for this week.
+```
+
+---
+
 
 ### [`chamath-strategy-coach`](chamath-strategy-coach/SKILL.md)
 

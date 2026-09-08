@@ -2,6 +2,90 @@
 
 Copy-paste prompts for the John Peslar AI skill library.
 
+## Agent J Sales 101
+
+Start with the 90-day plan for the whole journey, or use the skill matching your current bottleneck. Share actual evidence where available; the skills will label missing facts rather than invent them.
+
+### First Client in 90 Days
+
+```text
+Use $first-client-90-day-plan to build a realistic 90-day plan for my first paid automation client using my skills, available hours, and buyer access.
+
+I can build n8n workflows, have no paid clients, can spend six hours per week selling, and know three agency owners. I want a bounded paid pilot. Give me the first seven days and the evidence gates for the rest.
+```
+
+### ICP Validation in 7 Days
+
+```text
+Use $icp-validation-sprint to help me choose an ICP and design ten conversations to validate pain, budget, and reachability in seven days.
+
+I am considering small agencies and local service businesses. Here are my capabilities and any buyer conversations: [paste notes]. Give me a provisional ICP, five disqualifiers, interview drafts, and a ten-conversation log. Do not call it validated yet.
+```
+
+### First-Client Offer Builder
+
+```text
+Use $first-client-offer-builder to turn my ICP and buyer conversations into one credible automation offer I can test with three people.
+
+Here are my ICP, three buyer quotes, current offer, delivery capacity, and proof: [paste]. Give me one offer paragraph, four-lever scores, a bounded risk reversal, and a three-person say-it-back test.
+```
+
+### First Meeting in 30 Days
+
+```text
+Use $first-meeting-30-day-sprint to plan a 30-day sprint toward my first qualified meeting using one channel and a scored prospect list.
+
+Here are my ICP, offer, existing relationships, channel access, weekly hours, and any prospect records: [paste]. Choose one route, score only verified people, and produce the first ten-person test. Draft only; do not send.
+```
+
+### Sales Discovery Call Coach
+
+```text
+Use $sales-discovery-call-coach to prepare a discovery agenda and five questions for my next automation prospect call.
+
+Here are the prospect context, thread, and offer: [paste]. The call is 25 minutes. Give me the opening, five illumination questions, and a next-step close. Mark anything not established.
+```
+
+### Automation Pricing and Close
+
+```text
+Use $automation-pricing-and-close to price my scoped automation pilot and write a closing script with clear terms and a bounded risk reversal.
+
+The pilot needs 12 hours at a loaded cost of $50/hour plus $100 in direct costs. Ongoing support would be two hours/month plus $40 in platform costs. Use a proposed 50% gross margin to calculate floors, then show what buyer evidence is needed to choose the actual price.
+```
+
+### Sales Follow-up Planner
+
+```text
+Use $sales-follow-up-planner to draft a useful, finite follow-up sequence from my actual prospect thread, including when to stop.
+
+Here is the thread and the dates of our last exchanges: [paste]. Draft a few relevant touches and a respectful close-out. Respect any stated timing or refusal. Do not send or schedule them.
+```
+
+### Sales Objection Sorter
+
+```text
+Use $sales-objection-sorter to turn my top three buyer objections into neutral menu questions, response branches, and clear walk-away conditions.
+
+Here are the exact objections and context: [paste]. Give me one neutral menu question for each, plausible response branches, and when to walk away.
+```
+
+### Weekly Sales Loop
+
+```text
+Use $weekly-sales-loop to build a weekly sales routine that fits my delivery workload and tracks real replies, meetings, and paid deals.
+
+I have four hours weekly for selling alongside delivery. Here are last week's actuals and active deals: [paste]. Create time blocks that fit and a scorecard that separates unique prospects from total touches.
+```
+
+### Sales Pipeline Clinic
+
+```text
+Use $sales-pipeline-clinic to diagnose my stuck pipeline from real evidence, rewrite the highest-impact asset, and design one test for this week.
+
+Here are my ICP, offer, original message, actual replies, and cohort counts: [paste]. Identify the earliest supported failure, rewrite one asset, and define a one-week test without changing everything.
+```
+
 ## Founder Strategy
 
 ```text

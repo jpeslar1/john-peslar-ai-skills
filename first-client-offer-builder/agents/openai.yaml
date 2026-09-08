@@ -1,0 +1,4 @@
+interface:
+  display_name: "First-Client Offer Builder"
+  short_description: "Turn buyer pain into a clear, deliverable first offer"
+  default_prompt: "Use $first-client-offer-builder to turn my ICP and buyer conversations into one credible automation offer I can test with three people."

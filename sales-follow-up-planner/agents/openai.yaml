@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Follow-up Planner"
+  short_description: "Follow up with relevance and a clear stopping point"
+  default_prompt: "Use $sales-follow-up-planner to draft a useful, finite follow-up sequence from my actual prospect thread, including when to stop."

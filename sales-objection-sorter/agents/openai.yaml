@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Objection Sorter"
+  short_description: "Clarify objections and separate fit from persuasion"
+  default_prompt: "Use $sales-objection-sorter to turn my top three buyer objections into neutral menu questions, response branches, and clear walk-away conditions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ICP Validation in 7 Days"
+  short_description: "Validate a reachable buyer before writing outreach"
+  default_prompt: "Use $icp-validation-sprint to help me choose an ICP and design ten conversations to validate pain, budget, and reachability in seven days."

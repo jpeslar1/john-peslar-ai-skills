@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Discovery Call Coach"
+  short_description: "Run discovery that ends with a clear next step"
+  default_prompt: "Use $sales-discovery-call-coach to prepare a discovery agenda and five questions for my next automation prospect call."

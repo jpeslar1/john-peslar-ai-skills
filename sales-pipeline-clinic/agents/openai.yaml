@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Pipeline Clinic"
+  short_description: "Find the sales bottleneck and rewrite one asset"
+  default_prompt: "Use $sales-pipeline-clinic to diagnose my stuck pipeline from real evidence, rewrite the highest-impact asset, and design one test for this week."

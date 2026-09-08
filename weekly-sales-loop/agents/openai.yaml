@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Sales Loop"
+  short_description: "Keep sales moving when delivery gets busy"
+  default_prompt: "Use $weekly-sales-loop to build a weekly sales routine that fits my delivery workload and tracks real replies, meetings, and paid deals."

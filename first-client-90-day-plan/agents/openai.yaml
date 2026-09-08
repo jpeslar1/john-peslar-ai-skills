@@ -1,0 +1,4 @@
+interface:
+  display_name: "First Client in 90 Days"
+  short_description: "Plan the path from buyer evidence to a paid pilot"
+  default_prompt: "Use $first-client-90-day-plan to build a realistic 90-day plan for my first paid automation client using my skills, available hours, and buyer access."

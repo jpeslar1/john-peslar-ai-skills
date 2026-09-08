@@ -1,0 +1,39 @@
+{
+  "name": "sales-101",
+  "version": "0.1.0",
+  "description": "Agent J Sales 101 skills for a first paid automation client: ICP validation, offer design, first meetings, discovery, pricing, follow-up, objections, and weekly execution",
+  "author": {
+    "name": "John Peslar AI",
+    "url": "https://www.youtube.com/@JohnPeslarAi"
+  },
+  "interface": {
+    "displayName": "Sales 101",
+    "shortDescription": "From buyer validation to a first paid client",
+    "longDescription": "Agent J Sales 101 skills for a first paid automation client: ICP validation, offer design, first meetings, discovery, pricing, follow-up, objections, and weekly execution. Includes practical field tests and outcome tracking for freelancers, agencies, and internal operators.",
+    "developerName": "John Peslar AI",
+    "category": "Productivity",
+    "defaultPrompt": "Use $first-client-90-day-plan to plan my first paid automation engagement.",
+    "capabilities": [
+      "ICP validation",
+      "First-client offer design",
+      "First-meeting sprints",
+      "Discovery and closing",
+      "Follow-up and objections",
+      "Weekly sales execution"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+  "keywords": [
+    "sales",
+    "first-client",
+    "automation-business",
+    "icp",
+    "offers",
+    "discovery",
+    "outreach",
+    "agent-j"
+  ],
+  "skills": "./skills/"
+}
