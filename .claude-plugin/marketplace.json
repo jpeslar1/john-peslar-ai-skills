@@ -142,7 +142,7 @@
     },
     {
       "name": "voice-dna",
-      "description": "Voice DNA skills for writing in the style of iconic business and marketing voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, and Josh Braun - each with a researched voice fingerprint, verbatim-grounded corpus, and role playbooks (ghostwriting, hooks, LinkedIn content, cold outreach, follow-ups, objection handling, closing)",
+      "description": "Voice DNA skills for writing in the style of iconic business, marketing, sales, and copywriting voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, Josh Braun, Jen Allen-Knuth, 30MPC (Armand Farrokh and Nick Cegelski), Gary Halbert, Dan Kennedy, David Ogilvy, Harry Dry, April Dunford, Dave Gerhardt, Nick Huber, Sam Parr, Seth Godin, and Dan Koe - each with a researched voice fingerprint, sourced corpus, and role playbooks (ghostwriting, hooks, LinkedIn content, cold outreach, follow-ups, objection handling, closing, newsletters, positioning)",
       "version": "0.1.0",
       "author": {
         "name": "John Peslar AI",
@@ -169,7 +169,23 @@
         "chris-walker",
         "josh-braun",
         "linkedin",
-        "cold-outreach"
+        "cold-outreach",
+        "jen-allen-knuth",
+        "30mpc",
+        "gary-halbert",
+        "dan-kennedy",
+        "david-ogilvy",
+        "harry-dry",
+        "april-dunford",
+        "dave-gerhardt",
+        "nick-huber",
+        "sam-parr",
+        "seth-godin",
+        "dan-koe",
+        "direct-response",
+        "positioning",
+        "sales-scripts",
+        "newsletter"
       ],
       "source": "./",
       "strict": false,
@@ -185,7 +201,19 @@
         "./tyler-denk-voice",
         "./justin-welsh-voice",
         "./chris-walker-voice",
-        "./josh-braun-voice"
+        "./josh-braun-voice",
+        "./jen-allen-knuth-voice",
+        "./30mpc-voice",
+        "./gary-halbert-voice",
+        "./dan-kennedy-voice",
+        "./david-ogilvy-voice",
+        "./harry-dry-voice",
+        "./april-dunford-voice",
+        "./dave-gerhardt-voice",
+        "./nick-huber-voice",
+        "./sam-parr-voice",
+        "./seth-godin-voice",
+        "./dan-koe-voice"
       ]
     },
     {

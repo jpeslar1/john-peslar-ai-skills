@@ -86,6 +86,18 @@ codex plugin install sales-101@john-peslar-ai-skills
 | [`justin-welsh-voice`](justin-welsh-voice/SKILL.md) | Writing in Justin Welsh's voice: calm solopreneur systems content for LinkedIn and newsletters |
 | [`chris-walker-voice`](chris-walker-voice/SKILL.md) | Writing in Chris Walker's voice: data-backed contrarian B2B demand-gen theses and belief-dismantling replies |
 | [`josh-braun-voice`](josh-braun-voice/SKILL.md) | Writing in Josh Braun's voice: anti-pitch cold outreach, no-reply follow-ups, and curiosity-first objection handling |
+| [`jen-allen-knuth-voice`](jen-allen-knuth-voice/SKILL.md) | Writing in Jen Allen-Knuth's voice: status-quo-first B2B selling, problem-led cold outreach, and indecision objections |
+| [`30mpc-voice`](30mpc-voice/SKILL.md) | Writing in the 30 Minutes to President's Club voice: cold call openers, cold email teardowns, and objection talk tracks |
+| [`april-dunford-voice`](april-dunford-voice/SKILL.md) | Writing in April Dunford's voice: positioning components, competitive alternatives, and differentiated-value arguments |
+| [`dave-gerhardt-voice`](dave-gerhardt-voice/SKILL.md) | Writing in Dave Gerhardt's voice: B2B marketing-leadership content, brand-over-demand takes, and marketer-to-marketer candor |
+| [`nick-huber-voice`](nick-huber-voice/SKILL.md) | Writing in Nick Huber's voice: boring-business economics, anti-credentialism, and operator-receipts contrarianism |
+| [`sam-parr-voice`](sam-parr-voice/SKILL.md) | Writing in Sam Parr's voice: story-first business newsletters, curiosity-gap headlines, and folk-hero founder profiles |
+| [`seth-godin-voice`](seth-godin-voice/SKILL.md) | Writing in Seth Godin's voice: short gnomic marketing parables, daily-blog thinking, and generous brand philosophy |
+| [`dan-koe-voice`](dan-koe-voice/SKILL.md) | Writing in Dan Koe's voice: one-person-business philosophy, attention and identity essays, and long-form creator letters |
+| [`harry-dry-voice`](harry-dry-voice/SKILL.md) | Writing in Harry Dry's voice: concrete, falsifiable, whitespace-heavy marketing copy and headline work |
+| [`david-ogilvy-voice`](david-ogilvy-voice/SKILL.md) | Writing in David Ogilvy's voice: research-backed long-form advertising, headline discipline, and premium direct response |
+| [`gary-halbert-voice`](gary-halbert-voice/SKILL.md) | Writing in Gary Halbert's voice: direct-response sales letters, offer-driven email, and starving-crowd market thinking |
+| [`dan-kennedy-voice`](dan-kennedy-voice/SKILL.md) | Writing in Dan Kennedy's voice: No B.S. direct response, deadline-and-consequence selling, and accountable small-business marketing |
 | [`first-client-90-day-plan`](first-client-90-day-plan/SKILL.md) | Plan the path from buyer evidence to a paid pilot |
 | [`icp-validation-sprint`](icp-validation-sprint/SKILL.md) | Validate a reachable buyer before writing outreach |
 | [`first-client-offer-builder`](first-client-offer-builder/SKILL.md) | Turn buyer pain into a clear, deliverable first offer |
@@ -865,11 +877,17 @@ Use $kara-cold-outbound to build the follow-up plan after a prospect replies "no
 
 ### Voice DNA Collection
 
-Twelve skills for writing in the style of iconic business and marketing voices. Each skill carries a researched voice fingerprint (cadence, hook patterns, lexicon, taboo words, formatting), a corpus of short verbatim attributed excerpts in `references/voice-corpus.md`, and only the playbooks that fit that person (ghostwriting, hook creation, LinkedIn content, cold outreach, no-reply follow-ups, objection handling, sales closing, contrarian takes, newsletters, build-in-public).
+Twenty-four skills for writing in the style of iconic business, marketing, sales, and copywriting voices. Each skill carries a researched voice fingerprint (cadence, hook patterns, lexicon, taboo words, formatting), a corpus of short verbatim attributed excerpts in `references/voice-corpus.md`, and only the playbooks that fit that person (ghostwriting, hook creation, LinkedIn content, cold outreach, no-reply follow-ups, objection handling, sales closing, contrarian takes, newsletters, build-in-public).
 
-Business voices: [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md), [`mark-cuban-voice`](mark-cuban-voice/SKILL.md), [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md), [`codie-sanchez-voice`](codie-sanchez-voice/SKILL.md), [`naval-voice`](naval-voice/SKILL.md), [`rory-sutherland-voice`](rory-sutherland-voice/SKILL.md).
+Business and contrarian voices: [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md), [`mark-cuban-voice`](mark-cuban-voice/SKILL.md), [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md), [`codie-sanchez-voice`](codie-sanchez-voice/SKILL.md), [`naval-voice`](naval-voice/SKILL.md), [`rory-sutherland-voice`](rory-sutherland-voice/SKILL.md), [`nick-huber-voice`](nick-huber-voice/SKILL.md), [`seth-godin-voice`](seth-godin-voice/SKILL.md).
 
-Marketing and sales voices: [`adam-robinson-voice`](adam-robinson-voice/SKILL.md), [`lara-acosta-voice`](lara-acosta-voice/SKILL.md), [`tyler-denk-voice`](tyler-denk-voice/SKILL.md), [`justin-welsh-voice`](justin-welsh-voice/SKILL.md), [`chris-walker-voice`](chris-walker-voice/SKILL.md), [`josh-braun-voice`](josh-braun-voice/SKILL.md).
+Creator and newsletter voices: [`adam-robinson-voice`](adam-robinson-voice/SKILL.md), [`lara-acosta-voice`](lara-acosta-voice/SKILL.md), [`tyler-denk-voice`](tyler-denk-voice/SKILL.md), [`justin-welsh-voice`](justin-welsh-voice/SKILL.md), [`sam-parr-voice`](sam-parr-voice/SKILL.md), [`dan-koe-voice`](dan-koe-voice/SKILL.md).
+
+B2B marketing and positioning voices: [`chris-walker-voice`](chris-walker-voice/SKILL.md), [`april-dunford-voice`](april-dunford-voice/SKILL.md), [`dave-gerhardt-voice`](dave-gerhardt-voice/SKILL.md), [`harry-dry-voice`](harry-dry-voice/SKILL.md).
+
+Sales voices: [`josh-braun-voice`](josh-braun-voice/SKILL.md), [`jen-allen-knuth-voice`](jen-allen-knuth-voice/SKILL.md), [`30mpc-voice`](30mpc-voice/SKILL.md).
+
+Copywriting canon: [`david-ogilvy-voice`](david-ogilvy-voice/SKILL.md), [`gary-halbert-voice`](gary-halbert-voice/SKILL.md), [`dan-kennedy-voice`](dan-kennedy-voice/SKILL.md).
 
 Example prompts:
 
@@ -881,6 +899,14 @@ Use $josh-braun-voice to write a 4-touch cold email sequence plus no-reply follo
 Use $lara-acosta-voice to turn this client win into a personal-brand LinkedIn post.
 
 Use $rory-sutherland-voice to reframe this pricing objection.
+
+Use $30mpc-voice to write a cold call opener and a build-vs-buy objection talk track.
+
+Use $april-dunford-voice to run the five positioning components on this product.
+
+Use $seth-godin-voice to turn this observation into a 200-word post with a turn at the end.
+
+Use $david-ogilvy-voice to write 20 headlines from this product research.
 ```
 
 None of these skills are affiliated with or endorsed by the people they study. They are style studies grounded in public material, with guardrails against impersonation and fabricated quotes.
