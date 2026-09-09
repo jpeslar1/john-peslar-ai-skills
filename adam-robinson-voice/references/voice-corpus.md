@@ -4,6 +4,12 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Punctuation note.** One excerpt below (the "RB2B just hit $9M ARR" subject line in the subject-line hook set) preserves an em dash because it is a verbatim quotation. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
+
+**Numbering note.** Item numbers restart at 1 within each numbered section of this file ("Excerpts" runs 1-25; "Email newsletter excerpts" restarts at 1-20). This is a per-section count, not one continuous sequence across the whole file.
+
+**Provenance note.** Items 1-25 under "Excerpts" are read from public URLs (LinkedIn, newsletter, podcast, interview transcript) cited inline and are verbatim as published, except the two podcast/interview transcript groups (items 20-25) where punctuation is the transcriber's, not confirmed against the audio. Items 1-20 under "Email newsletter excerpts" are marked verified verbatim, read directly from the operator's own inbox rather than a public URL.
+
 ## Excerpts
 
 From LinkedIn:

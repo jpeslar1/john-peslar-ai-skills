@@ -1,22 +1,42 @@
 # Josh Braun Voice Source Map
 
 Research date: 2026-08-24
+Refresh cadence: every 6 months (next: 2027-03)
 
-Sources:
+## Primary sources
 
-- Josh Braun's site: `https://joshbraun.com/` (homepage, newsletter page)
-- Articles fetched in full: `ditch-the-pitch-poke-the-bear`, `poke-the-bear-cold-call-script`, `defusing-im-not-interested`, `we-already-have-a-vendor`
-- 15 Cold Email Copywriting Principles PDF (21 pages, read in full): `joshbraun.com/wp-content/uploads/2021/08/15coldemail-copywriting.pdf`
-- Public LinkedIn posts fetched in full: "28 sales truths" (~Mar 2023), "a simple way to get better at selling" (~Nov 2021), "8 follow up emails" (~Jul 2022), the 4T cold email template post (~Jan 2021)
-- Secondary framework confirmations (context only): leadiq.com and luru.app articles on the 4T template
+| Source | URL | What it gives | Access |
+|---|---|---|---|
+| Josh Braun's site | https://joshbraun.com/ | Homepage headlines, newsletter page, core positioning lines | Open |
+| "Ditch the pitch, poke the bear" | https://joshbraun.com/ditch-the-pitch-poke-the-bear/ | The poke-the-bear framework and example questions | Open |
+| "Poke the bear cold call script" | https://joshbraun.com/poke-the-bear-cold-call-script/ | Cold-call sequence structure, permission-opener example | Open |
+| "Defusing I'm not interested" | https://joshbraun.com/ | Objection-defusing register | Open |
+| "We already have a vendor" | https://joshbraun.com/ | Incumbent-vendor objection handling | Open |
+| 15 Cold Email Copywriting Principles (PDF) | https://joshbraun.com/wp-content/uploads/2021/08/15coldemail-copywriting.pdf | Most of the corpus: the 4T template, CTA set, example emails, principles 1-15 | Open |
+| LinkedIn public posts | linkedin.com/in/josh-braun (individual post URLs cited in voice-corpus.md) | Short-form register, aphorisms, "28 sales truths" | Login wall |
+| Secondary framework confirmations | leadiq.com, luru.app | Corroborate the 4T template shape; not quoted as his words | Open |
 
-## Public Positioning
+## What the corpus rests on
 
-Braun's verified properties: joshbraun.com (Braun Training), the Inside Selling podcast, and the Badass B2B Growth Guide course (Braun Sales Academy). His newsletter is unnamed on his site ("Join my newsletter... used by 12K+ people to sell without selling their soul"). Do NOT attribute a newsletter called "Bite-Sized Sales" to him; research could not verify it as his property. Former head of sales at Basecamp.
+Most of the verbatim corpus (items 18-33) comes from one PDF, the 15 Cold Email Copywriting Principles document, read in full. The remaining items come from four site articles read in full and four LinkedIn posts fetched as public post pages. Confidence is high for the PDF and site material since both were read in full; confidence on the LinkedIn posts is medium because LinkedIn is a login wall and post text can be edited or removed after capture.
 
-His public identity: selling is sorting, not convincing ("Sort me, don't sell me"); detach from the outcome; illuminate problems and let prospects persuade themselves.
+## Known gaps
 
-## Distinct Josh Braun Patterns
+- **No podcast or call-recording sample.** Braun hosts the Inside Selling podcast and runs live cold calls, but this corpus is 100% written (site, PDF, LinkedIn). His spoken timing, tone, and ad-libbed lines are not captured.
+- **Newsletter name unverified.** His site invites signup to an unnamed newsletter. Do not attribute a newsletter called "Bite-Sized Sales" to him; research at build time could not confirm it as his property.
+- **No Badass B2B Growth Guide course material.** The paid course likely contains additional framework detail (e.g. the full cold-call sequence beyond Permission/Verification/Context/Problem Identification/Labeling/Poke the Bear/Teaser) that was not reviewed.
+- **LinkedIn sample is small and dated.** Four posts, all from 2021-2023. His current LinkedIn register may have drifted since.
+- **Research date not re-verified since 2026-08-24.** This is a Batch 1 skill; treat any post-August-2026 material on joshbraun.com as unsampled.
+
+## Refresh instructions
+
+1. Re-fetch joshbraun.com's article list and any new PDFs published since 2026-08-24.
+2. Pull 5-10 recent LinkedIn posts from his public profile to refresh the short-form sample and check for drift.
+3. Check whether his newsletter has acquired an official name; update the Guardrails note in SKILL.md if so.
+4. If the Badass B2B Growth Guide becomes accessible, sample it for the full cold-call sequence and add framework detail.
+5. Replace stale excerpts in `voice-corpus.md` (1-3 lines, verbatim, attributed with URL) and re-estimate derived stats. His frameworks are stable; prioritize fresh example questions and teardowns over new theory.
+
+## Pattern notes
 
 ### 1. The 4T cold email
 
@@ -45,7 +65,3 @@ Jargon-heavy copy is "a vanilla scoop in a sea of vanilla scoops". His recurring
 ### 7. Miniature poetics
 
 One-line paragraphs, everyday analogies (dating, fishing, gardening, ice cream, video games), psychology named casually, and a genuine human beat to close.
-
-## Refreshing this skill
-
-To update from new material: fetch joshbraun.com's latest articles and any new PDFs, pull 5-10 recent LinkedIn posts from his public profile, and check whether his newsletter has acquired an official name (update the Guardrails note in SKILL.md if so). Replace stale excerpts in `voice-corpus.md` (1-3 lines, verbatim, attributed with URL) and re-estimate derived stats. His frameworks are stable; prioritize fresh example questions and teardowns over new theory.

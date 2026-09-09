@@ -4,7 +4,9 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-Excerpts were transcribed from fetched public pages and PDFs. Spot-check character-perfect fidelity before republishing any excerpt as a direct quote.
+**Provenance note.** All excerpts below were transcribed from fetched public pages and PDFs (joshbraun.com articles, the 15 Cold Email Copywriting Principles PDF, and public LinkedIn posts) on the research date. They are documented, not machine-verified character-by-character; spot-check fidelity before republishing any excerpt as a direct quote.
+
+**Punctuation note.** One excerpt below (item 33) preserves an en dash because it is a verbatim quotation. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
 ## Verbatim excerpts
 

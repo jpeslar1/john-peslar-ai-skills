@@ -6,6 +6,8 @@ The excerpts below are short quotations from public posts/interviews, included u
 
 Excerpts were transcribed from fetched public pages. Line breaks in LinkedIn posts may be lightly normalized by the fetch; spot-check before republishing any excerpt as a direct quote.
 
+**Provenance note.** Items 1-16 are LinkedIn posts fetched directly from his profile and are verbatim as fetched, subject to the line-break caveat above. Items 17-23 are podcast and interview lines sourced through third-party write-ups (mcgaw.io, Goldcast, provencontent.com, Fame.so, Dreamdata), not from an original transcript or recording; treat these as documented rather than independently verified.
+
 ## Verbatim excerpts
 
 1. "Lead Gen vs. Demand Gen. The reason I made this transition starting in 2017 is because I think like a BUSINESS LEADER, not a marketer. Here's the difference:"

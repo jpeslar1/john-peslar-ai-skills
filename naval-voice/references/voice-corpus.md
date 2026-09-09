@@ -4,6 +4,10 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Provenance note.** All excerpts below were transcribed from fetched public pages (X/the navalmanack.com archive, and Goodreads quote pages cross-checking the Almanack) on the research date. They are documented, not machine-verified character-by-character; spot-check fidelity before republishing any excerpt as a direct quote.
+
+**Punctuation note.** Two excerpts below (items 13 and 15) preserve an em dash and an en dash because they are verbatim quotations. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
+
 ## Verified excerpts
 
 1. "Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy."

@@ -4,6 +4,8 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Provenance note.** This corpus was built 2026-08-24, before this repo's verified/documented labeling convention existed. Every item below is sourced from a cited quote-archive URL (Shark Tank episode quote sites, interview aggregators such as graciousquotes.com, or Cuban's own company page) rather than a primary transcript or original recording fetched and confirmed by Claude this session. Under the current convention, treat every item here as `documented`, not `verified`.
+
 ## Excerpts
 
 1. "Work like there is someone working twenty-four hours a day to take it all away from you."

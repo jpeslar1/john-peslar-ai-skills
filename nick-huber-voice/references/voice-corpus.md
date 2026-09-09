@@ -4,7 +4,7 @@ Research date: 2026-09-09
 
 The excerpts below are short quotations from public blog posts and a published book excerpt, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** Items 1-28 were read directly from sweatystartup.com on the research date and are verbatim. Items 29-38 are from a publisher-hosted excerpt of The Sweaty Startup and are verbatim as published there. His X and LinkedIn short-form register was not captured; see `source-map.md`.
+**Provenance note.** Items 1-51 were read directly from the source and are verbatim. Items 1-28 are from sweatystartup.com. Items 29-38 are from a publisher-hosted excerpt of The Sweaty Startup. Items 39-51 are from his own public LinkedIn post permalinks, fetched logged out with no login and no bypass. His LinkedIn short-form register is now sampled (13 excerpts across 5 posts, section below); his X account, which carries the same register for a larger audience, was not captured this session. See `source-map.md` for exactly what that leaves open, including an editorial exclusion.
 
 ## Verbatim excerpts
 
@@ -114,6 +114,69 @@ Note the newsletter promo block at the top of that issue, separated by a divider
 38. "They launched a sweaty startup."
     All from the excerpt at https://www.porchlightbooks.com/blogs/news/the-sweaty-startup-excerpt
 
+### From LinkedIn post: "Self storage development DOES NOT pencil right now" (linkedin.com/in/sweatystartup, ~2024)
+
+Public post permalink, fetched logged out. No login used. https://www.linkedin.com/posts/sweatystartup_self-storage-development-does-not-pencil-activity-7125504267162947584-DKZU
+
+39. "Self storage development DOES NOT pencil right now. / Even at $25 / square foot rents."
+    Caps for the verdict, then a one-line concession that anticipates the counterargument before the math starts.
+
+### From LinkedIn post: "I bought a self storage facility in October 2020" (linkedin.com/in/sweatystartup, ~2023)
+
+Public post permalink, fetched logged out. https://www.linkedin.com/posts/sweatystartup_i-bought-a-self-storage-facility-in-october-activity-7090743891250872321-zko5
+
+40. "I bought a self storage facility in October 2020 for $1.2 million. / Today it's worth over $5 million. / Here's how we did it:"
+    The three-line hook: entry price, current value, then the colon that promises the mechanism.
+
+41. "Hard to operate so nobody wanted to buy it."
+    Four words doing the whole explanation of why the deal was available.
+
+### From LinkedIn post: "When we built our self storage facility from the ground up" (linkedin.com/in/sweatystartup, ~2023)
+
+Public post permalink, fetched logged out. https://www.linkedin.com/posts/sweatystartup_when-we-built-our-self-storage-facility-from-activity-7087440984325722112-GAk_
+
+42. "When we built our self storage facility from the ground up I didn't get a feasibility study or talk to any self storage operators."
+    States the reckless part first, no defense of it yet.
+
+43. "I stole an underwriting spreadsheet from Cubesmart's third party management I found online, built a package and took it to the banks to get the loan. / Took 8 banks to find one crazy enough."
+    The unglamorous receipt, then the specific count.
+
+44. "I was 25 years old in a town meeting arguing against 30 people who didn't want my project. I ended up winning. / I was a maniac looking back."
+    Age given as a fact, then the self-assessment held at arm's length in the closing fragment.
+
+### From LinkedIn post: "Linkedin is full of BAD BUSINESS ADVICE" (linkedin.com/in/sweatystartup, ~2021)
+
+Public post permalink, fetched logged out. https://www.linkedin.com/posts/sweatystartup_linkedin-is-full-of-bad-business-advice-activity-6953097335631417345-bNRG
+
+45. "Linkedin is full of BAD BUSINESS ADVICE. / Spewed by people who do a lot of thinking and not much doing."
+    Caps naming the target, then a one-line indictment of the advice-givers rather than the advice.
+
+46. "Starting a business isn't right for everyone. / 95% of folks are better off getting a job."
+    The contrarian correction of "everyone should start a business," backed by a stated percentage.
+
+47. "It's hard AF. Decisions are critical and plentiful. Risk is for real."
+    Three fragments in a row, each landing a separate hit.
+
+### From LinkedIn post: "The 'never give up' advice is bullshit" (linkedin.com/in/sweatystartup, ~2022)
+
+Public post permalink, fetched logged out. https://www.linkedin.com/posts/sweatystartup_the-never-give-up-advice-is-bullshit-activity-7043667772425347073-Oh4e
+
+48. "The "never give up" advice is bullshit. / Give up quickly."
+    Profanity landing on the received wisdom, not on a person; then the flat instruction that replaces it.
+
+49. "Time is more valuable than money."
+    The one-line close, no elaboration.
+
+### From LinkedIn post: "10 things I've changed my mind on recently" (linkedin.com/in/sweatystartup, ~2023)
+
+Public post permalink, fetched logged out. https://ie.linkedin.com/posts/sweatystartup_10-things-ive-changed-my-mind-on-recently-activity-7025823215629320192-021-
+
+50. "Being an entrepreneur isn't the best path for everyone"
+    Numbered-list item #1, framed as a reversal of his own earlier public stance.
+
+51. "Ego is a killer and leads to unhappiness."
+    Closing line of a numbered item, verdict with no hedge.
+
 ## Structural notes for the writer
 
 - Almost every paragraph in his long-form is one sentence. The white space is the format.
@@ -122,3 +185,5 @@ Note the newsletter promo block at the top of that issue, separated by a divider
 - Profanity appears about once per piece and is always doing emphasis work, never heat.
 - Capitals land on one or two words: PATIENCE, SKILLS.
 - The long-form register on his blog is noticeably more measured than the deliberately provocative short-form he is known for on social. Choose the register on purpose.
+- The LinkedIn short-form register (items 39-51) confirms the pattern: caps for one or two words, profanity landing on an idea rather than a person, a specific number or count in almost every post, and a numbered-list format for "changed my mind" and "worst advice" posts.
+- Editorial note on this batch: a well-known, highly public LinkedIn post of his ("the worst thing you can do as an entrepreneur is hire a social justice warrior") and a family/gender-roles post were found in the same search pass and deliberately excluded from this corpus. They are contrarian-adjacent but read as culture-war and personal-life provocation rather than the boring-business contrarianism this skill is built to imitate. This corpus samples the receipts-and-numbers contrarian register, not the inflammatory one. See `source-map.md`.

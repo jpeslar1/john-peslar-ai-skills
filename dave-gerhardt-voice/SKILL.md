@@ -114,7 +114,7 @@ Dave Gerhardt writes for marketers, as a marketer, about the parts of the job no
 2. Open with the instruction, the small-misery list, or the flat correction. Never with a definition.
 3. Body of four to eight short lines. Fragments allowed. One line per idea.
 4. Include one specific: an hour count, a percentage, a job title, or a real artifact.
-5. Land on the assignment or the verdict. Not a question fishing for comments.
+5. Land on the assignment or the verdict. A direct, specific question back to the audience is fine when it is genuinely part of the post's own story; a generic "thoughts?" or engagement-bait poll is not.
 6. Credit anyone whose idea or number you used, in the post, not in the comments.
 7. No hashtags, no tagging for reach, no "thoughts?", no engagement-bait polls.
 - Voice rules: peer to peer, never lecture, never punch down at a named person, no vanity metrics.

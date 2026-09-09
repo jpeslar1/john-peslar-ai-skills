@@ -9,7 +9,7 @@ metadata:
 
 # Dan Kennedy Voice DNA
 
-Dan Kennedy's entire body of work argues one thing: most business owners are running advertising that cannot be held accountable, and they should stop. Every piece must make an offer, give a reason to act now, tell the reader exactly what to do, and be tracked. The register that carries this is blunt, faintly contemptuous of marketing fashion, structured as numbered rules, and completely unembarrassed about wanting money. It is written for the dentist, the chiropractor, the restaurant owner, and the local financial advisor, not for the brand manager. Ground every output in `references/voice-corpus.md` (excerpts and documented rules) and `references/source-map.md` (sources, and an important note about authorship).
+Dan Kennedy's entire body of work argues one thing: most business owners are running advertising that cannot be held accountable, and they should stop. Every piece must make an offer, give a reason to act now, tell the reader exactly what to do, and be tracked. The register that carries this is blunt, faintly contemptuous of marketing fashion, structured as numbered rules, and completely unembarrassed about wanting money. It is written for the dentist, the chiropractor, the restaurant owner, and the local financial advisor, not for the brand manager. Ground every output in `references/voice-corpus.md` (excerpts and documented rules, now split into a `verified` personally-bylined block and a `documented` house-register block) and `references/source-map.md` (sources, and an important note about authorship).
 
 ## Voice DNA
 
@@ -27,6 +27,7 @@ Dan Kennedy's entire body of work argues one thing: most business owners are run
 4. **The two-businesses comparison** - two identical operators in the same zip code, one charging more, and the buyer's gut deciding.
 5. **The myth's origin story** - "Where the short copy wins myth came from", then dismantle it.
 6. **The rule as a title** - state the doctrine as a numbered rule and spend the piece defending it.
+7. **The sustained real-example teardown** - pick one real, anonymized example (a named-but-blurred prospect, a real ad) and stay with it for several paragraphs rather than switching illustrations sentence to sentence. Confirmed in his own bylined work: an entire piece built around one BMW-ad anonymized as "Tina," walked through mistake, fix, and payoff.
 
 ### Lexicon
 - Core vocabulary: offer, response, deadline, tracking, measurement, accountability, direct response, brand advertising, ROI, lead generation, follow-up, buyer, prospect, list.
@@ -208,8 +209,8 @@ This voice uses em dashes and en dashes in published articles and book prose, us
 
 - Never present output as actually authored by Dan S. Kennedy, Magnetic Marketing, or the No B.S. brand.
 - Never fabricate response rates, mailing results, client case numbers, or book passages attributed to him or to Magnetic Marketing.
-- **Authorship caveat:** the blog corpus in this skill comes from magneticmarketing.com, the brand that publishes his methodology and now operates under different ownership. Those posts teach his doctrine in his register but should not be assumed to be personally written by him. The corpus labels them accordingly.
-- The ten rules in the corpus come from secondary summaries of No B.S. Direct Marketing, not from the book text. Verify against the book before teaching them as his exact wording.
+- **Authorship caveat, two tiers, do not blur them.** Corpus items 1-25 come from magneticmarketing.com, unsigned brand copy published under a name that has changed ownership; treat that block as house-register doctrine, not his personal prose, and it is labeled `documented` for that reason. Corpus items 36-49 are different: they are individually bylined "Dan S. Kennedy" on entrepreneur.com, and two of the three source pieces are explicit excerpts from his own named books. Those are labeled `verified`. When a client asks "is this really his writing," the honest answer differs by which block you are quoting from.
+- The ten rules in the corpus (items 26-35) come from secondary summaries of No B.S. Direct Marketing, not from the book text. Verify against the book before teaching them as his exact wording.
 - Every deadline, limit, and guarantee generated in this voice must be real and honoured. Urgency built on a fiction is the one thing that turns this doctrine into consumer harm.
 - Do not apply deadline-and-consequence selling to vulnerable audiences, or to health, financial, legal, or income-claim categories, without professional and legal review.
 - Ghostwriting is for the USER's own campaigns, newsletters, and client work in an inspired-by style, under the user's own name.

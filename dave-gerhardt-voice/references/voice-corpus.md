@@ -4,7 +4,7 @@ Research date: 2026-09-09
 
 The excerpts below are short quotations from bylined public articles and secondary book summaries, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** Items 1-29 were read directly from exitfive.com and davegerhardt.com on the research date and are verbatim; items 1-28 are from articles carrying his byline. Items 30-32 come from third-party summaries of Founder Brand and are labeled `documented`. His LinkedIn short-form register, which is what most people know him for, was not captured; see `source-map.md`.
+**Provenance note.** Items 1-39 were read directly from the source and are verbatim. Items 1-29 are from exitfive.com and davegerhardt.com (items 1-28 carry his byline). Items 30-39 are from his own public LinkedIn post permalinks, fetched logged out with no login and no bypass. Items 40-42 come from third-party summaries of Founder Brand and are labeled `documented`. His LinkedIn short-form register is now sampled (10 excerpts across 3 posts, section below); his podcast and X/Twitter registers remain uncaptured. See `source-map.md`.
 
 ## Verbatim excerpts
 
@@ -101,13 +101,55 @@ The excerpts below are short quotations from bylined public articles and seconda
 29. "Hey I'm Dave Gerhardt. I spent 10+ years working in marketing and grew my career from PR intern to CMO. I worked as VP of Marketing at Drift ($1B exit) and CMO at Privy ($100M+ exit). Today I run Exit Five, the top community for B2B Marketers."
     https://davegerhardt.com/
 
+### From LinkedIn post: "Sometimes you need to go backward to go forward" (linkedin.com/in/davegerhardt, ~2024)
+
+Public post permalink, fetched logged out. No login used. https://www.linkedin.com/posts/davegerhardt_sometimes-you-need-to-go-backward-to-go-forward-activity-7166042639358742528-BY9G
+
+30. "Sometimes you need to go backward to go forward."
+    Opening line. One sentence, no lead-in.
+
+31. "I lost 1,000 customers and $100,000 in revenue when I moved Exit Five from Facebook Groups to Circle last year. I knew this would happen."
+    The cost stated as a number before the reasoning arrives.
+
+32. "This felt like ripping out a piece of legacy software. It would have been much easier to not do it."
+    The metaphor a marketer reaches for: software, not construction.
+
+33. "Often times you have to endure short term pain to get things in a better position for the long run, and we're there now."
+    The takeaway stated plainly, present tense close.
+
+34. "Don't forget about the art of business. Rip the bandaid."
+    Closing pair: an abstract imperative, then the concrete one repeating the post's own metaphor.
+
+### From LinkedIn post: "What was your path into marketing?" (linkedin.com/in/davegerhardt, ~2023)
+
+Public post permalink, fetched logged out. https://www.linkedin.com/posts/davegerhardt_what-was-your-path-into-marketing-i-was-activity-7055134980871446528-6W2V
+
+35. "What was your path into marketing? I was going to be a journalist."
+    Question first, then the one-line reversal that hooks it.
+
+36. "I did an internship at a local newspaper writing obituaries and working in sales with the triple A baseball team"
+    The self-deprecating specific detail that makes the origin story land.
+
+### From LinkedIn post: "Hey I'm Dave Gerhardt" (linkedin.com/in/davegerhardt, ~2025)
+
+Public post permalink, fetched logged out. https://www.linkedin.com/posts/davegerhardt_hey-im-dave-gerhardt-i-created-exit-five-activity-7378371732056883200-RnxI
+
+37. "I even once had hair! My wife says I'm more handsome now though, and she's quite pretty so that means a lot -- but the internet just boxes me in as the typical bald guy tech bro."
+    Self-deprecating aside that undercuts his own credibility bid before making it.
+
+38. "I wanted to talk about receipts, because in a world of fluff and online influencers, I actually have some receipts and I want to tell you about them here because it signals power, credibility, and makes it seem like I'm super rich, so:"
+    Names the persuasion move while making it, then colon-drops into the list.
+
+39. "Today I spend my time working on Exit Five, and it's actually been super fun and given me a bunch of purpose."
+    Plain-spoken register, no jargon, for a founder-brand claim.
+
 ## Documented, from secondary summaries of Founder Brand (2021)
 
 Verify against the book before republishing any of these as his exact wording.
 
-30. "People buy from people" as the book's central argument: buyers connect to a person more readily than to a company. `documented`
-31. The three keys to a founder becoming a publisher: post three to five times a week on social, start a niche podcast, make public speaking a priority whether or not you like it. `documented`
-32. "A founder with a brand gives your marketing efforts superpowers." `documented`
+40. "People buy from people" as the book's central argument: buyers connect to a person more readily than to a company. `documented`
+41. The three keys to a founder becoming a publisher: post three to five times a week on social, start a niche podcast, make public speaking a priority whether or not you like it. `documented`
+42. "A founder with a brand gives your marketing efforts superpowers." `documented`
 
 ## Structural notes for the writer
 

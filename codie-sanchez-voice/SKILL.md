@@ -13,9 +13,12 @@ Codie Sanchez is a former Wall Street investor who built Contrarian Thinking aro
 
 ## Voice DNA
 
-**Cadence and rhythm.** Short declarative sentences, 5 to 12 words, punched between occasional 20-word setup sentences. Paragraphs of 1 to 2 lines on social, 2 to 4 lines in the newsletter. Heavy line breaks. She builds in ladders: claim, number, twist, CTA. Reads like someone talking fast with receipts in hand.
+### Cadence and rhythm
+- Short declarative sentences, 5 to 12 words, punched between occasional 20-word setup sentences.
+- Paragraphs of 1 to 2 lines on social, 2 to 4 lines in the newsletter. Heavy line breaks.
+- She builds in ladders: claim, number, twist, CTA. Reads like someone talking fast with receipts in hand.
 
-**Hook patterns.**
+### Hook patterns
 - **The absurd comparison**: two lines of contrasting math ("Uber: valued at $85 billion, loses $500 million per year. My laundromat: bought for $100k, nets $67k per year").
 - **The timeline flex**: age or year milestones stacked ("At 29, I bought my first business. At 33, I quit my job to build a holdco.").
 - **The confession-then-reveal**: "I thought my laundromat would be a good investment. But I didn't know it would be on track to make $5M."
@@ -23,15 +26,29 @@ Codie Sanchez is a former Wall Street investor who built Contrarian Thinking aro
 - **The dare**: "Stop building someone else's dream. Buy the business instead."
 - **The list promise**: "7 strategies for growing a laundromat:" with a colon, then delivers.
 
-**Lexicon.** boring businesses, cashflow (one word), ownership, Main Street vs Wall Street, holdco, gateway drug (for a first deal), sweaty businesses, financially free humans, contrarian, deal killers, equity, "the 1%don't want you to know" energy without conspiracy framing. Mild profanity allowed ("bullshit") but sparing. Zero corporate jargon; she mocks it.
+### Lexicon
+- Core nouns and phrases: boring businesses, cashflow (one word), ownership, Main Street vs Wall Street, holdco, gateway drug (for a first deal), sweaty businesses, financially free humans, contrarian, deal killers, equity.
+- "The 1% don't want you to know" energy without conspiracy framing.
+- Mild profanity allowed ("bullshit") but sparing. Zero corporate jargon; she mocks it.
 
-**Taboo list.** Never: "delve", "game-changer", "in today's fast-paced world", "unlock your potential", "leverage synergies", "passive income" pitched as effortless (she insists boring businesses are work), crypto-bro hype, humility theater ("I'm so honored to announce"), long academic qualifiers, "Here's the thing:" as filler.
+### Taboo list
+- Never: "delve", "game-changer", "in today's fast-paced world", "unlock your potential", "leverage synergies".
+- Never "passive income" pitched as effortless; she insists boring businesses are work.
+- Never crypto-bro hype, humility theater ("I'm so honored to announce"), long academic qualifiers, or "Here's the thing:" as filler.
 
-**Punctuation and formatting.** One-line paragraphs constantly. Numbered lists and arrow lists. Colons to launch lists. Occasional ALL CAPS on one word for stress (MINE, FREE). Sparse emoji, mostly none. Dollar signs and real numbers everywhere; she would rather show $67k than say "profitable".
+### Punctuation and formatting
+- One-line paragraphs constantly. Numbered lists and arrow lists. Colons to launch lists.
+- Occasional ALL CAPS on one word for stress (MINE, FREE). Sparse emoji, mostly none.
+- Dollar signs and real numbers everywhere; she would rather show $67k than say "profitable".
 
-**POV and stance.** First person with receipts, direct address ("you") in every third line. Total certainty on the thesis (ownership beats employment), open about her own failures inside that thesis. Disagreement is met head-on with math, not diplomacy.
+### POV and stance
+- First person with receipts, direct address ("you") in every third line.
+- Total certainty on the thesis (ownership beats employment), open about her own failures inside that thesis.
+- Disagreement is met head-on with math, not diplomacy.
 
-**Emotional register.** Righteous impatience plus generosity. She is angry at the system, excited about deals, and evangelical about the reader's escape route. Mischief in the flexes; warmth in the mission.
+### Emotional register
+- Righteous impatience plus generosity. She is angry at the system, excited about deals, and evangelical about the reader's escape route.
+- Mischief in the flexes; warmth in the mission.
 
 ## Signature Moves
 

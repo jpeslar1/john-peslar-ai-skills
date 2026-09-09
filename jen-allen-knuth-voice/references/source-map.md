@@ -1,27 +1,43 @@
-# Jen Allen-Knuth Voice Source Map
+# Jen Allen-Knuth Source Map
 
 Research date: 2026-09-09
+Refresh cadence: every 6 months (next: 2027-03)
 
-Sources:
+## Primary sources
 
-- Her own site, fetched in full: `https://demandjen.com/` (hero, workshop modules, stats, bio)
-- G2 Learn interview on outbound messaging, fetched in full: `https://learn.g2.com/industry-insights-jen-allen-knuth-outbound-messaging`
-- Exit Five podcast episode page and auto-transcript: `https://exitfive.com/podcast/how-to-create-urgency-build-pipeline-and-make-outbound-work-with-jen-allen-knuth-founder-of-demandjen/`
-- Secondary context only: speaker-bureau profiles (getapeptalk, Crown Speakers), Loxo podcast and blog write-ups, UserEvidence interview summary
+| Source | URL | What it gives | Access |
+|---|---|---|---|
+| DemandJen site (fetched in full) | https://demandjen.com/ | Hero line, workshop module names, buyer-behavior stats, bio | Open |
+| G2 Learn interview on outbound messaging (fetched in full) | https://learn.g2.com/industry-insights-jen-allen-knuth-outbound-messaging | Cold-email philosophy, unsure tonality, internal camo, sellers-undervalue-problem-knowledge framing | Open |
+| Exit Five podcast episode (auto-transcript) | https://exitfive.com/podcast/how-to-create-urgency-build-pipeline-and-make-outbound-work-with-jen-allen-knuth-founder-of-demandjen/ | Spoken register, status-quo-as-competitor lines | Open, video/audio; corpus used the auto-transcript, not the audio itself |
+| Speaker-bureau profile (getapeptalk) | https://getapeptalk.com/experts/jen-allen-knuth-speaker | One secondary-attributed quote, labeled reported not verified | Open |
+| Secondary context only, not quoted verbatim | Crown Speakers profile, Loxo podcast/blog write-ups, UserEvidence interview summary | General bio and positioning corroboration | Open |
+| LinkedIn profile | linkedin.com/in/demandjen1 (handle demandjen1) | Her highest-volume channel; NOT captured in this corpus | Login wall |
+| Lavender reply-rate research | cited secondhand in coverage of her cold-email teaching | The ~42%/~23% length and tone figures she cites in workshops | Not fetched from Lavender directly; figures are as reported by third parties covering her |
 
-## Known gap in this corpus
+## What the corpus rests on
 
-Her LinkedIn feed is her highest-volume channel and the truest sample of her written voice. Public LinkedIn post pages are login-walled and could not be transcribed. This corpus is therefore weighted toward her site copy and spoken interviews. **Refresh priority: capture 8-12 recent LinkedIn posts verbatim** from a logged-in session and add them, then re-estimate the derived stats. Until then, treat the written-cadence guidance in `SKILL.md` as inferred from her site copy and speaking rhythm rather than measured from her posts.
+The corpus rests mainly on her own site copy (highest confidence, her own words) plus one interview fetched in full (G2 Learn) and one podcast appearance available only as an auto-generated transcript (Exit Five, items 20-25, explicitly flagged in the corpus as containing possible transcription noise). Two items (26-27) are third-party attributed quotes and reported statistics, not pulled from a property she controls, and are labeled as such. No excerpt in this file comes from her LinkedIn feed.
 
-## Public Positioning
+## Known gaps
 
-Verified properties: DemandJen (demandjen.com), her LinkedIn profile `demandjen1`, and her keynote and workshop practice. Career: roughly 18 years as a full-cycle enterprise seller across Corporate Executive Board, Gartner, and Challenger, including the Chief Evangelist role at Challenger and hosting the Winning the Challenger Sale podcast. She also spent time in the Lavender orbit reviewing cold email publicly.
+- **No LinkedIn corpus at all.** LinkedIn is her highest-volume, truest-to-voice channel, and it is entirely absent here because public post pages are login-walled. Every written-cadence claim in SKILL.md (paragraph length, emoji use, hashtag habits) is inferred from site copy and spoken interviews, not measured from a sampled batch of her actual posts.
+- **The Exit Five appearance is an auto-transcript, not a verified quote source.** Items 20-25 in the corpus carry a fidelity warning: ASR errors are documented (item 25's "quote" for "quo"), and none of these six lines should be treated as character-perfect until checked against the audio.
+- **Two items are third-party attributed, not self-sourced.** Item 26 ("We cannot defeat status quo...") and item 27 (the Lavender reply-rate figures) were not fetched from a property she controls; they are reported by others writing about her. Re-verify before treating either as her exact words or her exact numbers.
+- **The Lavender-sourced statistics are not hers.** The ~42%/~23% reply-rate figures are underlying research she cites, not her own data. Never attribute that research to her by name.
+- **Derived stats are estimates, not measurements.** The hook-type frequency percentages and the "roughly one line in four" numbers-density claim are the corpus author's honest read of 27 sampled items, not a systematic count across her full output.
+- **Single research pass, single date.** Everything here was fetched on one day (2026-09-09). There is no confirmation any of it has held up since, and no earlier baseline to compare against for drift in her stats or framing.
 
-She is **not currently at Challenger**. Present that role in past tense.
+## Refresh instructions
 
-Her public identity: the biggest threat to revenue is buyer indecision, not the competition. Sell the problem, not the solution.
+1. Priority one: capture 8-12 recent LinkedIn posts verbatim from a logged-in session and add them to `voice-corpus.md`, then re-estimate the derived stats using that larger, more representative sample.
+2. Check demandjen.com for new workshop module names and updated buyer statistics (the 40-60% no-decision figure, the 38% status-quo figure, the 83% buying-group-time figure).
+3. Pull any new podcast appearances from the last six months; prefer ones with an official transcript over auto-transcription.
+4. Confirm whether the cited no-decision and buying-group figures have been revised.
+5. Re-verify the Lavender-sourced reply-rate figures directly with Lavender before republishing them, and never attribute that underlying research to her.
+6. Her frameworks are stable; prioritize fresh cold-email teardowns and example subject lines over new theory on refresh.
 
-## Distinct Jen Allen-Knuth Patterns
+## Pattern notes
 
 ### 1. Status quo is the competitor
 
@@ -54,7 +70,3 @@ Her explicit market position is against the sales-kickoff motivational speaker. 
 ### 8. Confession as credibility
 
 She opens with her own losses and mistakes before teaching. This is both a hook pattern and the source of her permission to correct tenured reps.
-
-## Refreshing this skill
-
-Priority one is closing the LinkedIn gap described above. Then: check demandjen.com for new workshop module names and updated buyer statistics, pull any new podcast appearances from the last six months, and confirm whether the cited no-decision and buying-group figures have been revised. Her frameworks are stable; prioritize fresh cold-email teardowns and example subject lines over new theory. Re-verify the Lavender-sourced reply-rate figures separately, and never attribute that underlying research to her.

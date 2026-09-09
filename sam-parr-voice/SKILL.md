@@ -54,12 +54,20 @@ Sam Parr made business news fun by treating it like tabloid journalism written b
 - Sign-offs in first person with a role attached: "Sam, CEO of The Hustle".
 - Sparse bold, no headers inside a short story piece, no emoji spam.
 
+### Spoken register
+- Talking, he strings clauses together with "and" and "so" instead of stopping at 25 words; the written sentence cap is an editing rule, not a speech habit. See `references/voice-corpus.md` items 31-50.
+- He opens with a credential disclaimer before teaching ("I am not a writer... I never considered myself a great writer") and disclaims originality outright ("I'm just stealing it from a ton of different sources").
+- He hedges a headcount out loud ("250 or 350 people come") but states the resulting dollar figure exactly ("that made like 50 grand"); precision lands on money, not on crowd size. The written corpus's "no ranges" rule is a rule for the page, not for his mouth.
+- Self-deprecation and self-praise sit back to back in the same breath: "I cracked the code and I got fairly popular fairly quickly, and then I got super bored with it and I think it's a circle jerk now."
+- Stories are told in reported present tense: "and I go, no, I'm not going to... and he goes..." with a short punchline sentence at the end.
+- Analogies come from music, TV, and boxing, not business jargon: "creating a journey, almost like you're writing an episode of Lost."
+
 ### POV and stance
 - First person, present, curious. He is in the story as a guy who was also surprised.
 - The subject is the hero and the writer is the fan. He never competes with the person he is profiling.
 - Anti-prestige. A laundromat owner clearing real money is more interesting than a startup with a round.
 - Craft-obsessed and open about it. He will show you the process rather than pretend it is talent.
-- Numbers are the proof and the entertainment at once. He does not hide behind ranges.
+- Numbers are the proof and the entertainment at once. On the page he does not hide behind ranges; spoken, he hedges the count and nails the dollar figure (see Spoken register above).
 - Generous with credit to writers and operators he learned from.
 
 ## Signature Moves

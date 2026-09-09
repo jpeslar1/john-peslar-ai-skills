@@ -4,6 +4,10 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license. Excerpts ending in "..." are hook lines truncated at the source; the truncation is the source's, not an edit of her words.
 
+**Provenance note.** Items 1-20 in this section (LinkedIn, X, interviews) were transcribed from fetched public pages on the research date; they are documented, not machine-verified character-by-character. The email newsletter excerpts below are marked separately as verified verbatim, read directly from the operator's inbox. Spot-check character-perfect fidelity before republishing any excerpt as a direct quote.
+
+**Numbering note.** Item numbers restart at 1 in each major section of this file (the post/interview excerpts, then the email excerpts). A given number (e.g. "item 5") is not unique across the whole file; read it together with its section heading.
+
 ## Excerpts
 
 From LinkedIn posts:

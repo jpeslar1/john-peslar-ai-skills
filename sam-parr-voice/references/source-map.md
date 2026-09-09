@@ -16,23 +16,33 @@ Refresh cadence: every 6 months (next: 2027-03)
 
 ## What was actually fetched
 
-One full article, signed "Sam, CEO of The Hustle", was pulled as raw text from thehustle.co on 2026-09-09. It supplied the entire verbatim corpus. Two Hustle newsletter URLs from 2020 were also fetched but returned mostly navigation chrome rather than issue bodies.
+One full article, signed "Sam, CEO of The Hustle", was pulled as raw text from thehustle.co on 2026-09-09. It supplied the entire verbatim corpus (items 1-30). Two Hustle newsletter URLs from 2020 were also fetched but returned mostly navigation chrome rather than issue bodies.
+
+## Spoken sources fetched (2026-09-09)
+
+Four YouTube videos were pulled via `yt.py tx` and used for items 31-50 in `voice-corpus.md`. All four carry auto-generated (ASR) caption tracks only, so every excerpt drawn from them is `documented`, not `verified`, even where the speaker is unambiguous.
+
+| Video | Channel | videoId | Caption track | Format |
+|---|---|---|---|---|
+| Sam Parr from The Hustle Explains his Content Strategy | My First Million | BsLf5hE2yS8 | auto | Solo conference talk, single speaker |
+| How To Build a Media Empire with Sam Parr | Ryan Hawk | Q52-zcDSvlk | auto | One-on-one interview |
+| Sam Parr on how to grow on Twitter, selling a company, and the best social media platforms to choose | Kopywriting Kourse (Neville Medhora) | nW6UChjM88I | auto | Two-person conversation |
+| Sam Parr On The Inspiration, Story & Grind Behind The Hustle | KevinandFredTV | w8TFNhxgGuM | auto | One-on-one interview |
+
+Every excerpt taken from the two-person and interview videos was checked against the raw transcript text and kept only where the surrounding exchange makes Sam Parr unambiguously the speaker of the full quoted line; ambiguous lines were dropped rather than guessed.
 
 ## Known gaps
 
-This corpus is the thinnest of the batch and should be treated accordingly.
-
-- **Only one primary document.** Everything in the corpus comes from a single craft article. It is an unusually good source, because it is signed, first person, and demonstrates the voice while explaining it, but it is one document.
-- **No newsletter issue bodies.** The Hustle archive on thehustle.co is now HubSpot-hosted and the fetched pages returned navigation rather than issue text. The daily-brief voice, which is what most readers mean by "The Hustle voice", is therefore not sampled. This is the top priority on refresh.
+- **No newsletter issue bodies.** The Hustle archive on thehustle.co is now HubSpot-hosted and the fetched pages returned navigation rather than issue text. The daily-brief voice, which is what most readers mean by "The Hustle voice", is therefore still not sampled. This is the top priority on refresh.
 - **The Hustle voice is a house voice.** It was written by a team and, by his own account, sometimes published under pen names. Distinguish his personal byline from the house style when refreshing.
-- **No podcast transcript.** My First Million is his largest current channel and his spoken register there is looser and funnier than the written corpus suggests.
 - **No X corpus.** His short-form business observations are not captured.
 - **Hampton profiles are not his byline.** The Hampton blog was reviewed for house style only and no lines from it are in the corpus.
+- **Spoken register is now sampled but ASR-only.** Items 31-50 cover a solo conference talk, two interviews, and one co-hosted conversation, all through auto-generated captions with no human caption track and no speaker diarization. Treat exact wording as approximate; re-verify any figure before republishing. No human-captioned (verified-tier) video was found for him.
 
 ## Refresh instructions
 
 1. Pull five full Hustle daily issues from the archive by rendering the pages, and add a house-voice section to the corpus, clearly separated from his personal byline.
 2. Pull the Soylent article he cites as his running example. It is the piece the whole craft article refers to.
-3. Pull one My First Million transcript for the spoken register.
-4. Capture 20 to 30 X posts for the compressed register.
+3. Capture 20 to 30 X posts for the compressed register.
+4. Check whether any of the four YouTube videos above (or a new one) has since gained a human caption track, which would let those excerpts be upgraded to `verified`.
 5. Re-verify the subscriber counts and any dollar figures before they appear in client-facing copy.

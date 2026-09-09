@@ -142,7 +142,7 @@
     },
     {
       "name": "voice-dna",
-      "description": "Voice DNA skills for writing in the style of iconic business, marketing, sales, and copywriting voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, Josh Braun, Jen Allen-Knuth, 30MPC (Armand Farrokh and Nick Cegelski), Gary Halbert, Dan Kennedy, David Ogilvy, Harry Dry, April Dunford, Dave Gerhardt, Nick Huber, Sam Parr, Seth Godin, and Dan Koe - each with a researched voice fingerprint, sourced corpus, and role playbooks (ghostwriting, hooks, LinkedIn content, cold outreach, follow-ups, objection handling, closing, newsletters, positioning)",
+      "description": "Voice DNA skills for writing in the style of iconic business, marketing, sales, and copywriting voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, Josh Braun, Jen Allen-Knuth, 30MPC, Gary Halbert, Dan Kennedy, David Ogilvy, Harry Dry, April Dunford, Dave Gerhardt, Nick Huber, Sam Parr, Seth Godin, Dan Koe, Shaan Puri, Scott Galloway, Sahil Bloom, Leila Hormozi, Matt Gray, Jack Butcher, Katelyn Bourgoin, Chris Orlob, Peep Laja, Daniel Priestley. Each skill carries a voice fingerprint, playbooks, and a corpus of verified excerpts with explicit provenance labels. Not affiliated with or endorsed by any of the people named.",
       "version": "0.1.0",
       "author": {
         "name": "John Peslar AI",
@@ -185,7 +185,18 @@
         "direct-response",
         "positioning",
         "sales-scripts",
-        "newsletter"
+        "newsletter",
+        "alex-hormozi",
+        "shaan-puri",
+        "scott-galloway",
+        "sahil-bloom",
+        "leila-hormozi",
+        "matt-gray",
+        "jack-butcher",
+        "katelyn-bourgoin",
+        "chris-orlob",
+        "peep-laja",
+        "daniel-priestley"
       ],
       "source": "./",
       "strict": false,
@@ -213,7 +224,17 @@
         "./nick-huber-voice",
         "./sam-parr-voice",
         "./seth-godin-voice",
-        "./dan-koe-voice"
+        "./dan-koe-voice",
+        "./shaan-puri-voice",
+        "./scott-galloway-voice",
+        "./sahil-bloom-voice",
+        "./leila-hormozi-voice",
+        "./matt-gray-voice",
+        "./jack-butcher-voice",
+        "./katelyn-bourgoin-voice",
+        "./chris-orlob-voice",
+        "./peep-laja-voice",
+        "./daniel-priestley-voice"
       ]
     },
     {

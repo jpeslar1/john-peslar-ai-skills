@@ -4,7 +4,9 @@ Research date: 2026-09-09
 
 The excerpts below are short quotations from public pages, interviews, and podcasts, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Fidelity warning.** Items 15-20 are taken from an auto-generated podcast transcript and contain machine transcription noise. They are reliable as evidence of phrasing and stance, not as character-perfect quotations. Spot-check any of them against the audio before republishing as a direct quote. Her LinkedIn posts are behind a login wall and could not be transcribed for this corpus; see `source-map.md` for the gap.
+**Provenance note.** Items 1-11 are read directly from demandjen.com and are verbatim as published. Items 12-19 are read directly from the G2 Learn interview page and are verbatim, except item 19 which is a paraphrased gloss of named frameworks, labeled as such. Items 20-25 come from an auto-generated podcast transcript, not the audio itself; treat them as reliable evidence of phrasing and stance, not character-perfect quotations. Items 26-27 are third-party attributed, not fetched from a property she controls; treat them as reported, not verified.
+
+**Fidelity warning.** Items 20-25 are taken from an auto-generated podcast transcript and contain machine transcription noise. They are reliable as evidence of phrasing and stance, not as character-perfect quotations. Spot-check any of them against the audio before republishing as a direct quote. Her LinkedIn posts are behind a login wall and could not be transcribed for this corpus; see `source-map.md` for the gap.
 
 ## Verbatim excerpts
 

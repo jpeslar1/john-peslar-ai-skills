@@ -4,6 +4,10 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Punctuation note.** One excerpt below (item 4, the Main Street Millionaire Live promo post) preserves an em dash because it is a verbatim quotation. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
+
+**Provenance note.** Items 1-4 and 9-11 carry a specific URL or dated platform citation and are verbatim as published. Items 5-8 and 12-14 are marked as widely documented public lines, sourced from interviews, her own site, or third-party quote compilations rather than a single dated URL; treat those as documented, not independently re-verified, and confirm at the original outlet before publishing anything load-bearing.
+
 ## Verified excerpts
 
 1. "Uber: Valued at $85 billion, loses $500 million per year. My Laundromat: Bought for $100k, nets $67k per year"

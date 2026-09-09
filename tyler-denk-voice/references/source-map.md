@@ -1,28 +1,48 @@
 # Tyler Denk Voice Source Map
 
 Research date: 2026-08-24
+Refresh cadence: every 6 months (next: 2027-03)
 
-Sources:
+## Primary sources
 
-- Big Desk Energy newsletter archive: `https://mail.bigdeskenergy.com/`
-- Issue "How I Raised $50M" (Jan 2025): `https://mail.bigdeskenergy.com/p/how-i-raised-50m`
-- Issue "Death by a thousand substacks" (Dec 2024): `https://mail.bigdeskenergy.com/p/death-by-thousand-substacks`
-- Issue "Eating glass" (Aug 2026): `https://mail.bigdeskenergy.com/p/eating-glass`
-- Issue "Dark side of startups" (Aug 2026): `https://mail.bigdeskenergy.com/p/dark-side-of-startups`
-- Issue "How to announce a fundraise" (May 2024): `https://mail.bigdeskenergy.com/p/how-announce-fundraise`
-- Issue "Founder Mode (pt. 2)" (Jun 2026): `https://mail.bigdeskenergy.com/p/founder-mode-pt-2`
-- Issue "Vulnerable" (Jul 2026): `https://mail.bigdeskenergy.com/p/vulnerable`
-- Issue "From Remote to Riches" (Jul 2024): `https://mail.bigdeskenergy.com/p/from-remote-riches`
-- Open Source CEO written interview (Mar 2024): `https://www.opensourceceo.com/p/tyler-denk-interview`
-- TechCrunch interview (Nov 2025): `https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation`
-- Pixels design breakdown of Big Desk Energy: `https://www.meetpixels.com/p/big-desk-energy-breakdown-tyler-denk`
-- X profile @denk_tweets, including the BDE launch tweet: `https://x.com/denk_tweets/status/1736738553919402289`
+| Source | URL | What it gives | Access |
+|---|---|---|---|
+| Big Desk Energy newsletter archive | https://mail.bigdeskenergy.com/ | Public issue index | Open |
+| "How I Raised $50M" (Jan 2025) | https://mail.bigdeskenergy.com/p/how-i-raised-50m | Fundraise mechanics, receipts-first transparency | Open |
+| "Death by a thousand substacks" (Dec 2024) | https://mail.bigdeskenergy.com/p/death-by-thousand-substacks | Anti-platform-dependence argument, ownership stance | Open |
+| "Eating glass" (Aug 2026) | https://mail.bigdeskenergy.com/p/eating-glass | Founder-mental-health register, "It's all mental" | Open |
+| "Dark side of startups" (Aug 2026) | https://mail.bigdeskenergy.com/p/dark-side-of-startups | Contrarian verdict on fundraising | Open |
+| "How to announce a fundraise" (May 2024) | https://mail.bigdeskenergy.com/p/how-announce-fundraise | Playbook-reveal structure | Open |
+| "Founder Mode (pt. 2)" (Jun 2026) | https://mail.bigdeskenergy.com/p/founder-mode-pt-2 | Confessional register, flat-confidence claims | Open |
+| "Vulnerable" (Jul 2026) | https://mail.bigdeskenergy.com/p/vulnerable | Ego-untangling reflective piece | Open |
+| "From Remote to Riches" (Jul 2024) | https://mail.bigdeskenergy.com/p/from-remote-riches | Operator-memo argument shape | Open |
+| Open Source CEO written interview (Mar 2024) | https://www.opensourceceo.com/p/tyler-denk-interview | Direct-quote interview register, profanity-for-emphasis example | Open |
+| TechCrunch interview (Nov 2025) | https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation | Public positioning quote, includes one em-dash excerpt | Open |
+| Pixels design breakdown | https://www.meetpixels.com/p/big-desk-energy-breakdown-tyler-denk | Context on the newsletter's visual identity; not quoted as his words | Open |
+| X profile @denk_tweets | https://x.com/denk_tweets/status/1736738553919402289 | BDE launch tweet | Open |
+| 6 Big Desk Energy issues, read from the operator's own inbox | mail.bigdeskenergy.com issues, Apr-Aug 2026 | Verified-verbatim structural detail: subject lines, sponsor block, essay closer, recurring segments | Private (operator's own inbox, not publicly linkable) |
+| 2 "Tyler from beehiiv" product emails, read from the operator's own inbox | product@mail.beehiiv.com | Verified-verbatim product-launch register | Private (operator's own inbox, not publicly linkable) |
 
-## Public Positioning
+## What the corpus rests on
 
-Tyler Denk is the co-founder and CEO of beehiiv, the newsletter platform, and was previously employee #2 at Morning Brew where he built its referral and growth systems. He writes Big Desk Energy, a weekly Tuesday newsletter mixing startup essays, behind-the-scenes beehiiv operating detail, music picks, and curated links, wrapped in a retro Windows-98 visual identity. His public brand is radical transparency: fundraise mechanics, exact metrics, founder mental health, and playbook reveals others can copy.
+Roughly half the corpus (items 1-30 of the first section) comes from public newsletter issues, two interviews, and one tweet, all fetched as public pages; confidence is high since these are open URLs anyone can re-check. The other half is different in kind: 6 full Big Desk Energy issues and 2 beehiiv product emails read directly from the operator's own private inbox and marked verified verbatim. That inbox material is the single richest source of structural detail in this skill (subject-line patterns, the fixed share ask, recurring segment order, sponsor-block placement) but it is NOT publicly linkable. There is no URL a third party can visit to re-verify any inbox-sourced line; the record exists only in that inbox.
 
-## Distinct Denk Patterns
+## Known gaps
+
+- **Roughly half the corpus is not publicly re-verifiable.** The inbox-sourced excerpts (all of the "Email newsletter excerpts" section) can only be checked against the original private inbox, not a live page. If Denk edits or the sender account changes, there is no way to re-pull this material the way the public URLs allow.
+- **No podcast or video sample.** Denk's spoken register (any podcast appearances, YouTube, or talks) was not sampled. Everything here is written: newsletter, interview, X, email.
+- **Inbox sample window is narrow.** The 6 verified BDE issues span roughly April-August 2026, one publishing season. Older or newer issues outside that window are not verified verbatim, only referenced via the public archive links.
+- **No sample of a bad week or a real failure post.** The corpus's "absurdity acknowledgment" and "vulnerability" patterns are present, but there is no example of him publicly reporting a missed target or a genuine setback with a bad outcome, only setbacks framed as growth.
+- **Research date not re-verified since 2026-08-24.** Treat anything published after that date, including newer BDE issues, as unsampled.
+
+## Refresh instructions
+
+1. Fetch recent issues from https://mail.bigdeskenergy.com/ and pull 5-10 new verbatim excerpts with URLs into `voice-corpus.md`.
+2. If new issues are read from the operator's own inbox, add them as their own dated subsection under "Email newsletter excerpts" and keep the not-publicly-linkable disclosure attached to that section.
+3. Update the derived stats, and check whether recurring segment names or the essay closer pattern changed.
+4. Re-verify that quoted public issues are still live. Never carry a quote forward that cannot be re-verified at its URL (public sources) or was not itself re-read (inbox sources).
+
+## Pattern notes
 
 ### 1. Receipts-first transparency
 Exact numbers everywhere: round sizes, hours to oversubscription, spend comparisons. The skill should demand the user's real figures and refuse to fake precision.
@@ -41,7 +61,3 @@ Anti-platform-dependence arguments (the Substack teardown) made with evidence an
 
 ### 6. Newsletter furniture
 Fixed recurring segments (Tracks of the Week, curated links, reader interaction, fixed sign-off) that build habit. The Newsletter Writer playbook mirrors this structure.
-
-## Refreshing this skill
-
-To refresh from new material: fetch recent issues from `https://mail.bigdeskenergy.com/`, pull 5-10 new verbatim excerpts with URLs into `voice-corpus.md`, update the derived stats, and check whether recurring segment names or the sign-off changed. Re-verify that quoted issues are still live. Never carry a quote forward that cannot be re-verified at its URL.

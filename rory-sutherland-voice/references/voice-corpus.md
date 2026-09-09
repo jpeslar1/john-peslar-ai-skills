@@ -4,6 +4,8 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Provenance note.** This corpus was built 2026-08-24, before this repo's verified/documented labeling convention existed. Despite the "Verified excerpts" heading below (kept as originally written), every item is sourced from Goodreads' author-quotes page, a TED talk transcript archive, or a documented compilation of his lines, not a primary text or recording fetched and confirmed by Claude this session. Item 20 is explicitly marked secondhand in its own note. Under the current convention, treat every item here as `documented`, not `verified`.
+
 ## Verified excerpts
 
 1. "A flower is a weed with an advertising budget."

@@ -4,7 +4,7 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-Excerpts were transcribed from fetched public pages. Wording is preserved as returned by the fetch, including one original typo noted inline. Spot-check character-perfect fidelity before republishing any excerpt as a direct quote.
+**Provenance note.** All excerpts below were transcribed from fetched public pages (justinwelsh.me essays, newsletter archive, about page, plus public LinkedIn and X posts) on the research date. Wording is preserved as returned by the fetch, including one original typo noted inline (item 15). They are documented, not machine-verified character-by-character; spot-check fidelity before republishing any excerpt as a direct quote.
 
 ## Verbatim excerpts
 

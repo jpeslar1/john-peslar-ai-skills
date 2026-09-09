@@ -4,6 +4,12 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Provenance note.** Items 1-30 in the first section (newsletter, interviews, X) were transcribed from fetched public pages on the research date; they are documented, not machine-verified character-by-character. The "Email newsletter excerpts" section below is different in kind: those items were read directly from the operator's own private email inbox, not from a public archive. They are marked verified verbatim, but unlike every other source in this corpus, they are NOT publicly linkable. There is no URL to re-fetch or re-check them at; the original inbox copy is the only record. Treat any dispute about an inbox-sourced line as unresolvable without re-checking that inbox.
+
+**Numbering note.** Item numbers restart at 1 in each major excerpt section of this file (the public newsletter/interview/X excerpts, then "Verbatim excerpts - Big Desk Energy", then "Verbatim excerpts - beehiiv product emails" which continues that same run). A given number is not unique across the whole file; read it together with its section heading.
+
+**Punctuation note.** Three excerpts below (item 29 in the first section, and items 2 and 13 in the "Verbatim excerpts - Big Desk Energy" section) preserve an em dash because they are verbatim quotations. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
+
 ## Excerpts
 
 From the Big Desk Energy newsletter (Tyler Denk's own writing):

@@ -1,24 +1,41 @@
 # Justin Welsh Voice Source Map
 
 Research date: 2026-08-24
+Refresh cadence: every 6 months (next: 2027-03)
 
-Sources:
+## Primary sources
 
-- Justin Welsh's site and newsletter archive: `https://www.justinwelsh.me/` and `https://www.justinwelsh.me/newsletter`
-- Saturday Essay issues fetched in full: `essays/bad-news`, `essays/axe`, `essays/fun`, `essays/rich-broke`
-- Older Saturday Solopreneur issues: `newsletter/leverage`, `newsletter/how-i-added-44-716-twitter-followers-in-18-weeks`
-- About page: `https://www.justinwelsh.me/about`
-- LinkedIn profile posts (public post pages), e.g. the "solopreneur's secret weapon" post
-- X (@thejustinwelsh) threads via ThreadReader
-- Third-party style analyses (context only, not quoted as Welsh): growthinreverse.com, viralbrain.ai
+| Source | URL | What it gives | Access |
+|---|---|---|---|
+| Site and newsletter archive | https://www.justinwelsh.me/ and https://www.justinwelsh.me/newsletter | Essay index, archive teasers | Open |
+| Saturday Essay issues (read in full) | justinwelsh.me/essays/bad-news, /axe, /fun, /rich-broke | The narrative-shape corpus: hooks, aphorisms, sign-off | Open |
+| Older Saturday Solopreneur issues | justinwelsh.me/newsletter/leverage, /newsletter/how-i-added-44-716-twitter-followers-in-18-weeks | The tactical-shape corpus, oldest dated material (2022) | Open |
+| About page | https://www.justinwelsh.me/about | Public positioning line, $15M / 1.5M+ figures | Open |
+| LinkedIn public posts | linkedin.com/posts/justinwelsh_... (individual post URLs cited in voice-corpus.md) | Short-form register, negation lists | Login wall |
+| X (@thejustinwelsh) threads | via ThreadReader, threadreaderapp.com | Short-form register, contrarian openers | Open (mirrored) |
+| Third-party style analyses | growthinreverse.com, viralbrain.ai | Context only, not quoted as Welsh's own words | Open |
 
-## Public Positioning
+## What the corpus rests on
 
-Welsh's site positions him as writing "one essay every Saturday for ambitious people living and working on their own terms", with a stated $15M one-person business, no employees, no investors, and a 1.5M+ audience. Products include the LinkedIn Operating System and Content OS courses.
+The narrative and tactical newsletter shapes both rest on full-issue reads, four Saturday Essays and two older Saturday Solopreneur issues, so confidence on structure (subject line, sign-off, section shape) is high. The short-form LinkedIn and X material is four individual posts, fetched as public post pages or via a mirror, so confidence there is medium: a smaller sample and platforms that allow post edits or deletion after capture.
 
-Note a 2025-26 evolution: the tactical "Saturday Solopreneur" (one actionable tip, under 4 minutes) was rebranded as "The Saturday Essay", which is longer, narrative, and reflective. The skill supports both shapes in the Newsletter Writer playbook.
+## Known gaps
 
-## Distinct Justin Welsh Patterns
+- **Tactical Saturday Solopreneur sample is old.** The two "tactical shape" issues are from 2022; the brand has since evolved into the narrative Saturday Essay. The Newsletter Writer playbook's tactical mode is the least freshly sampled part of this skill.
+- **Small short-form sample.** Only 4 LinkedIn/X posts total. Frequency estimates for hook types in the Derived Stats section are rough extrapolations from a small set, not a systematic pull of his feed.
+- **No podcast or video sample.** Welsh has done podcast interviews; none were reviewed, so any spoken-register cadence is inferred from written material only.
+- **No paid-course material.** The LinkedIn Operating System and Content OS courses may contain additional voice data (video scripts, module copy) that was not reviewed.
+- **Research date not re-verified since 2026-08-24.** Treat any post-August-2026 essay or the ongoing tactical-to-narrative drift as unsampled past that date.
+
+## Refresh instructions
+
+1. Fetch the latest issues at justinwelsh.me/newsletter and add any new Saturday Essay not yet in the corpus.
+2. Pull 3-5 recent LinkedIn posts from his public profile to refresh the short-form sample and check for drift.
+3. Replace stale excerpts in `voice-corpus.md` (keep each 1-3 lines, verbatim, attributed with URL), and re-estimate the derived stats.
+4. Watch for continued drift from tactical solopreneur content toward reflective essays; if the tactical shape has fully disappeared from his archive, downweight or retire that mode in the Newsletter Writer playbook.
+5. Confirm the newsletter's current name is still "The Saturday Essay" (renamed from "The Saturday Solopreneur" as of this skill's build; re-check at each refresh in case it changes again).
+
+## Pattern notes
 
 ### 1. Systems over hustle
 
@@ -39,7 +56,3 @@ Oddly specific figures (44,716 followers, 158 residents) replace adjectives. If 
 ### 5. Calm authority
 
 High certainty delivered gently. No dunking, no urgency, no hype. Critiques patterns, never named people.
-
-## Refreshing this skill
-
-To update from new material: fetch the latest issues at `justinwelsh.me/newsletter`, pull 3-5 recent LinkedIn posts from his public profile, replace stale excerpts in `voice-corpus.md` (keep each 1-3 lines, verbatim, attributed with URL), and re-estimate the derived stats. Watch for continued drift from tactical solopreneur content toward reflective essays and adjust the Newsletter Writer playbook weighting if the tactical shape disappears from his archive.

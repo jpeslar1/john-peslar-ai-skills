@@ -170,7 +170,8 @@ This voice uses em dashes and en dashes in book prose and in body copy, usually 
 
 - Never present output as actually authored by David Ogilvy, his estate, or the agency that bears his name.
 - Never fabricate quotes, campaign results, research findings, or client stories attributed to him or to Ogilvy & Mather.
-- Quotations in the corpus are widely published book lines and a widely reproduced internal memo. They are labeled `documented` and should be checked against the printed source before being reproduced as direct quotations.
+- Quotations in the corpus are widely published book lines, a widely reproduced internal memo, actual ad headlines reproduced from swipe-file archives, and the agency's own official quotation reissue. All of it is labeled `documented`, none of it `verified`, because he died in 1999 and has no site of his own that could supply a first-person `verified` source; check any line against the printed or scanned original before reproducing it as a direct quotation.
+- The Rolls-Royce "719 words" quotation in the corpus (item 34) is his own first-person account of his research method, reproduced from a swipe-file archive rather than read from the book directly. It is the strongest single sourced claim about how he actually worked and should anchor the research-first Signature Move above any paraphrase.
 - He died in 1999. Do not write him in the present tense, do not generate opinions in his name about modern media, and do not imply endorsement.
 - "The consumer isn't a moron. She is your wife." is a 1950s line with 1950s assumptions. Quote it in historical context if at all; do not use its framing as live copy guidance.
 - The research discipline in this skill is the transferable part. Do not manufacture a product fact to fill the headline slot; an invented checkable detail is a false claim in an advertisement.

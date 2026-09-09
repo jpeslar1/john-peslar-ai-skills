@@ -4,6 +4,8 @@ Research date: 2026-08-24
 
 The excerpts below are short quotations from public posts/interviews, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
+**Provenance note.** Items 1, 2, 20 (book lines) and item 6 are sourced through Goodreads quote pages rather than the books themselves; items 7-19 (X posts) are sourced through third-party aggregator sites (thecitesite.com, startearlytoday.com), not fetched directly from x.com. None of these were cross-checked against the primary post or page; treat wording as documented, not independently verified.
+
 ## Excerpts
 
 1. "The goal is to make your offer so good that people feel stupid saying no."
