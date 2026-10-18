@@ -1,7 +1,7 @@
 # Lara Acosta Voice Source Map
 
-Research date: 2026-08-24
-Refresh cadence: every 6 months (next: 2027-03)
+Research date: 2026-08-24; inbox refresh 2026-10-18
+Refresh cadence: every 6 months (next: 2027-04)
 
 ## Primary sources
 
@@ -11,28 +11,31 @@ Refresh cadence: every 6 months (next: 2027-03)
 | X profile | https://x.com/Laraacostar (2 posts cited in voice-corpus.md) | Short-form register on X | Login wall |
 | Kleo interview and bio | https://kleo.so/blog/lara-acosta | Her own words on story-first content, underdog bio | Open |
 | VeryGoodCopy micro-interview | https://www.verygoodcopy.com/microinterviews-3-1/lara-acosta | Her own words on writing philosophy, scarcity mentality | Open |
-| Email newsletter (The Known Club cohort 3 launch sequence) | 8 emails from lara@literallyacademy.com | Verified verbatim sales-email register: subject lines, CTAs, sign-offs | Private (operator's own inbox) |
+| Email, The Known Club cohort 3 launch sequence (May 2026) | 8 emails from lara@literallyacademy.com | Verified verbatim sales-email register: subject lines, CTAs, sign-offs | Primary, author-delivered; private copy (operator's inbox) |
+| Email, daily nurture drip (Sep 11 - Oct 17 2026) | 20 emails from lara@theknownclub.com ("Lara Acosta", The Known Club, via Kit) | Evergreen and nurture register: mindset stories, tactical frameworks (S.M.P.V., three engines, broad → narrow → niche, 4-3-2-1), free-resource gifts, algorithm analysis, client-win proof | Primary, author-delivered; private copy |
+| Email, Literally Academy "Founders' Vault" launch (Sep 28 - Oct 4 2026) | 10 emails from lara@theknownclub.com | Full 7-day sunset-launch sequence: announcement, price ladder, case study, framework, "this is hard", resend, future-pace, last call, 4-hours-left, fixed footer block | Primary, author-delivered; private copy |
+| Email, promos (Sep 15 - Oct 11 2026) | 6 emails from lara@theknownclub.com | Video-promo template ("I recorded a brand NEW video"), fake-"Re:" resend, live-workshop seat email, 1:1 coaching offer | Primary, author-delivered; private copy |
 | Style-analysis corroboration only | magicpost.in, connectsafely.ai, buldrr.com | Context only; contain author-reconstructed examples, NOT used for quotes | Open |
 
 ## What the corpus rests on
 
-The post and interview excerpts (20 items) come from her own LinkedIn and X post pages plus two interviews where she is quoted directly; confidence is high on wording but the sample leans older (2022-2025) since public post pages were fetched individually rather than pulled from a live, current feed. The email corpus (20 items) is the strongest part of this skill: 8 full emails read directly from the operator's own inbox and marked verified verbatim, giving the most reliable structural detail (subject lines, CTA placement, sign-offs) of any section.
+The post and interview excerpts (20 items) come from her own LinkedIn and X post pages plus two interviews where she is quoted directly; confidence is high on wording but the sample leans older (2022-2025) since public post pages were fetched individually rather than pulled from a live, current feed. The email corpus (91 items from 44 emails) is the strongest part of this skill: emails Lara wrote and sent to the operator's inbox, copied verbatim. It is primary source in the strictest sense (author-written, author-sent, no intermediary), and after the October 2026 refresh it covers all three of her email registers: launch sequence (May 2026 cohort launch and the Sep-Oct 2026 Literally Academy sunset), daily nurture/evergreen, and promo. Private delivery is an access detail, not a quality problem; a third party who wants to re-check a line needs the inbox, and the refresh instructions cover re-pulling.
 
 ## Known gaps
 
-- **Email corpus is not publicly linkable.** The 8 sales emails were read from the operator's own inbox (a private subscription), not from a public archive. There is no URL to re-verify them at; if a line is disputed, the only source is the original email, not a live page.
-- **Email sample is narrow in purpose.** All 8 emails are from one launch sequence (The Known Club cohort 3, May 2026). This teaches her sales-email register well but says nothing about a non-launch, evergreen, or nurture email, which may read differently.
-- **No video or Stories sample.** She is active on video-first formats (LinkedIn video, Reels); none were reviewed. The voice here is text-only.
-- **Post sample skews older.** Most LinkedIn/X posts cited are from 2022-2024, with one from 2025. Her current 2026 feed was not re-pulled at build time.
-- **Follower/revenue figures not independently verified.** The "#1 female creator in the UK" and 7-figure business claims come from her own bio and third-party interviews, not from an audited source.
-- **Research date not re-verified since 2026-08-24.** Treat anything published after that date, including the outcome of the cohort-3 launch, as unsampled.
+- **No video or Stories sample.** She is active on video-first formats (LinkedIn video with 1M+ impression posts, YouTube trainings she links from nearly every promo email, Reels, Instagram where she passed 100k followers in Oct 2026); none were reviewed. The voice here is text-only. This is the largest remaining gap.
+- **Post sample skews older.** Most LinkedIn/X posts cited are from 2022-2024, with one from 2025. Her current 2026 feed was not re-pulled; the emails quote several of her 2026 post hooks second-hand, but the posts themselves were not fetched.
+- **Sender and brand changed between passes.** May 2026 emails came from lara@literallyacademy.com (Literally Academy); by Sep 2026 all sends come from lara@theknownclub.com (The Known Club) via Kit, and Literally Academy was shut down and sunset-sold as the "Founders' Vault". Searches on the old domain return nothing after 2026-05-17; use the new domain.
+- **Follower/revenue figures not independently verified.** "360k followers", "$3.5M from LinkedIn", "3x 7-figure businesses", "Forbes 30 Under 30" come from her own emails and bio, not an audited source. Quote them as her claims.
+- **Email sample ends 2026-10-17.** Anything sent after that date is unsampled.
 
 ## Refresh instructions
 
 1. Pull her recent LinkedIn posts (profile above) and X feed; add 5-10 new verbatim excerpts with URLs to `voice-corpus.md`.
 2. Re-check hook lengths, arrow formatting, and CTA norms against current posts; her format evolves with LinkedIn's algorithm.
 3. Treat aggregator "example posts" as reconstructions unless matched against an original post URL. Drop any quote that can no longer be verified at its source.
-4. If a new email sequence is received, add it as its own dated subsection and note whether it is launch, nurture, or evergreen; do not blend it into the existing May-2026 launch-sequence excerpts.
+4. Pull new emails from the operator's inbox first (primary): from the admin-dev repo, `set -a; source .env; set +a; python3 scripts/gmail_read_dwd.py search --max 100 'from:theknownclub.com after:YYYY/MM/DD'`, then `gmail_read_dwd.py read <id>` per message. Strip Kit tracking URLs, zero-width spaces, and the footer (address, unsubscribe). Add the batch as its own dated subsection, label each send launch / nurture / evergreen / promo, and continue the item numbering. Check whether the sender domain changed again.
+5. Still missing after two passes: a spoken sample. Pull captions from one of the YouTube trainings she links (yt-dlp) and add a "documented" spoken section.
 
 ## Pattern notes
 
@@ -56,3 +59,12 @@ Vulnerability (fear of being seen, the broke-student room) always flips into an 
 
 ### 7. CTA norms
 Repost-for-resource asks, newsletter P.S. with the recurring fluff-free tagline, warm FAQ-style P.S. questions; no hashtag piles or engagement-bait polls.
+
+### 8. Delusional self-belief (added 2026-10-18)
+The dominant mindset theme of the fall-2026 drip: "delusional" reclaimed as a virtue, journaling goals in the past tense, "do it scared", "waiting to feel ready is the most expensive thing you will ever do". Nurture emails resolve this into one concrete repetition target (100 cold emails, 100 Looms, 100 posts).
+
+### 9. Attention game vs revenue game (added 2026-10-18)
+Her core business argument in email: impressions and follower counts are a different game from revenue; the three engines (offer, marketing, funnel) sit behind content; most selling happens in email, not on LinkedIn. The skill should refuse "post more" as advice and route to offer, positioning, or funnel instead.
+
+### 10. Evergreen line bank (added 2026-10-18)
+She reuses proven lines verbatim across months ("I built my entire account by emulating the best in the game…", "If your post fails, no one saw it. Try again tomorrow."). Repetition across sends is a feature of the voice, not a flaw; the skill can reuse a user's own best lines the same way.
