@@ -129,6 +129,11 @@ Ten practical skills turn the Sales 101 decks into buyer research, offers, outre
 
 The ICP and offer skills follow the detailed Week 1 and Week 2 decks. The remaining skills expand the curriculum outline into practical workflows. [The source and coverage map](docs/sales-101-skill-map.md) identifies those adaptations and the educators credited by the decks.
 
+| [`thesalonguy-hair-advisor`](thesalonguy-hair-advisor/SKILL.md) | Hair-first haircut diagnosis and barber briefs inspired by TheSalonGuy’s public education |
+| [`alex-costa-grooming-advisor`](alex-costa-grooming-advisor/SKILL.md) | Polished, practical men’s grooming decisions inspired by Alex Costa’s public content |
+| [`regal-gentleman-barber-brief`](regal-gentleman-barber-brief/SKILL.md) | Precise barber consultation briefs for transformations, tapers, and medium-length cuts |
+| [`robin-james-grooming-advisor`](robin-james-grooming-advisor/SKILL.md) | Product-realistic hair routines and natural-texture styling inspired by Robin James |
+| [`pacinos-curl-styling-advisor`](pacinos-curl-styling-advisor/SKILL.md) | Curl-aware men’s haircut and styling decisions inspired by Pacinos the Barber |
 Each folder contains a portable `SKILL.md`; the skills also include Codex UI metadata and repository discovery links for Claude Code, Codex, and Cursor. They do not require the original PDFs, paid connectors, or the other skills to be installed. Where an assistant cannot install skill folders, provide the `SKILL.md` as instructions and include any linked reference file; that is a manual workflow, not a claim of native skill installation in every chat product.
 
 For Claude Code, add this repository as a plugin marketplace and select the `sales-101` collection. For agents using folder-based skills, use the repository's existing installation method and select any of the ten skills below.
@@ -920,6 +925,86 @@ Use $david-ogilvy-voice to write 20 headlines from this product research.
 ```
 
 None of these skills are affiliated with or endorsed by the people they study. They are style studies grounded in public material, with guardrails against impersonation and fabricated quotes.
+
+## Work With John
+
+John Peslar builds AI systems for founders and teams who want practical automation, not AI theater.
+
+- Learn with John: https://www.youtube.com/@JohnPeslarAi
+- Join Agent J: https://www.skool.com/agent-j
+- Follow John: https://x.com/johnwhereareu
+- Explore LeadPanther: https://leadpanther.ai
+- Explore Zevari: https://zevari.ai
+
+## Contributing
+
+Open an issue with:
+
+- The skill you want
+- The business workflow it should improve
+- A real prompt you would use
+
+Pull requests are welcome when they keep skills concise, practical, and agent-friendly.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+---
+
+### Grooming Adviser Collection
+
+Five independent haircut and grooming decision lenses. These are not creator simulations or endorsements. They turn public educational themes into a practical haircut choice, a barber brief, or a repeatable at-home routine.
+
+#### [`thesalonguy-hair-advisor`](thesalonguy-hair-advisor/SKILL.md)
+
+Hair-first cut diagnosis that starts with texture, growth direction, bulk, and the relationship between top, corners, and sides.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Stephen Marinaro / TheSalonGuy](https://www.thesalonguy.com/) and his public [TCS haircutting method](https://courses.thesalonguy.com/tcsmethod). Not affiliated with or endorsed by Stephen Marinaro or TheSalonGuy.
+
+**Use when you need to:** choose a cut that works with natural behavior, turn photos into a barber brief, or stop using products to compensate for an incompatible shape.
+
+#### [`alex-costa-grooming-advisor`](alex-costa-grooming-advisor/SKILL.md)
+
+Men’s grooming lens for polished hair that works with the person’s everyday wardrobe, camera presence, and available styling time.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Alex Costa](https://www.youtube.com/@alexcosta) and his public men’s grooming content. Not affiliated with or endorsed by Alex Costa.
+
+**Use when you need to:** choose between good-looking directions, simplify a routine, or ensure a haircut fits the person’s overall presentation.
+
+#### [`regal-gentleman-barber-brief`](regal-gentleman-barber-brief/SKILL.md)
+
+Barber-chair consultation lens for translating a visual goal into top, corners, sides, crown, fringe, and growth-path decisions.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Regal Gentleman](https://regalgentleman.com/) and its public haircut transformation and barber-education material. Not affiliated with or endorsed by Regal Gentleman or its barbers.
+
+**Use when you need to:** prepare for a haircut, change from long to shorter hair, or make a reference photo genuinely useful to a barber.
+
+#### [`robin-james-grooming-advisor`](robin-james-grooming-advisor/SKILL.md)
+
+Product-realism and routine-design lens that matches product types to natural hair behavior instead of marketing promises.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Robin James / Man For Himself](https://www.youtube.com/@ManForHimself) and [Anforh](https://anforh.com/pages/about). Not affiliated with or endorsed by Robin James, Man For Himself, or Anforh.
+
+**Use when you need to:** reduce an overbuilt routine, choose a product category by finish and hold, or make natural wave and curl look intentional.
+
+#### [`pacinos-curl-styling-advisor`](pacinos-curl-styling-advisor/SKILL.md)
+
+Texture-respecting men’s curl and wave styling lens that separates natural definition, looser shaping, and structured styling.
+
+**Skill author:** John Peslar AI ([YouTube](https://www.youtube.com/@JohnPeslarAi), [X](https://x.com/johnwhereareu))
+
+**Source inspiration:** [Erich Roa / Pacinos the Barber](https://pacinosproducts.com/pages/about-us-1) and Pacinos Signature Line’s public styling content. Not affiliated with or endorsed by Erich Roa, Pacinos the Barber, or Pacinos Signature Line.
+
+**Use when you need to:** manage bulky or frizzy texture, build a curl-friendly routine, or stop treating heavy pomade as a straightening tool.
 
 ## Work With John
 

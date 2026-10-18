@@ -276,3 +276,34 @@
     }
   ]
 }
+    },
+    {
+      "name": "grooming-advisors",
+      "description": "Practical men’s haircut, barber-brief, and texture-aware grooming adviser lenses inspired by public education from leading men’s hair creators",
+      "version": "0.1.0",
+      "author": {
+        "name": "John Peslar AI",
+        "url": "https://www.youtube.com/@JohnPeslarAi"
+      },
+      "homepage": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "repository": "https://github.com/jpeslar1/john-peslar-ai-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "mens-hair",
+        "haircut",
+        "barber",
+        "grooming",
+        "curly-hair",
+        "wavy-hair",
+        "styling"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./thesalonguy-hair-advisor",
+        "./alex-costa-grooming-advisor",
+        "./regal-gentleman-barber-brief",
+        "./robin-james-grooming-advisor",
+        "./pacinos-curl-styling-advisor"
+      ]
