@@ -108,6 +108,17 @@ codex plugin install sales-101@john-peslar-ai-skills
 | [`chris-orlob-voice`](chris-orlob-voice/SKILL.md) | Writing in Chris Orlob's voice: data-backed SaaS sales tactics, call mechanics, and exact-count tactical breakdowns |
 | [`peep-laja-voice`](peep-laja-voice/SKILL.md) | Writing in Peep Laja's voice: blunt research-first B2B positioning, message testing, and opinionated marketing critique |
 | [`daniel-priestley-voice`](daniel-priestley-voice/SKILL.md) | Writing in Daniel Priestley's voice: key-person-of-influence positioning, oversubscribed demand mechanics, and asset-building |
+| [`peter-thiel-voice`](peter-thiel-voice/SKILL.md) | Writing in Peter Thiel's voice: inverted-consensus strategy essays, civilizational openers paid for with dated specifics, competition-is-for-losers positioning |
+| [`jason-fried-voice`](jason-fried-voice/SKILL.md) | Writing in Jason Fried's voice: settled-law theses, trade and household analogies, flipped-cliche closers, calm-company and profit-over-valuation arguments |
+| [`nassim-taleb-voice`](nassim-taleb-voice/SKILL.md) | Writing in Nassim Taleb's voice: mirrored aphorisms with an asymmetry, numbered-error polemics, skin-in-the-game and via-negativa arguments |
+| [`sara-blakely-voice`](sara-blakely-voice/SKILL.md) | Writing in Sara Blakely's voice: prop-scene origin stories, self-deprecating resilience posts, imperative morals, warm founder letters |
+| [`barbara-corcoran-voice`](barbara-corcoran-voice/SKILL.md) | Writing in Barbara Corcoran's voice: ten-word plain rules proven by a dollar-figure story, people-reading sales advice, blunt commands |
+| [`grant-cardone-voice`](grant-cardone-voice/SKILL.md) | Writing in Grant Cardone's voice: drill-sergeant sales mindset, binaries, biography-as-rule, high-pressure closes where the brand allows |
+| [`greg-isenberg-voice`](greg-isenberg-voice/SKILL.md) | Writing in Greg Isenberg's voice: numbered startup-idea hot takes, niche-opportunity breakdowns, community strategy, slogan closers |
+| [`noah-kagan-voice`](noah-kagan-voice/SKILL.md) | Writing in Noah Kagan's voice: confession-opener founder posts, self-disclosed numbers, launch-fast validation frameworks, chiasmus rules |
+| [`gary-vaynerchuk-voice`](gary-vaynerchuk-voice/SKILL.md) | Writing in Gary Vaynerchuk's voice: spoken-rant essays, reader diagnoses, two-beat aphorism labels, dares to the few who act |
+| [`steven-bartlett-voice`](steven-bartlett-voice/SKILL.md) | Writing in Steven Bartlett's voice: X-length provocation then soft truth, confession openers, origin-story announcements |
+| [`andrew-wilkinson-voice`](andrew-wilkinson-voice/SKILL.md) | Writing in Andrew Wilkinson's voice: self-deprecating money confessions, boring-business acquisition takes, calm-wealth build-in-public updates |
 | [`first-client-90-day-plan`](first-client-90-day-plan/SKILL.md) | Plan the path from buyer evidence to a paid pilot |
 | [`icp-validation-sprint`](icp-validation-sprint/SKILL.md) | Validate a reachable buyer before writing outreach |
 | [`first-client-offer-builder`](first-client-offer-builder/SKILL.md) | Turn buyer pain into a clear, deliverable first offer |
@@ -118,6 +129,11 @@ codex plugin install sales-101@john-peslar-ai-skills
 | [`sales-objection-sorter`](sales-objection-sorter/SKILL.md) | Clarify objections and separate fit from persuasion |
 | [`weekly-sales-loop`](weekly-sales-loop/SKILL.md) | Keep sales moving when delivery gets busy |
 | [`sales-pipeline-clinic`](sales-pipeline-clinic/SKILL.md) | Find the sales bottleneck and rewrite one asset |
+| [`thesalonguy-hair-advisor`](thesalonguy-hair-advisor/SKILL.md) | Hair-first haircut diagnosis and barber briefs inspired by TheSalonGuy’s public education |
+| [`alex-costa-grooming-advisor`](alex-costa-grooming-advisor/SKILL.md) | Polished, practical men’s grooming decisions inspired by Alex Costa’s public content |
+| [`regal-gentleman-barber-brief`](regal-gentleman-barber-brief/SKILL.md) | Precise barber consultation briefs for transformations, tapers, and medium-length cuts |
+| [`robin-james-grooming-advisor`](robin-james-grooming-advisor/SKILL.md) | Product-realistic hair routines and natural-texture styling inspired by Robin James |
+| [`pacinos-curl-styling-advisor`](pacinos-curl-styling-advisor/SKILL.md) | Curl-aware men’s haircut and styling decisions inspired by Pacinos the Barber |
 
 > **Looking for real-world scenarios?** See [EXAMPLES.md](EXAMPLES.md) for copy-paste prompts organized by workflow.
 
@@ -129,11 +145,6 @@ Ten practical skills turn the Sales 101 decks into buyer research, offers, outre
 
 The ICP and offer skills follow the detailed Week 1 and Week 2 decks. The remaining skills expand the curriculum outline into practical workflows. [The source and coverage map](docs/sales-101-skill-map.md) identifies those adaptations and the educators credited by the decks.
 
-| [`thesalonguy-hair-advisor`](thesalonguy-hair-advisor/SKILL.md) | Hair-first haircut diagnosis and barber briefs inspired by TheSalonGuy’s public education |
-| [`alex-costa-grooming-advisor`](alex-costa-grooming-advisor/SKILL.md) | Polished, practical men’s grooming decisions inspired by Alex Costa’s public content |
-| [`regal-gentleman-barber-brief`](regal-gentleman-barber-brief/SKILL.md) | Precise barber consultation briefs for transformations, tapers, and medium-length cuts |
-| [`robin-james-grooming-advisor`](robin-james-grooming-advisor/SKILL.md) | Product-realistic hair routines and natural-texture styling inspired by Robin James |
-| [`pacinos-curl-styling-advisor`](pacinos-curl-styling-advisor/SKILL.md) | Curl-aware men’s haircut and styling decisions inspired by Pacinos the Barber |
 Each folder contains a portable `SKILL.md`; the skills also include Codex UI metadata and repository discovery links for Claude Code, Codex, and Cursor. They do not require the original PDFs, paid connectors, or the other skills to be installed. Where an assistant cannot install skill folders, provide the `SKILL.md` as instructions and include any linked reference file; that is a manual workflow, not a claim of native skill installation in every chat product.
 
 For Claude Code, add this repository as a plugin marketplace and select the `sales-101` collection. For agents using folder-based skills, use the repository's existing installation method and select any of the ten skills below.
@@ -892,15 +903,15 @@ Use $kara-cold-outbound to build the follow-up plan after a prospect replies "no
 
 ### Voice DNA Collection
 
-Thirty-four skills for writing in the style of iconic business, marketing, sales, and copywriting voices. Each skill carries a researched voice fingerprint (cadence, hook patterns, lexicon, taboo words, formatting), a corpus of short verbatim attributed excerpts in `references/voice-corpus.md`, and only the playbooks that fit that person (ghostwriting, hook creation, LinkedIn content, cold outreach, no-reply follow-ups, objection handling, sales closing, contrarian takes, newsletters, build-in-public).
+Forty-five skills for writing in the style of iconic business, marketing, sales, and copywriting voices. Each skill carries a researched voice fingerprint (cadence, hook patterns, lexicon, taboo words, formatting), a corpus of short verbatim attributed excerpts in `references/voice-corpus.md`, and only the playbooks that fit that person (ghostwriting, hook creation, LinkedIn content, cold outreach, no-reply follow-ups, objection handling, sales closing, contrarian takes, newsletters, build-in-public).
 
-Business and contrarian voices: [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md), [`mark-cuban-voice`](mark-cuban-voice/SKILL.md), [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md), [`codie-sanchez-voice`](codie-sanchez-voice/SKILL.md), [`naval-voice`](naval-voice/SKILL.md), [`rory-sutherland-voice`](rory-sutherland-voice/SKILL.md), [`nick-huber-voice`](nick-huber-voice/SKILL.md), [`seth-godin-voice`](seth-godin-voice/SKILL.md), [`leila-hormozi-voice`](leila-hormozi-voice/SKILL.md), [`scott-galloway-voice`](scott-galloway-voice/SKILL.md).
+Business and contrarian voices: [`alex-hormozi-voice`](alex-hormozi-voice/SKILL.md), [`mark-cuban-voice`](mark-cuban-voice/SKILL.md), [`kevin-oleary-voice`](kevin-oleary-voice/SKILL.md), [`codie-sanchez-voice`](codie-sanchez-voice/SKILL.md), [`naval-voice`](naval-voice/SKILL.md), [`rory-sutherland-voice`](rory-sutherland-voice/SKILL.md), [`nick-huber-voice`](nick-huber-voice/SKILL.md), [`seth-godin-voice`](seth-godin-voice/SKILL.md), [`leila-hormozi-voice`](leila-hormozi-voice/SKILL.md), [`scott-galloway-voice`](scott-galloway-voice/SKILL.md), [`peter-thiel-voice`](peter-thiel-voice/SKILL.md), [`nassim-taleb-voice`](nassim-taleb-voice/SKILL.md), [`jason-fried-voice`](jason-fried-voice/SKILL.md), [`andrew-wilkinson-voice`](andrew-wilkinson-voice/SKILL.md), [`sara-blakely-voice`](sara-blakely-voice/SKILL.md), [`gary-vaynerchuk-voice`](gary-vaynerchuk-voice/SKILL.md), [`steven-bartlett-voice`](steven-bartlett-voice/SKILL.md).
 
-Creator and newsletter voices: [`adam-robinson-voice`](adam-robinson-voice/SKILL.md), [`lara-acosta-voice`](lara-acosta-voice/SKILL.md), [`tyler-denk-voice`](tyler-denk-voice/SKILL.md), [`justin-welsh-voice`](justin-welsh-voice/SKILL.md), [`sam-parr-voice`](sam-parr-voice/SKILL.md), [`dan-koe-voice`](dan-koe-voice/SKILL.md), [`shaan-puri-voice`](shaan-puri-voice/SKILL.md), [`sahil-bloom-voice`](sahil-bloom-voice/SKILL.md), [`matt-gray-voice`](matt-gray-voice/SKILL.md), [`jack-butcher-voice`](jack-butcher-voice/SKILL.md).
+Creator and newsletter voices: [`adam-robinson-voice`](adam-robinson-voice/SKILL.md), [`lara-acosta-voice`](lara-acosta-voice/SKILL.md), [`tyler-denk-voice`](tyler-denk-voice/SKILL.md), [`justin-welsh-voice`](justin-welsh-voice/SKILL.md), [`sam-parr-voice`](sam-parr-voice/SKILL.md), [`dan-koe-voice`](dan-koe-voice/SKILL.md), [`shaan-puri-voice`](shaan-puri-voice/SKILL.md), [`sahil-bloom-voice`](sahil-bloom-voice/SKILL.md), [`matt-gray-voice`](matt-gray-voice/SKILL.md), [`jack-butcher-voice`](jack-butcher-voice/SKILL.md), [`greg-isenberg-voice`](greg-isenberg-voice/SKILL.md), [`noah-kagan-voice`](noah-kagan-voice/SKILL.md).
 
 B2B marketing and positioning voices: [`chris-walker-voice`](chris-walker-voice/SKILL.md), [`april-dunford-voice`](april-dunford-voice/SKILL.md), [`dave-gerhardt-voice`](dave-gerhardt-voice/SKILL.md), [`harry-dry-voice`](harry-dry-voice/SKILL.md), [`katelyn-bourgoin-voice`](katelyn-bourgoin-voice/SKILL.md), [`peep-laja-voice`](peep-laja-voice/SKILL.md), [`daniel-priestley-voice`](daniel-priestley-voice/SKILL.md).
 
-Sales voices: [`josh-braun-voice`](josh-braun-voice/SKILL.md), [`jen-allen-knuth-voice`](jen-allen-knuth-voice/SKILL.md), [`30mpc-voice`](30mpc-voice/SKILL.md), [`chris-orlob-voice`](chris-orlob-voice/SKILL.md).
+Sales voices: [`josh-braun-voice`](josh-braun-voice/SKILL.md), [`jen-allen-knuth-voice`](jen-allen-knuth-voice/SKILL.md), [`30mpc-voice`](30mpc-voice/SKILL.md), [`chris-orlob-voice`](chris-orlob-voice/SKILL.md), [`barbara-corcoran-voice`](barbara-corcoran-voice/SKILL.md), [`grant-cardone-voice`](grant-cardone-voice/SKILL.md).
 
 Copywriting canon: [`david-ogilvy-voice`](david-ogilvy-voice/SKILL.md), [`gary-halbert-voice`](gary-halbert-voice/SKILL.md), [`dan-kennedy-voice`](dan-kennedy-voice/SKILL.md).
 

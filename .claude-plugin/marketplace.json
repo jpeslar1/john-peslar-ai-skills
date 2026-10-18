@@ -142,7 +142,7 @@
     },
     {
       "name": "voice-dna",
-      "description": "Voice DNA skills for writing in the style of iconic business, marketing, sales, and copywriting voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, Josh Braun, Jen Allen-Knuth, 30MPC, Gary Halbert, Dan Kennedy, David Ogilvy, Harry Dry, April Dunford, Dave Gerhardt, Nick Huber, Sam Parr, Seth Godin, Dan Koe, Shaan Puri, Scott Galloway, Sahil Bloom, Leila Hormozi, Matt Gray, Jack Butcher, Katelyn Bourgoin, Chris Orlob, Peep Laja, Daniel Priestley. Each skill carries a voice fingerprint, playbooks, and a corpus of verified excerpts with explicit provenance labels. Not affiliated with or endorsed by any of the people named.",
+      "description": "Voice DNA skills for writing in the style of iconic business, marketing, sales, and copywriting voices - Alex Hormozi, Mark Cuban, Kevin O'Leary, Codie Sanchez, Naval Ravikant, Rory Sutherland, Adam Robinson, Lara Acosta, Tyler Denk, Justin Welsh, Chris Walker, Josh Braun, Jen Allen-Knuth, 30MPC, Gary Halbert, Dan Kennedy, David Ogilvy, Harry Dry, April Dunford, Dave Gerhardt, Nick Huber, Sam Parr, Seth Godin, Dan Koe, Shaan Puri, Scott Galloway, Sahil Bloom, Leila Hormozi, Matt Gray, Jack Butcher, Katelyn Bourgoin, Chris Orlob, Peep Laja, Daniel Priestley, Peter Thiel, Jason Fried, Nassim Taleb, Sara Blakely, Greg Isenberg, Noah Kagan, Barbara Corcoran, Grant Cardone, Gary Vaynerchuk, Steven Bartlett, Andrew Wilkinson. Each skill carries a voice fingerprint, playbooks, and a corpus of verified excerpts with explicit provenance labels. Not affiliated with or endorsed by any of the people named.",
       "version": "0.1.0",
       "author": {
         "name": "John Peslar AI",
@@ -196,7 +196,18 @@
         "katelyn-bourgoin",
         "chris-orlob",
         "peep-laja",
-        "daniel-priestley"
+        "daniel-priestley",
+        "peter-thiel",
+        "jason-fried",
+        "nassim-taleb",
+        "sara-blakely",
+        "greg-isenberg",
+        "noah-kagan",
+        "barbara-corcoran",
+        "grant-cardone",
+        "gary-vaynerchuk",
+        "steven-bartlett",
+        "andrew-wilkinson"
       ],
       "source": "./",
       "strict": false,
@@ -234,7 +245,18 @@
         "./katelyn-bourgoin-voice",
         "./chris-orlob-voice",
         "./peep-laja-voice",
-        "./daniel-priestley-voice"
+        "./daniel-priestley-voice",
+        "./peter-thiel-voice",
+        "./jason-fried-voice",
+        "./nassim-taleb-voice",
+        "./sara-blakely-voice",
+        "./greg-isenberg-voice",
+        "./noah-kagan-voice",
+        "./barbara-corcoran-voice",
+        "./grant-cardone-voice",
+        "./gary-vaynerchuk-voice",
+        "./steven-bartlett-voice",
+        "./andrew-wilkinson-voice"
       ]
     },
     {
@@ -273,9 +295,6 @@
         "./weekly-sales-loop",
         "./sales-pipeline-clinic"
       ]
-    }
-  ]
-}
     },
     {
       "name": "grooming-advisors",
@@ -307,3 +326,6 @@
         "./robin-james-grooming-advisor",
         "./pacinos-curl-styling-advisor"
       ]
+    }
+  ]
+}
