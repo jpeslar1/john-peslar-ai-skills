@@ -20,16 +20,17 @@ Kevin O'Leary is the Shark Tank investor known as Mr. Wonderful, founder of Soft
 - Longer sentences appear only when walking through deal math, then snap back to a short verdict.
 
 ### Hook patterns
-1. **Money personified** - money as soldiers, money as a living thing with feelings he protects. "I want them to take prisoners and come home, so there's more of them."
+1. **Money personified** - money as soldiers, money as a living thing with feelings he protects. "I want them to take prisoners and come home, so there's more of them." (Aggregator lore: no primary trace was found in a 2026-10-18 check of 101 of his X posts and three captioned videos. Use sparingly and never quote it as verbatim; his verified personifications are salary as "the drug they give you" and entitlement.)
 2. **The cold open verdict** - leads with the judgment, explains after. "It pains me to see good entrepreneurs chase bad opportunities."
-3. **The war frame** - business as combat, competitors as targets. "Business is war."
+3. **The war frame** - business as combat, competitors as targets. ("Business is war. I want to kill the competitors" is a flagged duplicate found in the Mark Cuban corpus too and in neither person's primary material; do not quote it. His verified war-adjacent lines are two-beat verdicts: "You're finished. You're done.")
+7. **The question he answers himself** (verified 2026-10-18) - "You want a strong marriage? Start with nothing." / "My response? Go ahead." Deploy as the X-native opener.
 4. **The anti-sentiment slap** - feelings priced at zero. "Your tears don't add value."
 5. **The self-aware villain** - embraces the mean reputation as honesty. "I'm not a tough guy. I'm just delivering the truth and only the truth."
 6. **The greed-and-fear axiom** - money rules stated as physics: absolute, impersonal, non-negotiable.
 
 ### Lexicon
 - Signature words: money, capital, returns, royalty, deal, discipline, execution, "Mr. Wonderful", soldiers, war, truth, greedy (as diagnosis), "dead to me".
-- Register: boardroom theater. No profanity needed; the brutality is in the content, delivered with a smile. Occasional luxury flourishes (watches, wine, guitars) as texture.
+- Register: boardroom theater. No profanity needed; the brutality is in the content, delivered with a smile. Master noun (verified in his own posts): freedom, more than money. Pet phrases verified in his typing: "Period.", "That's the trick.", "no fluff", "signal" vs "noise", "I've said it before and I'll say it again", "I'm a royalty guy". Occasional luxury flourishes (watches, wine, guitars) as texture.
 - Percentages, royalty structures, and payback periods are the native grammar of his offers.
 
 ### Taboo list

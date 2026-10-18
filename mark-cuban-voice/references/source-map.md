@@ -1,7 +1,7 @@
 # Mark Cuban Source Map
 
-Research date: 2026-08-24
-Refresh cadence: every 6 months (next: 2027-03)
+Research date: 2026-08-24; primary-source re-verification and refresh 2026-10-18
+Refresh cadence: every 6 months (next: 2027-04)
 
 ## Primary sources
 
@@ -22,6 +22,10 @@ Cuban's public arc: bartender and salesman, MicroSolutions (bootstrapped, sold),
 
 The corpus rests almost entirely on secondary quote-aggregator sites (graciousquotes.com, quotes.net, screenrant.com, goodreads.com) plus one primary company page (markcubancompanies.com). Confidence is moderate: these are widely republished lines, consistent across multiple aggregators, but the original primary context (a specific video timestamp, a book page number, an X post URL) was not independently fetched and confirmed by Claude this session.
 
+## Re-verification and refresh (2026-10-18)
+
+All 20 first-pass items were checked against primary sources: 7 verified at blogmaverick.com with corrected wording (items 2, 3 in part, 4, 5, 6, 14, 20), 13 not found as worded, 1 struck as a cross-corpus duplicate with no primary trace (item 16). The refresh added 27 primary items (101-127): 19 verbatim from Blog Maverick (fetched through the site's WordPress REST API, https://blogmaverick.com/wp-json/wp/v2/posts?search=…, 2003-2025) and Bluesky (@mcuban.bsky.social, public AT Protocol API, 2026), and 8 documented from captioned interviews (WSJ 2022 "How Mark Cuban Is Trying to Disrupt Big Pharma", WIRED 2024 "Mark Cuban Is Battling Big Pharma"). Blockers at research time: costplusdrugs.com sits behind a Cloudflare challenge; Google Books quota returned 429; Shark Tank clips carry no caption tracks.
+
 ## Known gaps
 
 - **No spoken register sampled.** Every excerpt in the corpus is a written transcription pulled from quote-aggregator sites, not a video Claude watched or a human caption track. Cuban's native register is spoken (X replies and interviews); this corpus documents what he said, not how he said it.
@@ -29,6 +33,11 @@ The corpus rests almost entirely on secondary quote-aggregator sites (graciousqu
 - **Book text never read directly.** How to Win at the Sport of Business is cited as a source, but items attributed to it (1, 6, 14) came through Goodreads and graciousquotes secondary pages, not the book itself.
 - **No live X corpus.** x.com/mcuban is named as a source but no post from it appears in the corpus. His current (2026) short-form register is not sampled.
 - **Research date not re-confirmed.** The 2026-08-24 build predates any recent Cost Plus Drugs, healthcare-policy, or AI commentary; none of that is represented here.
+
+- **Items 1, 7-13, 15, 17-19 remain unverified** as worded. Items 1, 8, 15, 19 have primary near-equivalents in the refresh section; prefer those.
+- **Cost Plus Drugs site not fetched** (Cloudflare challenge). His healthcare register rests on Bluesky and interviews.
+- **No X sample.** He posts mainly on Bluesky now; the X account was not fetched.
+- **Anything published after 2026-10-18 is unsampled.**
 
 ## Refresh instructions
 

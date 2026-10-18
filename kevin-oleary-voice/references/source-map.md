@@ -1,7 +1,7 @@
 # Kevin O'Leary Source Map
 
-Research date: 2026-08-24
-Refresh cadence: every 6 months (next: 2027-03)
+Research date: 2026-08-24; primary-source re-verification and refresh 2026-10-18
+Refresh cadence: every 6 months (next: 2027-04)
 
 ## Primary sources
 
@@ -21,13 +21,21 @@ O'Leary's public arc: SoftKey/The Learning Company founder (sold to Mattel for b
 
 The corpus rests almost entirely on secondary quote-aggregator sites (graciousquotes.com, screenrant.com, thesharktankepisodes.com, etfdb.com, awakenthegreatnesswithin.com), plus one primary CNBC interview page for the negotiation items (20, 21). Confidence is moderate: these are widely republished lines, consistent across multiple aggregators, but the original primary context (an ABC or CBC broadcast timestamp, a book page number, an X post URL) was not independently fetched and confirmed by Claude this session.
 
+## Re-verification and refresh (2026-10-18)
+
+All 21 first-pass items were checked against primary sources: 4 verified (items 3 and 14 on his own X posts with shorter wording; 20 and 21 exact at CNBC https://www.cnbc.com/2020/10/29/kevin-oleary-how-to-make-the-best-deals-when-negotiating.html), 17 not found, 1 flagged as a cross-corpus duplicate with no primary trace (item 2). The refresh added 28 primary items (101-128): 17 verbatim X posts from @kevinolearytv (2021-2025, fetched through X's syndication endpoint by ID with fxtwitter for full text) and 11 documented from two own-channel "Ask Mr. Wonderful" episodes ("How I Made My First Million Dollars Part 1", "How to Get Rich Investing in Things You LOVE") and one CNBC segment ("Nvidia Has Some Big Challenges Ahead"). The corpus now has dated, permalinked posts and a spoken register for the first time.
+
 ## Known gaps
 
 - **No spoken register sampled.** Every excerpt is a written transcription pulled from quote-aggregator sites, not a video Claude watched or a human caption track. O'Leary's native register (Shark Tank, Dragons' Den, CNBC hits) is spoken; this corpus documents what he said, not how he delivered it.
 - **Sourced from secondary aggregators, not primary transcripts.** Most items trace to graciousquotes.com, screenrant.com, or similar pages rather than an ABC/CBC transcript or an X post Claude fetched directly. Treat every item as `documented`, not `verified`.
 - **Books never read directly.** Cold Hard Truth and its sequels are named as a source, but no corpus item is attributed to them directly; the "royalty deal logic" pattern rests on interview summaries, not the books themselves.
 - **No live X corpus.** x.com/kevinolearytv is named as a source but no post from it appears in the corpus. His current (2026) short-form register is not sampled.
-- **Research date not re-confirmed.** The 2026-08-24 build predates any recent crypto, energy, or small-business-advocacy commentary; none of that is represented here.
+- **"Money as soldiers" has no primary trace.** The skill's Money personified hook and Signature Move 1 rest on aggregator lore; keep them labelled as such until a permalink or caption track surfaces.
+- **"You're dead to me" (item 16) is attested but unverifiable**: Shark Tank clips carry no caption tracks.
+- **Items 4-8, 11-13, 15, 17-19 remain unverified** as worded.
+- **Books never read directly.**
+- **Anything published after 2026-10-18 is unsampled.**
 
 ## Refresh instructions
 

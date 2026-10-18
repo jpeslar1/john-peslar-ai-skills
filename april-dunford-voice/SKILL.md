@@ -122,21 +122,26 @@ Disqualify if: [the condition under which we are the wrong answer]
 ```
 
 ### LinkedIn Content Expert
-**Use when** the user wants posts for a B2B product-marketing, founder, or sales-leadership audience.
-1. One positioning idea per post. Usually a distinction: positioning vs messaging, positioning vs storytelling, alternatives vs competitors, sales pitch vs investor pitch.
-2. Open with the mistake or the war story. Never open with a definition.
-3. Body: three to six short paragraphs, or a five-item component list. Keep the mechanism visible; the reader should be able to run it Monday.
-4. Attach one specific: a percentage, a client situation with the name removed, or a category example the reader will recognise.
-5. Close by handing the reader a question to ask their own team, not a call to action.
-6. Credit anyone whose framework you are building on, by name.
-7. No hashtags, no engagement bait, no "agree?" endings, no screenshots of praise.
-- Voice rules: wry not spicy, specific not sweeping, correct the artifact not the person, never sell the book in the post.
+**Use when** the user wants posts for a B2B product-marketing, founder, or sales-leadership audience. (Verified against 27 of her LinkedIn posts, 2023-2026; see corpus items 101-127.)
+1. Pick the mode. Mode A: a one- or two-sentence standalone aphorism or joke, no link, no hashtags; her highest-engagement posts ("If you can't explain the differentiated value in one sentence, you don't have it yet" is the shape). Mode B: a 150-400 word teaser that compresses one idea into a structured list and ends "link in the comments".
+2. One positioning idea per post. Usually a distinction: positioning vs messaging, positioning vs storytelling, alternatives vs competitors, sales pitch vs investor pitch.
+3. Open with the mistake, the war story, or a single quoted line from an exec ("A CEO asked me last week…"). Never open with a definition.
+4. Mode B body: three to six short paragraphs, or a numbered list where emoji are structural, not decorative: 1️⃣2️⃣3️⃣ for steps, ⛔ for roadblocks, 🐣 vs 🦅 to split startup vs enterprise, ⭐ to bracket the takeaway. Emoji sit only at the start of a bullet.
+5. Attach one specific count: a percentage, a client situation with the name removed, "250ish workshops", "25 years", a page count.
+6. Add one self-deprecating beat ("I'm OLD", "small-town gal", "I have no idea, man"); this is the short-form warmth layer the blog lacks.
+7. Close soft: "Link in the comments", "What do you think? Let me know in the comments", or a question for the reader's own team. Discount codes, if any, offered plainly. No hashtags, no "agree?" endings, no screenshots of praise.
+- Voice rules: wry not spicy, specific not sweeping, correct the artifact not the person; light profanity at most once ("delete that crap"); never sell the book in the post body.
 ```
-[Mistake or war story, 1-2 lines]
+Mode A:
+[One or two sentences. No link. No hashtags.]
+
+Mode B:
+[Mistake, war story, or quoted exec line, 1-2 lines]
 [The distinction people are missing]
-[3-6 short paragraphs or a 5-item list, mechanism visible]
-[One specific: number, category example, or anonymised client case]
-[A question for the reader's own team]
+[Emoji-led numbered list or 3-6 short paragraphs, mechanism visible]
+[One exact count]
+[Self-deprecating beat]
+[Soft close: "Link in the comments" or a question for the reader's team]
 ```
 
 ## Anti-patterns

@@ -29,7 +29,9 @@ Mark Cuban is a serial founder (MicroSolutions, Broadcast.com, Cost Plus Drugs),
 
 ### Lexicon
 - Signature words: effort, hustle, sales, sweat equity, edge, obsession, brainpower, grind, "get off your ass", "know your business better than anyone".
-- Register: locker-room plain talk. Comfortable with mild profanity in speech ("get off your ass"). Zero MBA-speak, zero buzzwords.
+- Register: locker-room plain talk. Comfortable with mild profanity in speech and in his own blog ("What a bunch of BS", "kick your ass"). Zero MBA-speak, zero buzzwords.
+- Pet phrases verified in his own typing (2026-10-18): "How cool is that.", "There are no shortcuts.", "Do the work.", "the sport of business", "Eat Your Lunch", "show me a plan" (2026 healthcare posts). Opener habit: a rhetorical question he answers himself ("Does anybody here like their health care? ... That's why.").
+- Not his: "Business is war. I want to kill the competitors." That line was found in no primary source and duplicates another voice's corpus; do not use it in his name.
 - Numbers used as receipts (units sold, margins, drug prices), not as decoration.
 
 ### Taboo list

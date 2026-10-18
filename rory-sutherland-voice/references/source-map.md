@@ -1,7 +1,7 @@
 # Rory Sutherland Source Map
 
-Research date: 2026-08-24
-Refresh cadence: every 6 months (next: 2027-03)
+Research date: 2026-08-24; primary-source re-verification and refresh 2026-10-18
+Refresh cadence: every 6 months (next: 2027-04)
 
 ## Primary sources
 
@@ -23,17 +23,29 @@ Vice chairman of Ogilvy UK, co-founder of its behavioral science practice, forme
 
 The corpus rests mainly on Goodreads' author-quotes page for Alchemy and The Wiki Man, plus documented transcript excerpts from three TED talks and one item (20) explicitly flagged as a secondhand compilation. Confidence is moderate to high for the book-attributed items (Goodreads' author-quotes pages reproduce publisher-supplied lines) and lower for the talk-attributed items, since those came from transcript archives and talk coverage rather than a caption track Claude fetched and confirmed itself this session.
 
+## Re-verification and refresh (2026-10-18)
+
+All 20 first-pass items were checked against primary sources: 1 verified exactly (item 14), 3 found as variants (items 1, 13, 18), 16 not found (book lines and two paraphrases). They remain in the corpus labelled documented and must not be quoted in client copy. The refresh added 35 primary items: 24 verbatim from 13 Spectator "Wiki Man" columns (Feb-Oct 2026; https://www.spectator.co.uk/writer/rory-sutherland/ ; bodies were served in full to a plain fetch at research time, though the HTML carries paywall markup) and 11 documented from the 2009 TED talk (https://www.youtube.com/watch?v=audakxABYUc), the 2011 TED talk (https://www.youtube.com/watch?v=iueVZJVEmEs, human captions; note "six million pounds" is a caption error for six billion) and a 2017 One One One interview (https://www.youtube.com/watch?v=AyhLUyXwYYY, ASR). The corpus now has a verbatim written register in his own words for the first time.
+
 ## Known gaps
 
 - **No spoken register sampled directly this session.** Three TED talks are named as sources and items 13 to 15 are attributed to them, but they come from documented transcript archives and talk coverage, not a caption track Claude fetched and verified itself. Sutherland is a talk-and-podcast-heavy speaker; his live timing and jokes are not captured here.
 - **Books never read directly.** Alchemy and The Wiki Man were cited via Goodreads' author-quotes page and interview compilations, not read cover to cover; treat every book-attributed item as `documented`.
 - **No live X corpus.** x.com/rorysutherland is named as a source but no post from it appears in the corpus. His current (2026) short-form register is not sampled.
 - **Item 20 is explicitly secondhand.** It is sourced from an Ad Professor compilation rather than a primary talk or column, and several other items rest on "widely shared compilations" rather than an original the corpus verified.
-- **Research date not re-confirmed.** The 2026-08-24 build predates any recent Spectator columns or podcast appearances; none of that is represented here.
+- **Book lines remain unverifiable.** Alchemy and The Wiki Man are not publicly hosted as readable extracts; Penguin's 2019 feature corroborates three rule headings but not the corpus wording. Items 2-12, 16, 17, 19 stay documented.
+- **Items 15 and 20 have no traceable origin.** Replace item 15 with item 126 or 130 (same idea in his words); drop or keep item 20 flagged.
+- **No X posts sampled.** The syndication endpoint (cdn.syndication.twimg.com/tweet-result?id=<id>&token=a) worked for other subjects this session and would work given a permalink.
+- **No Nudgestock or podcast transcript sampled.** The three-video caption budget went to TED and the 2017 interview.
+- **Spectator paywall may close.** Re-fetch soon if more columns are wanted.
+- **Anything published after 2026-10-18 is unsampled.**
 
 ## Refresh instructions
 
-Refresh from new X posts, new Spectator columns, fresh podcast transcripts, and any new book. Add only verbatim lines with a book, talk, or platform attribution to `voice-corpus.md`; prefer primary transcripts over compilation threads, and mark secondhand lines as such. Re-derive stats after additions. Prioritize fetching one talk transcript directly (a human caption track if available) so a future refresh can label items `verified` rather than `documented`.
+1. Fetch new Spectator columns from https://www.spectator.co.uk/writer/rory-sutherland/ with a plain fetch; if the paywall closes, use the Wayback Machine. Add 5-10 verbatim excerpts continuing from item 136.
+2. Pull one Nudgestock or podcast appearance with `yt-dlp --write-auto-sub --skip-download --sub-lang en`; add 3-5 documented excerpts.
+3. If an X permalink is in hand, fetch it via the syndication endpoint and start a short-form section.
+4. Refresh from new X posts, new Spectator columns, fresh podcast transcripts, and any new book. Add only verbatim lines with a book, talk, or platform attribution to `voice-corpus.md`; prefer primary transcripts over compilation threads, and mark secondhand lines as such. Re-derive stats after additions. Prioritize fetching one talk transcript directly (a human caption track if available) so a future refresh can label items `verified` rather than `documented`.
 
 ## Pattern notes
 

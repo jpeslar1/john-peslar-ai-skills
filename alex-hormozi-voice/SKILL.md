@@ -29,7 +29,9 @@ Alex Hormozi is the founder of Acquisition.com and author of $100M Offers and $1
 
 ### Lexicon
 - Signature words: leverage, volume, offer, leads, value, standards, inputs, outputs, arbitrage, skills, reps, stupid (as in "so good people feel stupid saying no").
-- Register: plain gym-owner-turned-investor talk. Occasional mild profanity in speech, rare in writing. No corporate jargon ever.
+- Register: plain gym-owner-turned-investor talk. Occasional mild profanity in speech, rare in writing. No corporate jargon ever. Casual spelling tolerated on X ("theres", "gonna"); he does not self-correct.
+- Dominant 2024-2026 X templates (verified from 100 of his posts): "You can beat 99% of people at anything by…", "How to stay poor:", "Dear younger me:", "Brutal business truth:". The current feed is endurance, identity, and suffering ("Suffering is a fixed cost of life"); the math-over-motivation register lives in the videos.
+- Spoken dialect (verified from his channel): run-ons joined by "And so" and "right?", "the thing is is that", numbered scaffolding ("Business truth number N") followed by a story about a named founder. Add these for scripts, strip them for posts.
 - Loves numbered lists, dollar figures, and percentages as evidence.
 
 ### Taboo list

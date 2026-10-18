@@ -79,6 +79,142 @@ Excerpts were transcribed from fetched public pages. Line breaks in LinkedIn pos
 23. "If you have received a comment from me on Linkedin, it has come from my hands"
     Podcast line quoted in Fame.so's State of Demand Gen breakdown. https://www.fame.so/post/state-of-demand-gen-chris-walker-podcast
 
+## Passetto-era refresh (2024 to April 2025), added 2026-10-18
+
+Source: 15 LinkedIn post permalinks fetched logged out (full text plus JSON-LD datePublished) and one GTM Live episode (auto-captions). Written items are verbatim as fetched; line breaks inside posts are normalized to single lines. Items whose source line says documented are ASR captions of his own spoken words, with fillers dropped and no words changed. This era is the ceiling of his B2B marketing voice: he handed off the podcast in April 2025 and sold his Refine Labs shares in July 2025.
+
+### Passetto era, LinkedIn and GTM Live (2024 to early 2025)
+
+101. "Some big news.... I'm excited to share the news that we've promoted Megan Bowen to CEO of Refine Labs! I'll be taking the role of Executive Chairman and can't wait to support Megan and the team on this next part of the journey."
+    "Some big news", LinkedIn post, 2024-01-04, https://www.linkedin.com/posts/chriswalker171_the-next-chapter-refine-labs-welcomes-megan-activity-7148756102086574081-iaK_ , verbatim
+
+102. "I've been running Refine Labs for 5 years. I started the company in my living room in 2019 with one $100/hour client contract. I could've never imagined how amazing the company and team would turn out to be."
+    Same post, 2024-01-04, verbatim
+
+103. "3. CEO at Passetto. Yes, I'm back at it. I've been working on a project in stealth mode for the past 9 months that I'm ready to share with the World."
+    "Here's an update on what's next for me....", LinkedIn post, 2024-01-09, https://www.linkedin.com/posts/chriswalker171_whats-next-chris-walker-announces-new-activity-7150577094471696384-h0sd , verbatim
+
+104. "Passetto is a tech-enabled GTM Strategy Consultancy that helps B2B Executives identify and execute against their highest priority growth levers with confidence and clarity."
+    Same post, 2024-01-09, verbatim
+
+105. "-Analyzed every budget line item for more than $218MM in annual investments in Marketing and SDRs." / "-Generated $670k in revenue."
+    Same post, 2024-01-09 (two bullets from the progress list), verbatim
+
+106. "I read a post here on LinkedIn using fancy data to say that 90% of revenue influenced by Marketing activities won't be recognized for 9+ months 🤮"
+    LinkedIn post opener, 2024-01-08, https://www.linkedin.com/posts/chriswalker171_marketing-sales-b2b-activity-7150123889350561793-mxAs , verbatim
+
+107. "The unlock is separating the investments by (1) Demand Creation, (2) Demand Capture, (3) Pipeline Conversion, and then analyzing those investments separately on different time horizons and with different KPI & attribution strategies."
+    Same post, 2024-01-08, verbatim
+
+108. "Don't read the headlines: the best way to get fired as a CMO is to think that all your investments aren't going to pay off to revenue for 9+ months."
+    Same post, closer, 2024-01-08, verbatim
+
+109. "There is a massive difference between trying to "Prove the ROI" of a tactic or channel versus collecting the right data to make a strategic decision. These are inherently competing objectives."
+    LinkedIn post opener, 2024-01-22, https://www.linkedin.com/posts/chriswalker171_gtm-marketing-sales-activity-7155286414224453632-tgkP , verbatim
+
+110. "Through a different view built to make a strategic decision, you might find that Content Syndication produced 24,000 leads at $50 per lead which converted to opportunities at 0.3% and led to 6 closed won deals for $151,000 ARR with a CAC payback period of 7.9 years."
+    Same post, 2024-01-22, verbatim
+
+111. "In this new era of profitable growth, B2B companies will build an objective, unified analytics system that runs across the entire GTM (Create Demand, Capture Intent, Convert Pipeline, Expand Accounts)."
+    Same post, closer, 2024-01-22, verbatim
+
+112. "Signal-based selling is the future of B2B go-to-market. The first wave was the movement to account-based (Right Fit). And the next wave that's coming on strong right now is signal-based (Right Time)."
+    LinkedIn post opener, 2024-03-12, https://www.linkedin.com/posts/chriswalker171_gtm-marketing-sales-activity-7173297907582877696-fxeU , verbatim
+
+113. "In this new era of EFFICIENT GROWTH, we need to use DATA to optimize processes, identify and cut waste, and adjust investments. Department-level analytics don't tell the full story. We need to look at the data as a HOLISTIC GTM - not analytics & data silo'd by departments."
+    Same post, closer, 2024-03-12, verbatim
+
+114. "After a thorough analysis of a $80MM ARR SaaS company, I just recommended an 88% budget cut to Google Ads heading into a H2. Resulting in a $1.7MM annualized savings to be reallocated to higher performing programs. Here's why:"
+    LinkedIn post opener, 2024-07-11, https://www.linkedin.com/posts/chriswalker171_gotomarket-b2b-marketing-activity-7217166322420318209-ki_j , verbatim
+
+115. "Click to Closed Won = 0.04% (1 closed won for every 2,500 clicks)" / "Blended CAC payback at $40k ACV = More than 5 years."
+    Same post, 2024-07-11 (arithmetic block), verbatim
+
+116. "People follow me on LinkedIn because I see insights, patterns, and trends in real-life years before they become mainstream. Well this one could make a massive difference for you over the next 18 months:"
+    Same post, 2024-07-11, verbatim
+
+117. "The data is blindly obvious. If CMOs aren't pushing it, it's time for CEOs and CFOs to apply pressure here."
+    Same post, closer, 2024-07-11, verbatim
+
+118. "so right now I've been framing it as go to market optimization so you have Strat go to market strategy which is who are we targeting what's the competitive intelligence who's our ICP what Persona how are we going to price [...] you have your strategy which is a lot of art a lot of qualitative insights a lot of intuition on top of that you have go to market optimization"
+    "The 3 Pillars of GTM Success", GTM Live ep 42 (YouTube, Chris Walker channel), recorded Jan 2025, uploaded 2025-03-04, https://www.youtube.com/watch?v=A8lov65xWgo , documented (ASR)
+
+119. "when we sit at the table and we look at our analytics we make strategic decisions we can't look at it by Department anymore we can't and almost every Company still continues to do it uh the reason is because the financial data is built around what department spent the money and that's how they decide how they're going to scrutinize it and it's a massive flaw"
+    Same video, documented (ASR)
+
+120. "go to market efficiency is going up but that's bad the terminology was wrong [...] when you actually think about it what is it measuring it's measuring the cost of growth and when the cost of growth goes up that's bad just like CAC when CAC goes up that's bad"
+    Same video (on renaming "GTM efficiency" to "Cost of Growth"), documented (ASR)
+
+121. "there's no Silver Bullet to fix this problem and the real problem is the process and this process has many steps in the process and the what what is the process defined as how do we get data turn it into insights and then turn it into action at the executive level that's the process"
+    Same video, documented (ASR)
+
+122. "2025 for me is the year of strategic advancement I'm not trying to scale my business from a million to we did a 1.2 million last year in collected Revenue to 10 million this year"
+    Same video, documented (ASR)
+
+123. "with the evolution of AI the amount of CopyCat products and how fast you can copycat someone is ridiculous right now I know people that are good at Dev that are can launch a new software app in 24 hours"
+    Same video, documented (ASR)
+
+### Out-of-scope register: ENCODED era (2026), kept for reference only
+
+From mid-2025 Walker left B2B marketing. He is CEO of ENCODED (neuroperformance training) and author of The Frequency Era (April 2026); his 2026 LinkedIn carries no GTM content. These items document the shift so the operator can see it. The skill deliberately does NOT emulate this register; see SKILL.md Guardrails.
+
+124. "In 2019, I founded Refine Labs. With an amazing team, we grew from $0 to 8 figures in revenue in less than 3 years without outside capital. In 2025, I sold all my remaining shares to existing shareholders and a private investment firm."
+    LinkedIn About section, undated (current as of 2026-10-18), https://www.linkedin.com/in/chriswalker171 , verbatim
+
+125. "I'm the founder of ENCODED, where we're pioneering Neuroperformance Training as a new category focused on targeted training of the mind and nervous system to expand the mental, emotional, and relational capabilities that drive leadership and performance in work and life."
+    Same About section, verbatim
+
+126. "Olympic gold medalists, $100B founders, and legendary musicians all talk about a secret to their success: Self-Concept Clarity."
+    LinkedIn post opener, 2026-08-27, https://www.linkedin.com/posts/chriswalker171_olympic-gold-medalists-100b-founders-and-activity-7498737266203267072-LHGh , verbatim
+
+127. "When I started doing neuroperformance training in 2021, it completely changed my life. I've done it every day for the past 5+ years. It was the #1 driver for me to: -Building an 8-figure business in less than 3 years -Getting in top 1% shape -Becoming an international speaker"
+    Same post, 2026-08-27, verbatim
+
+128. "Scientists agree: the highest form of intelligence isn't IQ. It's metacognition. Metacognition = thinking about your thinking."
+    LinkedIn post opener, 2026-08-28, https://www.linkedin.com/posts/chriswalker171_scientists-agree-the-highest-form-of-intelligence-activity-7499106815784321025-ogCZ , verbatim
+
+129. "p.s. you don't need to meditate to practice metacognition. In fact, there are far more effective and practical ways to master this skill, which are part of the ENCODED system."
+    Same post, closer, 2026-08-28, verbatim
+
+130. "Nobody wants to hear this, but grinding harder to produce work that AI can produce faster and cheaper isn't a sustainable strategy. Like the factory worker in 1970 working longer and grinding harder on the assembly line in the factory with the new robots. The work ethic was real, but the strategy was broken."
+    LinkedIn post, 2026-08-30, https://www.linkedin.com/posts/chriswalker171_nobody-wants-to-hear-this-but-grinding-harder-activity-7499913238101442560-dJTY , verbatim
+
+131. "Bryan Johnson spends $2,000,000 per year on health & performance. I spend $17,993 and score in the 99% percentile on all key metrics. Here's exactly what I spend the money on:"
+    LinkedIn post opener, 2026-09-08, https://www.linkedin.com/posts/chriswalker171_bryan-johnson-spends-2000000-per-year-activity-7503093783241211904-PX35 , verbatim
+
+132. "p.s. the way companies think about leadership training and team performance is SUPER outdated. Mandating 60-70+ hour work weeks, low sleep quality, having people running on fumes, and then handing them a meditation app or breathing exercise to cope is the exact opposite of developing the leadership qualities that matter."
+    Same post, closer, 2026-09-08, verbatim
+
+133. "Companies say they want a high-performance culture, but then they run their companies in all the ways that are proven to limit team performance, retention, and satisfaction:"
+    LinkedIn post opener (10-item numbered list follows), 2026-09-09, https://www.linkedin.com/posts/chriswalker171_companies-say-they-want-a-high-performance-activity-7503452699930193920-Pn-L , verbatim
+
+134. "4 full days in the studio and it's officially done 🎙️ Just finished recording the audiobook for my book The Frequency Era. What a wild process. 16 chapters. 27 hours of recording. Safe to say I'm done talking for a few days lol. Instead of selling the audiobook, we're releasing the entire thing for free on the ENCODED podcast."
+    LinkedIn post, 2026-09-14, https://www.linkedin.com/posts/chriswalker171_4-full-days-in-the-studio-and-its-officially-activity-7505261979100413953-0dOR , verbatim
+
+135. "Entire company cultures are built around rewarding the people who sacrifice the most. And completely ignoring what it costs them. The employee who works until 10pm gets praised for dedication. Nobody accounts for the dinner they missed with their kids."
+    LinkedIn post opener, 2026-09-18, https://www.linkedin.com/posts/chriswalker171_entire-company-cultures-are-built-around-activity-7506753813505101825-IB-E , verbatim
+
+136. "Unfortunately, none of this collateral damage shows up on the company balance sheet. But eventually the company pays the price."
+    Same post, 2026-09-18, verbatim
+
+137. "Tech layoffs are now over 200,000 people YTD. With Hubspot as the most recent with 660 people impacted yesterday. In the layoff memos, CEOs say "these layoffs are not driven by AI related efficiencies." But don't get it confused - AI is the driver of these cuts. Just not in the direct way most people expect."
+    LinkedIn post opener, 2026-10-07, https://www.linkedin.com/posts/chriswalker171_tech-layoffs-are-now-over-200000-people-activity-7513594977470521344-akPW , verbatim
+
+138. "This isn't a doom and gloom story. I don't believe in that. But companies will need to adapt to succeed in the future. And employees will need to build new skills that AI can't do. Once you see clearly what's actually happening, you can navigate your career with confidence. p.s. I wrote about exactly this happening in my book published in April 2026."
+    Same post, closer, 2026-10-07, verbatim
+
+139. "The things people are accomplishing with ENCODED are INSANE!!!" [...] "Over 1,000 people have now tried ENCODED and these are the consistent reports we get from people who commit to and follow the process."
+    LinkedIn post (reshare), 2026-10-15, https://www.linkedin.com/posts/chriswalker171_the-things-people-are-accomplishing-with-activity-7516513970934108160-Dim3 , verbatim
+
+140. "the value is moving from the information that you store in your brain and how you process it which is easily automated by AI [...] and it's moving to the capabilities that you express through your nervous system. So it's moving from your mind to your nervous system just like it moved from your muscles to your mind."
+    "Chris Walker: AI Is Ending Knowledge Work | Enter The Frequency Era", ABM Answered (YouTube), 2026-07-08, https://www.youtube.com/watch?v=AoIyoITdj9I , documented (ASR)
+
+141. "in 2015, right, 2016, 10 years ago, I was I weighed 210 lbs. I was out of shape. I couldn't get a date. Like I c I couldn't get a date. I made $95,000 a year. I drank alcohol all the time. I was miserable and I had I basically was just the average human."
+    Same video, documented (ASR)
+
+142. "When knowledge is abundant and all you have all this information, the advantage inverts and it becomes now I need to be actually creative. I need to pave my own path. I have to come up with new ideas. I have to think for myself."
+    Same video, documented (ASR)
+
 ## Derived stats (estimates from this corpus)
 
 - Median sentence length: ~14 words (range 3-30; verdict fragments like "It makes no sense." punctuate longer evidence sentences).

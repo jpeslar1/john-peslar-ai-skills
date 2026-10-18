@@ -1,13 +1,22 @@
 # Chris Walker Source Map
 
-Research date: 2026-08-24
-Refresh cadence: every 6 months (next: 2027-03)
+Research date: 2026-08-24; Passetto-era refresh 2026-10-18
+Refresh cadence: every 6 months (next: 2027-04)
 
 ## Primary sources
 
 | Source | URL | What it gives | Access |
 |---|---|---|---|
-| LinkedIn (chriswalker171) | https://www.linkedin.com/in/chriswalker171/ | The core corpus. Six full posts fetched spanning 2021-2024, Refine Labs era through Passetto era | Login wall |
+| LinkedIn (chriswalker171) | https://www.linkedin.com/in/chriswalker171/ | The core corpus. Six full posts fetched 2021-2024 (first pass) plus 15 post permalinks and the profile About section (refresh) | Profile and post permalinks render logged out with a desktop user agent (full text plus JSON-LD datePublished); only the activity feed and company posts page are login-walled |
+| "What's next for me" post (Jan 9 2024) | https://www.linkedin.com/posts/chriswalker171_whats-next-chris-walker-announces-new-activity-7150577094471696384-h0sd | Passetto launch announcement with numbers ($218MM analyzed, $670k revenue) | Open |
+| "9+ months" rebuttal (Jan 8 2024) | https://www.linkedin.com/posts/chriswalker171_marketing-sales-b2b-activity-7150123889350561793-mxAs | Demand Creation / Demand Capture / Pipeline Conversion split | Open |
+| "Prove the ROI" post (Jan 22 2024) | https://www.linkedin.com/posts/chriswalker171_gtm-marketing-sales-activity-7155286414224453632-tgkP | Content syndication math | Open |
+| "Signal-based selling" post (Mar 12 2024) | https://www.linkedin.com/posts/chriswalker171_gtm-marketing-sales-activity-7173297907582877696-fxeU | Right Fit / Right Time framing | Open |
+| "88% Google Ads cut" post (Jul 11 2024) | https://www.linkedin.com/posts/chriswalker171_gotomarket-b2b-marketing-activity-7217166322420318209-ki_j | Full CAC arithmetic; CEO/CFO escalation | Open |
+| GTM Live (formerly Revenue Vitals) RSS | https://anchor.fm/s/1caa9814/podcast/rss | 620 episodes; RV230-RV240 (Jan-Apr 2025) are his last hosted episodes; descriptions are Passetto-written | Open |
+| YouTube: "The 3 Pillars of GTM Success" (GTM Live ep 42, Jan 2025) | https://www.youtube.com/watch?v=A8lov65xWgo | Passetto-era spoken register: cost of growth, revenue factory, no silver bullet | Open video; DOCUMENTED (auto-captions) |
+| YouTube: "AI Is Ending Knowledge Work / Enter The Frequency Era" (ABM Answered, Jul 8 2026) | https://www.youtube.com/watch?v=AoIyoITdj9I | ENCODED-era spoken register; OUT OF SCOPE for the skill, documented for reference | Open video; DOCUMENTED |
+| passetto.com | https://www.passetto.com/ | Confirms Walker is not bylined there; Passetto is now a measurement tool | Open |
 | Refine Labs site | https://www.refinelabs.com/ | Hybrid Attribution Framework announcement, Refine Labs-era positioning | Open |
 | mcgaw.io interview | https://mcgaw.io/blog/strategy-over-tech-with-chris-walker-ceo-of-refine-labs/ | Spoken register, "process over tech" framing | Open |
 | Goldcast hot-takes session | https://www.goldcast.io/blog-post/demand-generation-hot-takes | Spoken register, contrarian one-liners | Open |
@@ -18,23 +27,25 @@ Refresh cadence: every 6 months (next: 2027-03)
 
 ## What the corpus rests on
 
-The corpus rests mainly on six full LinkedIn posts fetched directly from his profile, spanning 2021 (Refine Labs era) through late 2024 (Passetto era), plus five podcast/interview quotes pulled from third-party write-ups rather than original audio or transcripts. The LinkedIn material is the highest-confidence portion; the file itself flags that fetched line breaks "may be lightly normalized" and calls for a spot-check before republishing any excerpt as a direct quote.
+Items 1-23 (first pass) rest on six LinkedIn posts fetched from his profile (2021-2024) and five podcast or interview quotes pulled from third-party write-ups. The 2026-10-18 refresh added items 101-142: 33 verbatim LinkedIn excerpts fetched from logged-out post permalinks with dates, and 9 documented ASR excerpts from two videos. Items 101-123 are the Passetto era (2024 to early 2025) and are the material this skill emulates; items 124-142 are the ENCODED era (2026) and are kept only to document the pivot. The B2B marketing register is now sampled end to end, 2021 through April 2025, with the Passetto-era gap closed. Confidence in wording is high for LinkedIn items (line breaks normalized) and moderate for ASR.
 
 ## Known gaps
 
-- **Corpus is LinkedIn-heavy and Refine Labs-skewed.** 16 of 23 verbatim excerpts are LinkedIn posts, and most of those (items 1-14) are from 2021-2023, the Refine Labs era. Only items 15-16 are clearly dated to the Passetto era (Oct 2024). The Objection Handling Expert playbook's CEO/CFO/board escalation framing is attributed to "the Passetto era" but rests on a thin sample of that era.
-- **Podcast and interview excerpts are secondhand.** Items 17-23 come from third-party blog write-ups quoting him (mcgaw.io, Goldcast, provencontent.com, Fame.so, Dreamdata), not from an original transcript or audio file this project fetched itself. Wording accuracy depends on those write-ups.
-- **No excerpt confirms his current title or company beyond what the write-ups state.** The skill's framing ("founded Refine Labs and now leads Passetto") rests on his public bio and the write-ups' framing, not on a dated, sourced excerpt of him describing his own current role.
-- **Fetched LinkedIn line breaks may be normalized.** The corpus file itself warns that line breaks in fetched posts may not exactly match the original formatting; treat exact line-break placement as approximate, not verbatim.
-- **No video or audio was reviewed directly.** All spoken-register material is secondhand text, so pacing, pauses, and delivery in Revenue Vitals or the State of Demand Gen podcast are not independently verified here.
+- **He left the field.** Walker handed off Revenue Vitals in April 2025, sold his Refine Labs shares in July 2025, and is CEO of ENCODED (neuroperformance) and author of The Frequency Era (April 2026). His 2026 LinkedIn carries no B2B marketing content. The skill is frozen at the 2019 to April 2025 register by operator decision; he will not produce more of it. If the operator ever wants "current Chris Walker", that is a near-rewrite around ENCODED topics, not a refresh.
+- **No 2025 LinkedIn posts captured.** The profile exposes only the latest nine posts; search surfaced 2024 and 2026 permalinks but nothing dated 2025, including the Refine Labs exit post.
+- **RV240 (Apr 4 2025), his farewell episode, was not transcribed.** It is the best source for his own words on leaving; the audio is an anchor.fm MP3 with no located YouTube mirror.
+- **No Passetto-bylined writing exists.** passetto.com blogs are by Carolyn Dilks. The Passetto-era written register rests on LinkedIn only.
+- **Items 17-23 remain secondhand.** Podcast quotes from third-party write-ups were not replaced; the refresh added first-hand ASR instead.
+- **ASR caveats.** Both video pulls are auto-captions with machine errors ("sauna" for Asana); spot-check before quoting.
+- **Anything published after 2026-10-18 is unsampled.**
 
 ## Refresh instructions
 
-1. Pull 5-10 recent posts from his public LinkedIn profile; Passetto-era posts skew more financial (GTM KPI stack, revenue factory, CAC math), so prioritize closing the Passetto-era sample gap.
-2. Check passetto.com and the Revenue Vitals feed for new framework names.
-3. Replace stale excerpts in `voice-corpus.md` (1-3 lines, verbatim, attributed with URL) and re-estimate derived stats.
-4. Watch whether the audience continues shifting from marketers to CFOs/boards and adjust the Objection Handling Expert playbook's escalation framing accordingly.
-5. Where possible, pull at least one excerpt from an original Revenue Vitals or State of Demand Gen recording rather than a third-party write-up, to close the secondhand-quote gap.
+1. The B2B register is closed: he produces no more of it. A refresh can only backfill 2024-2025 material. Search for 2025 permalinks (`linkedin.com/posts/chriswalker171_...`) and fetch them logged out with a desktop user agent; the date is in JSON-LD.
+2. Transcribe RV240 (Apr 2025) from the anchor.fm feed if a transcript or mirror appears; add 3-5 documented excerpts.
+3. Replace the secondhand items 17-23 with first-hand ASR from GTM Live episodes RV200-RV240 using `yt-dlp --write-auto-sub --skip-download --sub-lang en` on the YouTube mirrors.
+4. Do NOT fold ENCODED-era material into the emulated sections. If the operator decides to build a current-Walker voice, make it a separate skill.
+5. Re-verify URLs are live; never carry a quote forward that was not re-read at its source.
 
 ## Pattern notes
 
@@ -60,4 +71,7 @@ The "p.s." disarms the anticipated counterattack before commenters raise it. Obj
 
 ### 6. Escalation to the C-suite
 
-Marketing problems are repositioned as CEO/CFO/board KPI-stack problems the marketing team cannot fix alone.
+Marketing problems are repositioned as CEO/CFO/board KPI-stack problems the marketing team cannot fix alone. The Passetto era (2024-2025) is this pattern at full strength: finance vocabulary (CAC payback, cost of growth, revenue factory), the Create Demand / Capture Intent / Convert Pipeline / Expand Accounts split, and "it's time for CEOs and CFOs to apply pressure here."
+
+### 7. What survived the pivot (added 2026-10-18)
+Structure and proof style are constant across Refine Labs, Passetto, and ENCODED: one-line hard-claim opener, hyphen-led bullet lists with no space after the hyphen, a horizontal separator before the turn, one to three ALL CAPS words, a "p.s." carrying the escalation or the plug, and precise slightly odd numbers with arithmetic shown. He writes plain hyphens, never em dashes, which already matches the operator's copy rule. The topics changed completely; the skeleton did not.
