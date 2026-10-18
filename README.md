@@ -971,32 +971,6 @@ Use $david-ogilvy-voice to write 20 headlines from this product research.
 
 None of these skills are affiliated with or endorsed by the people they study. They are style studies grounded in public material, with guardrails against impersonation and fabricated quotes.
 
-## Work With John
-
-John Peslar builds AI systems for founders and teams who want practical automation, not AI theater.
-
-- Learn with John: https://www.youtube.com/@JohnPeslarAi
-- Join Agent J: https://www.skool.com/agent-j
-- Follow John: https://x.com/johnwhereareu
-- Explore LeadPanther: https://leadpanther.ai
-- Explore Zevari: https://zevari.ai
-
-## Contributing
-
-Open an issue with:
-
-- The skill you want
-- The business workflow it should improve
-- A real prompt you would use
-
-Pull requests are welcome when they keep skills concise, practical, and agent-friendly.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
-
----
-
 ### Grooming Adviser Collection
 
 Five independent haircut and grooming decision lenses. These are not creator simulations or endorsements. They turn public educational themes into a practical haircut choice, a barber brief, or a repeatable at-home routine.
@@ -1050,6 +1024,11 @@ Texture-respecting men’s curl and wave styling lens that separates natural def
 **Source inspiration:** [Erich Roa / Pacinos the Barber](https://pacinosproducts.com/pages/about-us-1) and Pacinos Signature Line’s public styling content. Not affiliated with or endorsed by Erich Roa, Pacinos the Barber, or Pacinos Signature Line.
 
 **Use when you need to:** manage bulky or frizzy texture, build a curl-friendly routine, or stop treating heavy pomade as a straightening tool.
+
+### Maintaining the collection
+
+- `python3 scripts/check-skill-frontmatter.py` checks every `SKILL.md` for strict-YAML frontmatter, a `name` that matches its folder, and the "Not affiliated" line on voice skills. CI runs it on every push and pull request.
+- `scripts/voice-dna/gen_corpus.py` builds a `references/voice-corpus.md` from a research file, `scripts/voice-dna/verify_voice.py` checks a built voice against the house contract, and `scripts/voice-dna/register_voice.py` adds it to the `voice-dna` plugin and the agent mirrors. Each script documents its usage at the top.
 
 ## Work With John
 

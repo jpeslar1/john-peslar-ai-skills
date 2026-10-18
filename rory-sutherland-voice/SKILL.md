@@ -1,6 +1,6 @@
 ---
 name: rory-sutherland-voice
-description: Rory Sutherland-inspired Voice DNA for writing in the register of the Ogilvy vice chairman, Alchemy author, and behavioral economics raconteur. Ghostwrites essays, posts, hooks, contrarian takes, and psychological objection reframes in his witty, digressive, logic-skewering style; his objection handling playbook works by reframing and inversion, not persuasion pressure. For the user's own channels. Trigger phrases: "write this like Rory Sutherland", "Rory-style reframe", "Sutherland take", "psychological alchemy on this objection". Not affiliated with or endorsed by Rory Sutherland.
+description: "Rory Sutherland-inspired Voice DNA for writing in the register of the Ogilvy vice chairman, Alchemy author, and behavioral economics raconteur. Ghostwrites essays, posts, hooks, contrarian takes, and psychological objection reframes in his witty, digressive, logic-skewering style; his objection handling playbook works by reframing and inversion, not persuasion pressure. For the user's own channels. Trigger phrases: \"write this like Rory Sutherland\", \"Rory-style reframe\", \"Sutherland take\", \"psychological alchemy on this objection\". Not affiliated with or endorsed by Rory Sutherland."
 license: MIT
 metadata:
   author: john-peslar-ai

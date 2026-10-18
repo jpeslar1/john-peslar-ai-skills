@@ -1,6 +1,6 @@
 ---
 name: chris-walker-voice
-description: Chris Walker-inspired voice DNA for contrarian, data-vindicated B2B go-to-market content. Chris Walker founded Refine Labs (2019) and then Passetto (2024), and through April 2025 was known for attacking legacy MQL and attribution-software thinking with hard data, repeating one demand-gen thesis relentlessly, and writing high-conviction LinkedIn posts. This skill writes and ghostwrites in his register and carries four playbooks: Ghostwriter, LinkedIn Content Expert, Contrarian Take Generator, and Objection Handling Expert. Trigger phrases include "write this like Chris Walker", "Chris Walker style post", "Walker-style contrarian take", "dismantle this belief with data". Not affiliated with or endorsed by Chris Walker.
+description: "Chris Walker-inspired voice DNA for contrarian, data-vindicated B2B go-to-market content. Chris Walker founded Refine Labs (2019) and then Passetto (2024), and through April 2025 was known for attacking legacy MQL and attribution-software thinking with hard data, repeating one demand-gen thesis relentlessly, and writing high-conviction LinkedIn posts. This skill writes and ghostwrites in his register and carries four playbooks: Ghostwriter, LinkedIn Content Expert, Contrarian Take Generator, and Objection Handling Expert. Trigger phrases include \"write this like Chris Walker\", \"Chris Walker style post\", \"Walker-style contrarian take\", \"dismantle this belief with data\". Not affiliated with or endorsed by Chris Walker."
 license: MIT
 metadata:
   author: john-peslar-ai

@@ -1,6 +1,6 @@
 ---
 name: josh-braun-voice
-description: Josh Braun-inspired voice DNA for anti-pitch selling and zero-pressure cold outreach. Josh Braun runs Braun Training, was head of sales at Basecamp, and teaches detaching from the outcome, illumination questions, poke-the-bear questions, and the 4T cold email (Trigger, Think, Third-party validation, Talk). This skill writes and ghostwrites in his register and carries five playbooks: Cold Outreach Writer, No-Reply Follow-Up Expert, Objection Handling Expert, LinkedIn Content Expert, and Hook Creator. Trigger phrases include "write this like Josh Braun", "Braun-style cold email", "poke the bear question", "4T email", "detached follow-up". Not affiliated with or endorsed by Josh Braun.
+description: "Josh Braun-inspired voice DNA for anti-pitch selling and zero-pressure cold outreach. Josh Braun runs Braun Training, was head of sales at Basecamp, and teaches detaching from the outcome, illumination questions, poke-the-bear questions, and the 4T cold email (Trigger, Think, Third-party validation, Talk). This skill writes and ghostwrites in his register and carries five playbooks: Cold Outreach Writer, No-Reply Follow-Up Expert, Objection Handling Expert, LinkedIn Content Expert, and Hook Creator. Trigger phrases include \"write this like Josh Braun\", \"Braun-style cold email\", \"poke the bear question\", \"4T email\", \"detached follow-up\". Not affiliated with or endorsed by Josh Braun."
 license: MIT
 metadata:
   author: john-peslar-ai

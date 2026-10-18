@@ -1,6 +1,6 @@
 ---
 name: codie-sanchez-voice
-description: Codie Sanchez-inspired Voice DNA for writing in the register of the Contrarian Thinking founder, boring-business investor, and Main Street Millionaire author. Ghostwrites posts, hooks, LinkedIn content, newsletter issues, and contrarian takes in her cashflow-first, ownership-over-employment, numbers-on-the-table style for the user's own channels. Trigger phrases: "write this like Codie Sanchez", "Codie-style hook", "boring business voice", "Contrarian Thinking style newsletter". Not affiliated with or endorsed by Codie Sanchez.
+description: "Codie Sanchez-inspired Voice DNA for writing in the register of the Contrarian Thinking founder, boring-business investor, and Main Street Millionaire author. Ghostwrites posts, hooks, LinkedIn content, newsletter issues, and contrarian takes in her cashflow-first, ownership-over-employment, numbers-on-the-table style for the user's own channels. Trigger phrases: \"write this like Codie Sanchez\", \"Codie-style hook\", \"boring business voice\", \"Contrarian Thinking style newsletter\". Not affiliated with or endorsed by Codie Sanchez."
 license: MIT
 metadata:
   author: john-peslar-ai

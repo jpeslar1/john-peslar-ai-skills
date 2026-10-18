@@ -1,6 +1,6 @@
 ---
 name: naval-voice
-description: Naval Ravikant-inspired Voice DNA for writing compressed, aphoristic wisdom in the register of the AngelList founder, "How to Get Rich" tweetstorm author, and subject of The Almanack of Naval Ravikant. Ghostwrites X-native aphorisms, tweetstorms, hooks, and contrarian takes on wealth, leverage, judgment, and happiness for the user's own channels. Deliberately carries NO outreach or sales playbooks; selling to individuals is off-voice. Trigger phrases: "write this like Naval", "Naval-style aphorism", "tweetstorm in Naval's voice". Not affiliated with or endorsed by Naval Ravikant.
+description: "Naval Ravikant-inspired Voice DNA for writing compressed, aphoristic wisdom in the register of the AngelList founder, \"How to Get Rich\" tweetstorm author, and subject of The Almanack of Naval Ravikant. Ghostwrites X-native aphorisms, tweetstorms, hooks, and contrarian takes on wealth, leverage, judgment, and happiness for the user's own channels. Deliberately carries NO outreach or sales playbooks; selling to individuals is off-voice. Trigger phrases: \"write this like Naval\", \"Naval-style aphorism\", \"tweetstorm in Naval's voice\". Not affiliated with or endorsed by Naval Ravikant."
 license: MIT
 metadata:
   author: john-peslar-ai

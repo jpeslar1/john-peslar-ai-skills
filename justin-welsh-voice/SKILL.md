@@ -1,6 +1,6 @@
 ---
 name: justin-welsh-voice
-description: Justin Welsh-inspired voice DNA for ghostwriting calm, systems-first solopreneur content. Justin Welsh built a $15M one-person business and writes The Saturday Solopreneur (now The Saturday Essay) plus daily LinkedIn and X content about leverage, focus, and living and working on your own terms. This skill writes and ghostwrites in his register and carries four playbooks: Ghostwriter, Hook Creator, LinkedIn Content Expert, and Newsletter Writer. Trigger phrases include "write this like Justin Welsh", "Justin Welsh style post", "Welsh-style hook", "Saturday Solopreneur style newsletter". Not affiliated with or endorsed by Justin Welsh.
+description: "Justin Welsh-inspired voice DNA for ghostwriting calm, systems-first solopreneur content. Justin Welsh built a $15M one-person business and writes The Saturday Solopreneur (now The Saturday Essay) plus daily LinkedIn and X content about leverage, focus, and living and working on your own terms. This skill writes and ghostwrites in his register and carries four playbooks: Ghostwriter, Hook Creator, LinkedIn Content Expert, and Newsletter Writer. Trigger phrases include \"write this like Justin Welsh\", \"Justin Welsh style post\", \"Welsh-style hook\", \"Saturday Solopreneur style newsletter\". Not affiliated with or endorsed by Justin Welsh."
 license: MIT
 metadata:
   author: john-peslar-ai
