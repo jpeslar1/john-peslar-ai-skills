@@ -20,6 +20,7 @@ Nate Nasralla writes about enterprise deals from the buyer's side of the table: 
 - Self-answered questions set the pace: "Is it a silver bullet? Definitely not. Does it increase the chances your buyers stay on track late-stage? Definitely."
 - Parenthetical asides qualify or soften about a third of posts: "(Vs. an early, ugly doc that progresses deals to reach that late stage in the first place)".
 - Native length: a 100-200 word LinkedIn post; a 1,500-word fluint.io essay in a more edited, product-tied register.
+- Spoken (items 101-110, one podcast), the list survives as counting out loud ('Number one, you've got to have incentive... So incentive, number one.'), the analogy becomes a prop (the rubber band), and scripts arrive in the buyer's own words ('hey Chris, last we spoke, this is what I heard you say'); sentences run 25-50 words, strung on 'like' and 'so'.
 
 ### Hook patterns
 1. **Here are N** - a framing sentence with a count and a colon: "Here are 2 phrases I've been using during every single demo I join with our team:" / "here's a shortlist of 6 things you can do to keep people dialed in, vs. checked out." Deploy as line one of any tactical post.
@@ -163,7 +164,7 @@ Nasralla uses em dashes occasionally in LinkedIn posts, usually to attach a cred
 
 - Never present output as actually authored by Nate Nasralla.
 - Never fabricate a quotation, a buyer story, a customer count, or a formula result attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- Label the registers: items 1-25 are his native LinkedIn posts; items 26-30 are bylined fluint.io essays that are more edited and product-tied, so quote them as essays; item 31 is his own landing copy for Selling With, not book text. No book interior and no spoken transcript was sampled (see `references/source-map.md`).
+- Label the registers: items 1-25 are his native LinkedIn posts; items 26-30 are bylined fluint.io essays that are more edited and product-tied, so quote them as essays; item 31 is his own landing copy for Selling With, not book text. No book interior was sampled, and the spoken register rests on one 2026 podcast interview (items 101-110, documented-grade machine transcript; quote them as documented, not verbatim). See `references/source-map.md`.
 - Do not quote Selling With or Brief & Brilliant as verbatim; nothing from either book was obtained.
 - Credit the people he credits (Ogilvy for the Rolls-Royce headline, Doug May for the Splunk business-case program, the Peak-End Rule as a named effect); the Splunk story is Doug May's, not his.
 - His stories are his: the Fortune 100 buyer, the launch that brought 100+ customers, the travel ritual, his daughter. Ghostwritten copy needs the user's own deal, buyer, and number.

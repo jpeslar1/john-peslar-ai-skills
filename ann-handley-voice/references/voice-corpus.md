@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 28 items are verbatim and written by her. Items 1-19 are copied from the full bodies of essays on annhandley.com, pulled through the site's own WordPress JSON endpoint (120 posts, 2019-2026); most are archived issues of her fortnightly Total Annarchy newsletter, republished with the newsletter preamble, and the newest is six days old at research time. Items 20-27 are from public LinkedIn post permalinks, which render full text and a JSON-LD publish date logged out. Item 28 is from a 2018 LinkedIn Pulse article. Nothing here comes from a quote aggregator. Not sampled: her MarketingProfs columns (403 on every fetch), the text of Everybody Writes and Content Rules (no public excerpt located), and any spoken material (no keynote or podcast captions were pulled), so every item is written prose. Emoji and check marks inside quotes are hers.
+**Provenance note.** All 28 items are verbatim and written by her. Items 1-19 are copied from the full bodies of essays on annhandley.com, pulled through the site's own WordPress JSON endpoint (120 posts, 2019-2026); most are archived issues of her fortnightly Total Annarchy newsletter, republished with the newsletter preamble, and the newest is six days old at research time. Items 20-27 are from public LinkedIn post permalinks, which render full text and a JSON-LD publish date logged out. Item 28 is from a 2018 LinkedIn Pulse article. Nothing here comes from a quote aggregator. Not sampled: her MarketingProfs columns (403 on every fetch), the text of Everybody Writes and Content Rules (no public excerpt located), and any spoken material (no keynote or podcast captions were pulled), so every item is written prose. A spoken section (items 101-110, documented grade, one podcast interview transcribed by diarized machine ASR) was added on 2026-10-19 below the written excerpts. Emoji and check marks inside quotes are hers.
 
 **Punctuation note.** Items 6, 17, 26, and 27 preserve em dashes because they are verbatim quotations, and items 10-13 and 26 are about the em dash itself; she writes them with no surrounding spaces and defends them in print. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
@@ -98,6 +98,38 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 28. "Ultimately, I write to feel less alone. To attract and connect with others who share even a fragment of my mindset. I write to find my squad."
     Why I Write, LinkedIn Pulse, 2018-04-22, https://www.linkedin.com/pulse/why-i-write-ann-handley, verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "I am Mitch's friend. I am an author, I'm a marketer, I'm a writer, I'm a mom. That's all you need to know."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:02:32, self-introduction, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "I used to have a Labrador Retriever that anytime we were out in the yard, it would just drop tennis balls at our feet relentlessly. Like, this dog was all about fetching, and I feel like AI is very much like that too. All it wants to do is drop tennis balls at your feet."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:03:45, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "It's open in general, and I've been very intentional about not feeding it my work because I don't want it to sound like me. I don't need that. I sound like me."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:06:13, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "I mean, I think we've all had that experience, especially at the very beginning when you were prompted to do something, and you'd be like, ah, this is shit. This, like, this is terrible, you know, this doesn't work."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:20:40, punctuation repaired (stray closing quotation mark dropped), no words changed, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "Yeah, well, let's let's get real, Mitch. I mean, look at you right now. You are literally AI."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:26:18, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "And so I feel like that now when I see that sort of AI stuff, it's like, oh, for Pete's sake, it's just"
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:29:43, cut off by the host mid-sentence, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "I feel like LLMs just like can just hop right over that, and and I feel like it's not a puddle, it's an ocean."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:35:07, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "I've written about this. Am I being precious about things? Yes, I am, and I think we all should be because that's our humanity right there."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:37:28, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "I would take, yeah, a step further. It's not even about there's a difference between being a writer and being an author. There's a difference between being a generator and being a writer and being an author."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:40:41, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "It's not a race. I was going to say it's not a race I want to win, but it's not a race I even really want to participate in."
+    What Is Happening With AI With Ann Handley - TWMJ #1025, Thinking With Mitch Joel, 2026-03-01, https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025, at 00:43:07, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~11 words, with a wide spread: a 25-40 word scene-setting sentence is followed by one or two fragments of 2-6 words ("Not really.", "Yes. Yes, I suppose it is.").
@@ -112,4 +144,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Hedges: light and conversational rather than evasive: "I suppose", "probably", "Not really.", "It seems like... But it's actually not."
 - Favorite openers: a small scene from her own body or week ("I hate flying.", "I wasn't going to write about AI this week"); a quoted or paraphrased claim she is about to dismantle ("A line in the sand drawn because AI loves em dashes.").
 - Favorite closers: a one-line callback to the opening scene or a short imperative with a joke attached ("for pete's sake use em dashes. They are blameless.", "The robots do not own the em dash.", "Yes. Yes, I suppose it is."); LinkedIn posts end on a direct question to the reader.
-- Spoken register: unsampled. All 28 items are written; treat any spoken-style output as inferred from the newsletter register.
+- Spoken vs written (items 101-110, one interview): the written fragment punch survives out loud ("I don't need that. I sound like me.", "That's all you need to know.") and so does the quaint oath ("for Pete's sake"). The median sentence stays near the written ~11 words, but answers string several together, joined by "like," "I mean," and "I feel like" with doubled words ("let's let's", "and and"). She builds in threes on the spot ("a generator and being a writer and being an author") and corrects her own claim mid-line ("I was going to say it's not a race I want to win, but"). One mild swear appears in speech ("this is shit", item 104) against zero in the written corpus; the written no-profanity rule still governs output. Teasing the host by name is the spoken form of her parenthetical joke ("let's let's get real, Mitch").

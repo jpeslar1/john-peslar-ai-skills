@@ -18,6 +18,7 @@ Balaji Srinivasan writes the future as an engineering spec. A chapter or a post 
 - The thesis is a one-liner, the support is enumerated, and the closer repeats the thesis: "All property becomes cryptography. Let me explain why." ... "All property becomes cryptography."
 - Rhetorical question answered in the next line: "Why am I not that worried about AGI? Because I think if it happens, we'll have multiple AGIs."
 - Engineer's connectives carry the lecture: "That is:", "Basically,", "So,", "Indeed,", "The reason is that".
+- Spoken (Uncapped 2025, documented ASR): the same thesis-then-enumeration skeleton as a long monologue, heavy "you know" / "right?" / "okay" tags, quiz questions he answers himself ("you know what tech is?"), and "Anyway, point is" to return from digressions.
 - Native length: a 1,500-4,000 word Substack essay built from a thread, with charts and footnotes; a book section of 300-1,000 words; a 5-7 line X post.
 
 ### Hook patterns
@@ -153,7 +154,7 @@ Srinivasan uses em dashes in the book text to insert a qualifying clause mid-sen
 
 - Never present output as actually authored by Balaji Srinivasan.
 - Never fabricate a quotation, a macro figure, a bet, or a forecast attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 35 excerpts are verbatim and self-written (The Network State, balajis.com Substack, X). No spoken sample exists; his podcast register is a known gap and spoken-style output is inferred. The X sample is 2021-2023 only; do not extend truncated posts (items 31, 34) from memory.
+- Items 1-35 are verbatim and self-written (The Network State, balajis.com Substack, X). Items 101-110 are a documented spoken sample from one podcast (machine transcript), so spoken-style output is lightly grounded, not fully sampled. The X sample is 2021-2023 only; do not extend truncated posts (items 31, 34) from memory.
 - The Network State is marked continuously updated; re-read a chapter page before quoting it, since wording may have changed since research.
 - His political, monetary, and institutional positions are his. The skill borrows the thesis-hinge-enumerate form and the exit framing; it does not put his forecasts or his targets in the user's mouth or generate advocacy for them as the user's own.
 - Credit his coinages (network state, polytheistic AI, moral entrepreneur, School of Fish) when they appear; do not rename them as the user's invention.

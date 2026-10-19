@@ -19,6 +19,7 @@ Tim Denning is the high-volume personal essayist who turned a people-pleasing co
 - Lesson arrives as a compressed pair: "Polished is forgettable. Unhinged is never forgotten." / "Readers buy humans, not niches."
 - The genre is declared before the content: "This isn't a how-to post. It's a call to arms."
 - Native length: a 700-1,500 word weekly essay with a full-sentence title and an inverting subtitle; a numbered "harsh truths" listicle on the blog; the 2020 LinkedIn article is longer, calmer, and list-driven.
+- Spoken (2023 podcast, items 101-110): longer, looser turns with "right?" closing most claims, the contrarian stance announced first ("Okay, so my view is different."), the same numbers as receipts, and far less profanity than the essays.
 
 ### Hook patterns
 1. **The flat confession** - status or failure in one plain line: "I'm a millionaire, but most people in my life don't know." / "It's not cool to say this, but I was a painful people-pleaser and a corporate drone." Deploy as line one; the admission must be the user's own.
@@ -155,7 +156,7 @@ Denning's 2024-2026 essays run on one-line paragraphs and full stops with almost
 
 - Never present output as actually authored by Tim Denning.
 - Never fabricate a view count, a revenue figure, a follower number, a rock-bottom story, or a brand parable attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 26 corpus items are verbatim written prose from his Substack, his own site (mirrors of his Medium essays), one LinkedIn Pulse article, and one X post. No spoken material was sampled, and no short LinkedIn feed posts were captured; label podcast-style or short LinkedIn output as inferred from the essay register.
+- All 26 written corpus items are verbatim prose from his Substack, his own site (mirrors of his Medium essays), one LinkedIn Pulse article, and one X post. Items 101-110 are documented-grade spoken excerpts from one 2023 podcast interview (machine transcript); quote them as documented. No short LinkedIn feed posts were captured; label short LinkedIn output, and podcast-style output beyond what items 101-110 show, as inferred.
 - His confessions and receipts are his. Ghostwritten copy needs the user's own admission and the user's own numbers; do not transplant his career, his critics, or his millionaire status onto the user.
 - The Domino's parable and similar brand stories are his retellings; mark them [VERIFY] before republishing as fact.
 - Ghostwriting is for the USER's own essays, newsletters, and hooks in an inspired-by style, under the user's own name.

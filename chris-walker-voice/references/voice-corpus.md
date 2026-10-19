@@ -215,6 +215,34 @@ From mid-2025 Walker left B2B marketing. He is CEO of ENCODED (neuroperformance 
 142. "When knowledge is abundant and all you have all this information, the advantage inverts and it becomes now I need to be actually creative. I need to pave my own path. I have to come up with new ideas. I have to think for myself."
     Same video, documented (ASR)
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+Scope note. RV240 is his farewell as host. Most of its 24 minutes describe the post-B2B pivot (the ENCODED-era material this skill excludes), so only lines about the handoff, his B2B track record, and how he runs and closes the live show were taken. Speaker is S1 in chunk 1 and S0 in chunk 2 (the producer, Tanya, asks the questions).
+
+143. "What's up, y'all? Every- seems like some people got the email that we're back. Casper, good to see you. ... Adam's in the building. Right on. Perfect. Cool. So I am going to get this started right now."
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at 00:00:17, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (show opener; roll call of attendees trimmed, omission marked with ellipsis)
+
+144. "Some people here listening might be like, what the fuck is this guy on? Or like, what is he talking about? I don't buy into this. I don't believe this, which is totally cool, and I know people will respond that way"
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:03:45, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside one diarized monologue segment running 00:00:17-00:17:50; pre-empting the audience's skepticism)
+
+145. "...so this event will continue, but will be hosted by Carolyn in the future. Carolyn is also now managing partner of Passetto. So I become a partner and an owner in the business, but Carolyn will own execution of our strategy..."
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:09:15, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside one diarized monologue segment running 00:00:17-00:17:50; trailing clause omitted, marked with ellipsis)
+
+146. "Does it hurt to, like, give up this event that I've literally done, like, more than 500 episodes for? Yeah, it does."
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:12:19, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside one diarized monologue segment running 00:00:17-00:17:50)
+
+147. "You could come to this one that Carolyn's going to talk through about how all the stuff is evolving in the go-to-market strategy and revenue operations in that space"
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:12:34, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside one diarized monologue segment running 00:00:17-00:17:50)
+
+148. "I've like given my all to this stuff for 5, 4, 5, maybe 5 years now, and so we'll continue to own the businesses that impact the space, and I will be continuing to guide entrepreneurs that are doing great work in these areas, but it's like a literal, figurative hand of the torch right now and let other people start moving with it."
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:12:58, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside one diarized monologue segment running 00:00:17-00:17:50)
+
+149. "For years, I, on paper, like, had a business that does eight figures in revenue, a ton of employees that work for me, hundreds of thousands of followers on LinkedIn, top 50, 100 podcasts in the world."
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:13:24, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside one diarized monologue segment running 00:00:17-00:17:50)
+
+150. "And so again, probably not the episode you all expected when you showed up here, huh? ... I will still be posting on LinkedIn. I'll still be posting content."
+    "RV240 - The End Of An Era (And Beginning Of A New One) - Go To Market Live Episode 45", Revenue Vitals (now GTM Live), 2025-04-04, https://podcasters.spotify.com/pod/show/b2bgtmlive/episodes/RV240---The-End-Of-An-Era-And-Beginning-Of-A-New-One---Go-To-Market-Live-Episode-45-e312tgb, at ~00:22:59, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (estimated from position inside the segment starting 00:22:15; omission marked with ellipsis)
+
 ## Derived stats (estimates from this corpus)
 
 - Median sentence length: ~14 words (range 3-30; verdict fragments like "It makes no sense." punctuate longer evidence sentences).
@@ -225,3 +253,4 @@ From mid-2025 Walker left B2B marketing. He is CEO of ENCODED (neuroperformance 
 - Favorite openers: "Lead Gen vs. Demand Gen", "CONFIRMED WITH DATA:", "Steal this...".
 - Favorite closers: one-line kicker plus a "p.s." carrying an extra opinion or preemptive caveat.
 - Numbers: precise, slightly odd figures as proof (\$7.9MM ARR, 0.3% lead-to-win) with arithmetic shown in public.
+- Spoken vs written (items 143-150, RV240 live show, plus the earlier ASR items 118-123): the written verdict fragments ('It makes no sense.') vanish in a live monologue; turns run 30-60 words chained with 'and so', with 'like' as the dominant filler (four times in item 146 and 148 alone), self-corrections ('5, 4, 5, maybe 5 years'), and audience check-ins ('huh?', 'right?'). He opens with a casual roll call ('What's up, y'all?', 'Right on. Perfect. Cool.') and pre-empts skepticism out loud the way the written 'p.s.' does. Numbers stay round and big when he speaks ('eight figures', 'more than 500 episodes') rather than the odd precise figures of the posts. Profanity: one 'what the fuck' in 24 minutes, none in the written corpus. One farewell episode is thin and atypical; a regular RV episode is the better spoken baseline.

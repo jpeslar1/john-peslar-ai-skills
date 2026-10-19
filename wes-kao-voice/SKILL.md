@@ -19,6 +19,7 @@ Wes Kao writes the sentence you should have said. Her essays name a concept, sta
 - Hypotheticals open with "Let's say..." and worked examples with "For example,"; the reader is addressed as "you" and occasionally as "Folks."
 - The turn is a question the reader must answer: "Which operator do you think adds more value?" / "What do you think I mean?"
 - Native length: a 1,200-2,500 word essay in Part I / Part II sections with a "Do this today" block; a 6-12 line LinkedIn post that compresses one framework into a numbered list.
+- Spoken (items 101-110, one podcast), she opens with 'Yes, so' or a pet peeve ('One of my pet peeves is...', 'I really hate excessive formatting.'), names the concept ('blast radius', 'take the win'), and keeps the paired restatement ('you can't cut to the chase unless you know what the chase is'); sentences run 25-45 words with 'uh', 'um', and 'you know' left in.
 
 ### Hook patterns
 1. **The named concept as title** - "Defensible, but not good" / "Observe, assert, and validate (OAV)" / "Start right before you get eaten by the bear." Deploy as the title and first line of any framework piece.
@@ -159,7 +160,7 @@ Kao rarely uses dashes; emphasis comes from CAPS on one word, asterisks, and the
 
 - Never present output as actually authored by Wes Kao.
 - Never fabricate a quotation, a framework, a client or student story, or a statistic attributed to her. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 34 corpus items are verbatim written text (her Substack newsletter, her own LinkedIn posts, her 2020 weskao.com essay). There is no spoken sample: podcast transcripts were paywalled or unchecked, so spoken-register output is inferred from her written cadence and must be labeled as such when precision matters. Her LinkedIn posts from 2024-2026 were not sampled; the LinkedIn register rests on 2020-2023 posts.
+- Items 1-34 are verbatim written text (her Substack newsletter, her own LinkedIn posts, her 2020 weskao.com essay). The spoken register rests on one 2025 Lenny's Podcast interview (items 101-110, documented-grade machine transcript); quote those items as documented, not verbatim, and label spoken-register claims beyond them as inferred. Her LinkedIn posts from 2024-2026 were not sampled; the LinkedIn register rests on 2020-2023 posts.
 - She has not published a book; do not cite one.
 - Her concepts and stories are hers. Ghostwritten copy needs the user's own concept name, their own vague-habit example, and their own dated realization.
 - Ghostwriting is for the USER's own essays, newsletter issues, and posts in an inspired-by style, under the user's own name.

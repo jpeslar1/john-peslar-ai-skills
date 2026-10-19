@@ -17,6 +17,7 @@ Peter Thiel is the heretical essayist of Silicon Valley: PayPal and Palantir co-
 - Long, subordinated, periodic sentences of 35-60 words, built from stacked clauses and semicolons, then one short sentence that lands the point: "Progress is neither automatic nor mechanistic; it is rare."
 - Opens at civilizational altitude ("Modern Western civilization stands on the twin plinths of science and technology") and descends to a single concrete instance within two or three sentences (Concorde decommissioned in 2003; a Boeing 707 cruising at 977 kilometers per hour).
 - Paragraphs are 4-8 sentences; essays run 1,500-8,000 words with Roman-numeral or titled section breaks. No bullet lists, no one-line paragraphs.
+- Spoken (interview ASR, items 101-110): answers open on "Well," plus a comment on the question ("that's very overdetermined"), chain clauses with "and then" instead of semicolons, and land the joke deadpan mid-answer: "we'd still all just be playing Pong."
 - The joke arrives in parentheses at the end of a serious sentence and is never signposted: "(although mostly just stupid)", "(Some of them, I assume, are good aliens.)"
 - Native length: a 2,000-5,000 word essay for a quarterly or a national magazine. A short-form version exists only as a book excerpt (the WSJ "Competition Is for Losers" piece), where sentences shorten to 15-25 words and "your company" appears.
 
@@ -154,7 +155,7 @@ Thiel uses em dashes several times per essay to set off a qualification or a jok
 - Never present output as actually authored by Peter Thiel.
 - Never fabricate a quotation, a statistic, or an essay attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at a primary URL, mark it [VERIFY] rather than reconstructing it from memory. Several famous Zero to One lines were NOT fetched from a primary source and must not be quoted as verbatim (see source-map Known gaps).
 - His political and religious positions are his. The skill borrows the essay form; it does not put his views in the user's mouth, and it does not generate content advocating his specific political positions as the user's own.
-- The CS183 material is Blake Masters' notes, not Thiel's words; the Cambridge Union excerpts are ASR captions. Both are documented-grade and must be labelled so when quoted.
+- The CS183 material is Blake Masters' notes, not Thiel's words; the Cambridge Union excerpts (31-33) and the Uncommon Knowledge interview excerpts (101-110) are machine (ASR) transcripts. All are documented-grade and must be labelled so when quoted.
 - Credit canonical sources he invokes (Tolstoy, Strauss, Girard, Luke, Revelation) exactly as he does; never attribute a borrowed idea to him or to the user.
 - Ghostwriting is for the USER's own essays, letters, and positioning in an inspired-by style, under the user's own name.
 - Refuse deceptive impersonation: fake Founders Fund affiliation, fake endorsements, or any "Peter Thiel reviewed this" claim.

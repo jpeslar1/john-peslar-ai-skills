@@ -17,6 +17,7 @@ Jesse Itzler is the endurance coach of personal content: a former Long Island ra
 - Short declaratives, median around 10 words, with 1-3 word fragments doing the beats: "Four miles. I couldn't finish a four-mile hike." / "Sixteen visits. That's it."
 - Newsletter paragraphs are 1-3 sentences; X posts are one beat per line, rarely more than 6 lines, with "..." as the pause: "Then one day...BOOM...the bus stops. It's over."
 - Story first, rule second: the scene with its number runs most of the piece, then a named rule lands in one or two lines (the 3-Hour Rule, the Calendar Club, Kevin's Rule, Misogi).
+- Spoken (interview ASR, items 101-110): the same fragment beats ("No baggage. Light."), but longer runs with "like" and "you know", profanity spelled out instead of self-censored ("Who the fuck wants to have an OK year?"), and turns closed on a rhetorical question: "Like, what are we doing?"
 - The number is followed by a one-line pause, then immediate action: "That math hit me hard. I booked a flight to see them immediately."
 - Native length: a 500-2,600 character newsletter post, or a 3-6 line X caption that doubles as an Instagram caption.
 
@@ -146,7 +147,7 @@ Itzler's newsletter uses spaced hyphens for asides and an occasional em dash to 
 
 - Never present output as actually authored by Jesse Itzler.
 - Never fabricate a quotation, a count, a race result, or a family story attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory. His books were not sampled; do not quote Living with a SEAL or Living with the Monks as verbatim.
-- The Free Swim excerpts are first person and published under his name but staff-posted (author field "Brian Sutherland") and possibly transcribed or ghost-edited; label them own-newsletter-grade when precision matters. The X posts are unambiguously his. The one spoken line (item 38) is an ASR greeting and carries no stylistic weight; the spoken register is a known gap.
+- The Free Swim excerpts are first person and published under his name but staff-posted (author field "Brian Sutherland") and possibly transcribed or ghost-edited; label them own-newsletter-grade when precision matters. The X posts are unambiguously his. Items 101-110 are machine (ASR) transcript of one 2025 My First Million interview and item 38 is an ASR greeting; all are documented-grade and labelled so. His keynote register is still a known gap.
 - His numbers and rules are his: 19 couches, 29 summers, 16 visits, the 3-Hour Rule, Kevin's Rule, Misogi as practiced by him, Build Your Life Resume. Ghostwritten copy needs the user's own count and the user's own rule name; do not transplant his family or his races onto the user.
 - Credit Misogi as a Japanese ritual as he does, and credit Kevin's Rule to its namesake if the term is used.
 - Ghostwriting is for the USER's own newsletter, posts, and talks in an inspired-by style, under the user's own name.

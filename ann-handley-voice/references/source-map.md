@@ -17,18 +17,19 @@ Refresh cadence: every 6 months (next: 2027-04)
 | Essay: The One Email Metric You Need to Track (Feb 25 2023) | https://annhandley.com/the-one-email-metric-to-track/ | OWBR coinage and pronunciation guide; "harbinger" joke | Open |
 | LinkedIn posts (annhandley) | e.g. https://www.linkedin.com/posts/annhandley_so-many-people-sent-me-this-graphic-this-activity-7482823969113288704-0cnS | Full post text and JSON-LD datePublished, logged out; 8 posts 2022-2026 sampled | Permalinks render with a desktop UA; the /in/annhandley/ profile authwalls (HTTP 999). Permalinks found via WebSearch `"Ann Handley" "on LinkedIn:" <topic>` and a third-party hero page |
 | LinkedIn Pulse: Why I Write (Apr 22 2018) | https://www.linkedin.com/pulse/why-i-write-ann-handley | "I write to find my squad"; the "More articles by" list points to newer Pulse pieces | Open with desktop UA |
+| Thinking With Mitch Joel #1025, "What Is Happening With AI With Ann Handley" (2026-03-01) | https://sixpixels.libsyn.com/what-is-happening-with-ai-with-ann-handley-twmj-1025 (MP3 https://traffic.libsyn.com/secure/sixpixels/TWMJ_1025_Ann_Handley.mp3?dest-id=763836) | Spoken register: items 101-110; minutes 2-47 transcribed, a two-person conversation on AI and writing | Open RSS enclosure (libsyn); MAI-Transcribe-2 via OpenRouter, $0.075 |
 | MarketingProfs author page | https://www.marketingprofs.com/authors/36/ann-handley | Her MarketingProfs columns | BLOCKED: 403 for every UA tried |
 | Everybody Writes (2nd ed. 2022) and Content Rules | n/a | Books | Not fetched; no public excerpt located |
 
 ## What the corpus rests on
 
-All 28 excerpts are verbatim and written by her: 19 from the full bodies of essays on annhandley.com (most of them archived Total Annarchy issues, 2019 to October 2026), 8 from public LinkedIn post permalinks (2022 to 2026), and 1 from a 2018 LinkedIn Pulse article. Nothing comes from a quote aggregator and nothing is documented-grade; there is no ASR material at all. The newsletter register is covered in depth across seven years; the LinkedIn sample is smaller and skews to 2026 and the em-dash theme. Confidence in wording is high for every item.
+All 28 excerpts are verbatim and written by her: 19 from the full bodies of essays on annhandley.com (most of them archived Total Annarchy issues, 2019 to October 2026), 8 from public LinkedIn post permalinks (2022 to 2026), and 1 from a 2018 LinkedIn Pulse article. Nothing comes from a quote aggregator. Ten further documented-grade spoken items (101-110) come from one diarized machine transcript of a podcast interview, added 2026-10-19. The newsletter register is covered in depth across seven years; the LinkedIn sample is smaller and skews to 2026 and the em-dash theme. Confidence in wording is high for every item.
 
 ## Known gaps
 
 - **MarketingProfs columns not represented.** The author page and column URLs return 403 on every fetch. Her professional-column register is inferred from the newsletter.
 - **Book text not sampled.** No public excerpt of Everybody Writes or Content Rules was located. Her own newsletter summaries of book ideas (the Ugly First Draft, "write the hairs") stand in; do not quote the books as verbatim.
-- **No spoken sample.** Keynotes and podcast appearances (for example Jay Acunzo's How Stories Happen) were not captioned; all 28 items are written. Spoken-style output is inferred.
+- **Spoken sample is one interview.** Items 101-110 come from one Thinking With Mitch Joel conversation (#1025, 2026-03-01), about 45 minutes of diarized machine transcript on AI and writing. That covers her conversational register: longer looser sentences, on-the-spot triads, teasing, one mild swear. Still missing: a keynote (her most rehearsed spoken mode), a second interview on a non-AI topic, and anything that confirms recurring spoken catchphrases. Wording is documented grade, not verbatim.
 - **LinkedIn sample is thin and skewed.** The profile and /recent-activity/ pages authwall, so permalinks came only from WebSearch and a third-party hero page: 10 posts located, 8 used, concentrated in 2026 and on the em-dash theme.
 - **Anything published after 2026-10-19 is unsampled.**
 
@@ -37,7 +38,7 @@ All 28 excerpts are verbatim and written by her: 19 from the full bodies of essa
 1. Re-pull the blog through WordPress: `curl -s 'https://annhandley.com/wp-json/wp/v2/posts?per_page=40&page=1'` (default curl UA, not a fake Chrome UA) and continue through pages 2-3; convert `content.rendered` HTML to text locally. Add 5-10 verbatim excerpts from the newest issues, continuing the numbering, and note the newsletter preamble date where it differs from the republish date.
 2. Find new LinkedIn permalinks with WebSearch `"Ann Handley" "on LinkedIn:" <topic>`; fetch each permalink with a desktop UA and read the full text from `attributed-text-segment-list__content` and the date from the JSON-LD `datePublished`. Add to the LinkedIn section.
 3. Check the LinkedIn Pulse "More articles by" list at https://www.linkedin.com/pulse/why-i-write-ann-handley for newer long-form pieces (for example the Aug 27 2026 Amazon book-destruction article) and sample one if the register differs.
-4. If a spoken register is wanted, caption a keynote or podcast appearance with `yt-dlp --write-auto-sub --skip-download --sub-lang en <url>` and add 3-5 documented excerpts under a "Documented excerpts (ASR captions)" heading, flagged as such.
+4. Add a second spoken sample (a keynote published as audio, or another long interview) from an RSS enclosure: `python3 scripts/voice-dna/transcribe.py "<mp3-url>" --out /private/tmp/claude-501/stt/ann-handley --start-min 2 --max-min 45 --budget 0.15`, identify her speaker label per chunk from context, and append 6-10 documented items to the spoken section (no YouTube or yt-dlp).
 5. Retry https://www.marketingprofs.com/authors/36/ann-handley once per refresh; if it opens, add 2-3 column excerpts in their own section.
 6. Re-verify that every URL is still live. Never carry a quote forward that was not re-read at its source.
 

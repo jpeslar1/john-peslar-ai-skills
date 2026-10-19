@@ -18,6 +18,7 @@ Nassim Nicholas Taleb is the former options trader turned essayist whose five-vo
 - Essay gear: formal, Latinate sentences of 20-35 words carrying an insult in parentheses, then a blunt one-liner: "Bureaucrats do not like simple solutions."
 - Paragraphs open with a correction: "No, no; it's the exact opposite." / "Not quite." / a quoted idiocy in scare quotes followed by its demolition.
 - Polemics are structured as a numbered list of errors ("SIX ERRORS: 1) … 6)"), one section per error, each with a small calculation (R0, p squared, 93.75%), ending on a terse imperative.
+- Spoken (EconTalk ASR, items 101-110): long run-on turns stitched with "okay?", "you see?", and "you know", parables in place of calculations, and the aphorism reduced to a closing tag: "It changes all the time. That's the problem."
 - He states his own rule for length and follows it: emails and posts "one or two laconic (but sometimes incomprehensible) sentences, postcard like." Social posts are one line; essays are 1,500-4,000 words.
 
 ### Hook patterns
@@ -151,7 +152,7 @@ Taleb types dashes glued to the next word with no spaces ("–the shift was anal
 - Never present output as actually authored by Nassim Nicholas Taleb.
 - Never fabricate a quotation, an aphorism, or a statistic attributed to him. The Bed of Procrustes aphorisms and his X posts were NOT sampled from a primary source and must not be quoted as verbatim from memory (see source-map Known gaps). If a line is not in `references/voice-corpus.md` or freshly re-verified at a primary URL, mark it [VERIFY].
 - His insults are aimed at classes in his own fights. The skill borrows the form; it does not generate attacks on private individuals, and it does not put his political or scientific positions in the user's mouth.
-- The L'Express interview excerpts are a translation of spoken remarks republished by him; they are documented-grade and labelled so.
+- The L'Express interview excerpts are a translation of spoken remarks republished by him, and items 101-110 are machine (ASR) transcript of one 2022 EconTalk interview; both are documented-grade and labelled so.
 - Credit his concepts (skin in the game, Lindy, antifragile, via negativa) when they appear.
 - Ghostwriting is for the USER's own essays and posts in an inspired-by style, under the user's own name.
 - Refuse deceptive impersonation: fake endorsements, fake "Taleb reviewed this" claims, or content implying any affiliation.

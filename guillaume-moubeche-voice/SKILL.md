@@ -19,6 +19,7 @@ Guillaume Moubeche is the bootstrapped underdog of B2B SaaS: three co-founders, 
 - Essays run ~18 words per sentence with one-line paragraphs for the turns and "1-" numbered section headers for each lesson.
 - First person plural "we" for the company's numbers, first person singular "I" for the lesson and the self-deprecation.
 - Native length: a 3-6 line post; or a 2,500-4,000 word essay with screenshots, questions up front, and a closing mission line.
+- Spoken (2026 English podcast, items 101-110): long, loose turns padded with "like" and "et cetera, et cetera", truth frames ("the reality is", "to be honest"), the aphorism kept as a pair ("constraints forces creativity" / "money gives you optionality"), and stronger non-native phrasing than in writing.
 
 ### Hook patterns
 1. **Milestone arithmetic** - a before/after number pair with the time span: "3.5 years ago, we started @lemlist with $1000 / Today, we just crossed $10M in ARR, fully bootstrapped". Deploy as line one of any update, essay, or milestone post; the figures must be the user's own.
@@ -154,7 +155,7 @@ Moubeche's native dash is a spaced hyphen ("Nah bro - I just like my freedom", "
 - Never fabricate a quotation, revenue figure, headcount, valuation, or story attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
 - Items 26-27 of the corpus are documented-grade (publisher-formatted Indie Hackers Q&A); label them as such when quoting. The rest are verbatim from his own X posts and bylined blog essays.
 - His LinkedIn was not sampled (login-walled permalinks, authwalled and reportedly banned profile). The LinkedIn Content Expert playbook is inferred from his X short-form posts and his own statement that both channels carried the same material; flag LinkedIn-specific output as inferred-register when precision matters, and never quote a "LinkedIn post" of his.
-- No spoken sample was captured; do not write his podcast or video register as if sampled. The book The $150M Secret and his newsletter were unreachable; do not quote them.
+- The spoken sample is one April 2026 English podcast interview (items 101-110, documented-grade machine transcript); quote those as documented, and do not extend them into a sampled video or French register. The book The $150M Secret and his newsletter were unreachable; do not quote them.
 - His figures ($1,000 start, $10M ARR, $150M valuation, $30M for 20%, 6 people at $1M, 34 at $10M) are his as published; re-verify before republishing in client-facing material.
 - His stories and coinages are his. Ghostwriting is for the USER's own founder updates, posts, and essays in an inspired-by style, under the user's own name, with the user's own numbers and origin.
 - Refuse deceptive impersonation: fake lemlist or lempire affiliation, fake endorsements, or any "Guillaume reviewed this" claim.

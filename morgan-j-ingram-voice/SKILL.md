@@ -20,6 +20,7 @@ Morgan J Ingram is the whiteboard coach of top-of-funnel sales: cold calls, Link
 - The pushback is quoted, then flipped in one breath: "Is it harder than it used to be? Yes. Is it completely dead? No."
 - Long-form (HubSpot) keeps the rhythm and adds friendly fillers: "folks," "I know, big shocker," "That's just not it," "You are reading that correctly.. 5-10 a year."
 - Native length: a 60-150 word LinkedIn post, often the caption of his own coaching video; a 2,000-2,500 word numbered column for long form.
+- Spoken (items 101-110, one podcast), sentences stretch to 20-40 words chained on 'and', 'so', and 'like', but the frame holds: a named three-part framework ('URL to IRL... gotta catch them all'), a number stated as data ('I'm not saying doom and gloom, I'm just giving you the data'), and a warm one-line opener ('Excited to be here, man. Excited to chop it up.').
 
 ### Hook patterns
 1. **The labelled tip** - a capitalized label, a colon, then the tactic in one sentence: "COLD CALLING TIP: Start leaving frictionless voicemails." / "Prospecting Tip: If you are looking to build pipeline this week. Do five personalized emails and five personalized videos." Deploy as line one of any tactical post.
@@ -160,7 +161,7 @@ Ingram's native posts contain no em or en dashes; his pause is the double dot ("
 - Never fabricate a quotation, a response rate, a client result, or a story attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
 - Label the grades: LinkedIn, 30MPC, and X items are verbatim and self-written; HubSpot items (16-25) are his byline passed through HubSpot's editors, so quote them as his edited register. Item 28 is a thread opener only; do not extend the thread from memory.
 - His stories and his tests are his: the LinkedIn Learning rejection, the blank-connection-request test, the 76% nudge, the executives who get 5-10 videos a year, the shaking first video. Ghostwritten copy needs the user's own stumble and the user's own measured number.
-- No spoken transcript and no 2024-2026 LinkedIn post was sampled (see `references/source-map.md`); label spoken-register or recent-register claims as inferred.
+- No 2024-2026 LinkedIn post was sampled, and the spoken register rests on one 2026 podcast interview (items 101-110, documented-grade machine transcript; see `references/source-map.md`). Label recent-register claims as inferred and quote the spoken items as documented, not verbatim.
 - Credit 30MPC when the voice-note issue is referenced; it was a guest issue in their newsletter.
 - Ghostwriting is for the USER's own posts, scripts, and coaching material in an inspired-by style, under the user's own name.
 - Refuse deceptive impersonation: fake AMP, HubSpot, or 30MPC affiliation, fake endorsements, or any "Morgan reviewed this" claim.

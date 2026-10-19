@@ -4,7 +4,7 @@ Research date: 2026-10-18
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 31 items are verbatim, written under his own byline. Items 1-19 are copied from four Entrepreneur.com contributor columns (2017-2018) whose JSON-LD names Grant Cardone as author and which carry the standard 'Opinions expressed by Entrepreneur contributors are their own' notice; the raw HTML fetched without login. Items 20-28 are copied from Wayback Machine captures of his own grantcardone.com blog and Strategy of the Week posts (2016-2018), signed 'Be great, GC'; the live site Cloudflare-blocks non-browser fetches and has since retired the blog. Items 29-31 are his own X posts (2025-2026) read from the public syndication JSON, with trailing t.co links omitted and HTML entities decoded. Nothing here comes from a quote aggregator, and the email-gated official '200+ quotes' list was not used. There is NO spoken or ASR sample: yt-dlp returned HTTP 429 on three attempts, so his YouTube and stage voice is unsampled and every cadence note rests on his written register.
+**Provenance note.** All 31 items are verbatim, written under his own byline. Items 1-19 are copied from four Entrepreneur.com contributor columns (2017-2018) whose JSON-LD names Grant Cardone as author and which carry the standard 'Opinions expressed by Entrepreneur contributors are their own' notice; the raw HTML fetched without login. Items 20-28 are copied from Wayback Machine captures of his own grantcardone.com blog and Strategy of the Week posts (2016-2018), signed 'Be great, GC'; the live site Cloudflare-blocks non-browser fetches and has since retired the blog. Items 29-31 are his own X posts (2025-2026) read from the public syndication JSON, with trailing t.co links omitted and HTML entities decoded. Nothing here comes from a quote aggregator, and the email-gated official '200+ quotes' list was not used. There is NO spoken or ASR sample: yt-dlp returned HTTP 429 on three attempts, so his YouTube and stage voice is unsampled and every cadence note rests on his written register. Update 2026-10-19: items 101-110 are a spoken sample, documented-grade diarized ASR of one 2026 interview (David Lin, republished as Cardone Zone Ep 315), in the section "Spoken excerpts" below.
 
 **Punctuation note.** Item 28 preserves an em dash ('10X Balls—whatever gender you are') because it is a verbatim quotation; on X he types a spaced hyphen where a dash would go (items 29 and 31). The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
@@ -107,6 +107,38 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 31. "Looking for a Bitcoin OG who wants to move his bitcoin to live in Miami beach house - 700 BTC 10,000 sq feet, 7 BR, 6 car garage, private beach - approved for new home."
     X post, @GrantCardone, 2026-02-09, https://x.com/GrantCardone/status/2020950819336810908, verbatim (syndication JSON; line break after "700 BTC" in original; trailing t.co link omitted)
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "We have a mortgage crisis in this country. We do not have an affordability crisis, we have a mortgage crisis."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:02:00, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "Yeah. Well, you know, home is a terrible investment anyway, so I don't know what the big loss is. You should buy the whole building. Don't, don't, don't buy one unit."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:06:02, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "Let's keep it real. If you're not going to invest, you're going to be poor the rest of your life."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:07:43, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "Dude, I stay broke. I stay broke all the time. That's why I'll never be broke."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:11:26, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "You need cash flow that's- that's independent from- from situations, from Irans and inflations, and you need positive cash flow. You don't need cash, you need cash flow."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:12:23, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "I want cash flow because as long as I have enough cash flow, I have a saying, how stupid can you, can you go? You can go as stupid as your cash flow."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:22:00, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (quote falls inside the segment that starts here)
+
+107. "First, you have to make a decision. If you're hungry, you got to make a decision to eat. ... Make a wealth decision. Number two, learn what wealthy people do."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:28:16, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (omission marked with ellipsis, no words changed)
+
+108. "So if you believe the system is rigged, I agree with you. Now you need to learn the system. Don't, don't hate the player, and don't hate the game. Learn the player, learn what they do to game the system and play it."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:30:32, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (quote falls inside the segment that starts here)
+
+109. "None of those people have ever met me. How do I handle it? I just go do another deal, man."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:35:14, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (fillers removed)
+
+110. "Do, do I want this part of the game? No. ... You know, people are like, I don't want to get rich because I'm going to have Grant's problems. No, you want to get rich and you want to have my problems."
+    "The Entire Planet has 1930 Depression Once Interest Rates Hit This Level", The Cardone Zone (Ep 315; his interview with David Lin, republished on his own show), 2026-07-09, https://cardonezone.libsyn.com/the-entire-planet-has-1930-depression-once-interest-rates-hit-this-level, at 00:38:31, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context) (omission marked with ellipsis, no words changed)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~10 words in columns; sentences rarely exceed 15 words, and the longest in the sample (item 22) is still under 30.
@@ -122,4 +154,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - X register: lowercase 'i', spaced hyphen as a dash, ampersand for 'and', product-listing specificity (year, model, hours, square feet).
 - Favorite openers: a direct question to the reader ('Where do you get your advice from?'); a flat command ('If you want money, you've got to get on offense.'); 'Look,'.
 - Favorite closers: an exclamation-mark rule ('"Big think" changes the world!'); a dare ('Come fly with me up here.'); 'Be great, GC' on his own blog.
-- Spoken vs written: no spoken sample was obtained, so the shouty register is inferred only from written passages that mimic speech (item 21); treat any claim about his stage cadence as unsampled.
+- Spoken vs written (items 101-110, one 40-minute interview): spoken sentences stay as short as the columns (~8-12 words) but come with stacked restarts ('Don't, don't, don't buy one unit', 'that's- that's'), 'uh/um' fillers (cut in item 109), and tag checks ('okay?', 'by the way', 'man', 'dude', the interviewer's first name). The exclamation marks of the columns become repetition of one phrase ('cash flow' three times in item 105). Hedges that are absent in writing do appear when he speaks about politics and markets ('I think he's a Trump ally'), but never about his own rules. Catchphrases heard: 'Let's keep it real', 'You can go as stupid as your cash flow', 'Number two', 'it comes with the turf'. Profanity: one 'damn' in 40 minutes. One interview is thin; the stage register (10X conference) is still unsampled.

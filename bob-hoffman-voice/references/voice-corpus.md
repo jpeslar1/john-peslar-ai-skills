@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 31 items are verbatim, written by Hoffman himself. Items 1-18 are copied from the full post bodies of The Ad Contrarian blog (Blogger), read through the blog's own JSON feed, which returns complete content, title, publish date, and permalink; posts span 2014-2019. Items 19-31 are copied from the full text of The Ad Contrarian newsletter issues #245-#338 (2021-2025) as served by the Campaign Monitor (createsend) archive linked from his site; item 21 notes the original uses curly apostrophes. Where lines were omitted inside an excerpt the source line says so. Nothing here comes from a quote aggregator, and no ASR or journalist transcription was needed or used. His books (BadMen, Adscam, The Three Word Brief, Inside The Black Box) were not excerpted from publisher pages; newsletter #278 reruns the Three-Word Brief essay in full and covers that thesis. His X account @AdContrarian was not sampled. No spoken sample exists in this corpus. Profanity inside quotes is his.
+**Provenance note.** All 31 items are verbatim, written by Hoffman himself. Items 1-18 are copied from the full post bodies of The Ad Contrarian blog (Blogger), read through the blog's own JSON feed, which returns complete content, title, publish date, and permalink; posts span 2014-2019. Items 19-31 are copied from the full text of The Ad Contrarian newsletter issues #245-#338 (2021-2025) as served by the Campaign Monitor (createsend) archive linked from his site; item 21 notes the original uses curly apostrophes. Where lines were omitted inside an excerpt the source line says so. Nothing here comes from a quote aggregator, and no ASR or journalist transcription was needed or used. His books (BadMen, Adscam, The Three Word Brief, Inside The Black Box) were not excerpted from publisher pages; newsletter #278 reruns the Three-Word Brief essay in full and covers that thesis. His X account @AdContrarian was not sampled. No spoken sample exists in this corpus. Update 2026-10-19: a spoken section (items 101-110, documented grade, one podcast interview transcribed by diarized machine ASR) now follows the written excerpts. Profanity inside quotes is his.
 
 **Punctuation note.** Hoffman's native dash is the double hyphen ("--"), preserved in items 3, 10, 12, 20, and 29 because they are verbatim; item 27 uses a spaced single hyphen as set in the source. No em or en dashes appear in the sampled text. The operator's copy rule still bans em and en dashes in anything generated in this voice, and the double hyphen should not be promoted to one; see the Punctuation Override in SKILL.md.
 
@@ -107,6 +107,38 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 31. "Who's Surprised By Zuckerberg's Statement? / Not this blogweasel."
     Newsletter #338: It's A Free Book, The Ad Contrarian newsletter, 2025-05-03, https://createsend.com/t/d-23FA5E4886C948502540EF23F30FEDED, verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "The legend means I'm old, right?"
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:01:20, his first line after the host's introduction, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "I'm losing interest in the advertising business. It's, it used to be a fascinating business, and to some degree, I guess it still is, but, and I don't know if it's becoming less fascinating or if I'm becoming less fascinating, but, it's just not quite as interesting to me as it once was"
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:01:46, fillers removed (three "uh"), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context; fillers removed)
+
+103. "My, my next book is going to be an audio book. It's called The Simple Art of Advertising or How to Stop Complicating the Shit Out of Everything."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:03:26, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "I don't have a boss, I don't have a job, so I can say whatever the hell I want, and I'm, you know, I'm not- I'm not going to suffer for it. Maybe I won't get booked to a conference, I don't care about that."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:05:44, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "So I, so I want to be clear on one thing. The problem is not advertising. The problem is tracking. The problem is spying."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:14:35, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "How did Donald Trump become president of the US? Because he was famous. If his, if The Apprentice had been a webinar, I guarantee you he would never have been president of the United States."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:16:55, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "So how in the fucking world are you supposed to understand what's happening on 40,000 websites and whether your ad actually appeared there?"
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:25:29, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "I don't know. Why has nobody listened to me for my whole life? I don't know."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:37:54, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "In the digital world, if you have low CPMs, you're probably doing shit. You're buying bots. You're you're going to websites that don't exist. You're getting the cheapest crap."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:38:06, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "they found that the third-party data wa- was able to infer the gender of a, of a person 46% of the time. If my dog flipped a coin, he'd be right 50% of the time."
+    AdContrarian on why online advertising is a scam - Bob Hoffman, Uncensored CMO, 2023-02-01, https://ucmo.transistor.fm/69, at 00:40:26 to 00:41:00, joined across a transcript chunk boundary; punctuation repaired (period after "person" dropped), no words changed, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context; spans the 00:41:00 chunk boundary, words unchanged)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~11 words; the punchline sentences run 2-6 words ("No shit.", "Sorry.", "End of story.", "Not this blogweasel.").
@@ -121,4 +153,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Hedges: "I think" and "for the most part" appear before the harshest verdicts, as a setup for the punch rather than a softener.
 - Favorite openers: a plain list of what people actually worry about; "What if I told you"; "Let's pretend"; "Here at The Ad Contrarian Worldwide Headquarters".
 - Favorite closers: a one-line reversal or dismissal in its own paragraph ("Sorry.", "No shit.", "your brand ain't one of them"), or a mock-generous offer ("you can have your money back").
-- Spoken vs written: no spoken sample was collected; every stat here describes the written blog and newsletter register only.
+- Spoken vs written (items 101-110, one interview; every other stat above describes the written register only): the stacked short declaratives survive out loud ("The problem is not advertising. The problem is tracking. The problem is spying."), as does the question answered flat in the next breath ("How did Donald Trump become president of the US? Because he was famous."). Speech adds restarts ("My, my", "So I, so I", "If his, if") and "uh" fillers (three cut from item 102 alone), plus self-deprecating asides about age and being ignored ("The legend means I'm old, right?", "Why has nobody listened to me for my whole life?"). Profanity is denser than on the page: five instances in ten short items (Shit, hell, fucking, shit, crap), and "fucking" appears mid-question rather than at the end of a measured sentence. The made-up comparison becomes a pet joke ("If my dog flipped a coin").

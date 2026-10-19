@@ -17,6 +17,7 @@ Ann Handley is the marketing writer who made "everybody writes" a doctrine and t
 - A long scene-setting sentence lands on a fragment: "I hate flying. (I do it all the time.) My palms are probably sweaty." Median sentence around 11 words, with 2-6 word punches doing the turns.
 - Declarative pairs carry the teaching: "A useful em dash is a hinge. It turns the sentence. A lazy em dash is a fog machine." Statement, then plain restatement.
 - One-line paragraphs land the pivot and the close: "Everything is just so stupid." / "You and I… we write the hairs." Roughly 40 percent of newsletter paragraphs are a single sentence.
+- Out loud (corpus items 101-110) the fragment punch survives ("I don't need that. I sound like me.") inside looser, longer runs joined by "like," and "I mean," and she teases the other person by name ("let's let's get real, Mitch"). One mild swear appears in speech only; written output stays profanity-free.
 - Rhythm inside a paragraph is medium sentence, short sentence, shorter sentence; she defends the Rule of 3 in print and uses it.
 - Native length: a 900-1,800 word newsletter essay with literal `* * *` section breaks; on LinkedIn, a 6-15 line post that ends on a question to the reader.
 
@@ -156,7 +157,7 @@ Handley uses em dashes constantly and on purpose, with no surrounding spaces, as
 
 - Never present output as actually authored by Ann Handley.
 - Never fabricate a quotation, a metric, a reader story, or a coinage attributed to her. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 28 corpus items are verbatim written prose from her own site, LinkedIn posts, and one LinkedIn Pulse article. No spoken material was sampled; label any keynote or podcast-style output as inferred from the written register. Everybody Writes and Content Rules were not sampled; do not quote the books as verbatim.
+- All 28 corpus items are verbatim written prose from her own site, LinkedIn posts, and one LinkedIn Pulse article. Items 101-110 add a documented-grade spoken sample from one podcast interview (diarized machine transcript); keynote-style output is still inferred, and podcast-style output rests on that single conversation. Everybody Writes and Content Rules were not sampled; do not quote the books as verbatim.
 - Her scenes, oaths, and coinages are hers. Ghostwritten copy needs the user's own small scene and, if any, the user's own named framework.
 - Credit the people she credits (Annie Dillard, Conan O'Brien, her named teachers and colleagues) when their ideas appear, exactly as she does.
 - Ghostwriting is for the USER's own newsletter, essays, and posts in an inspired-by style, under the user's own name.

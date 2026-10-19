@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** Items 1-25 are verbatim and written by him. Items 1-15 are his own X posts (@GuillaumeMbh, March 2021 to August 2023), read from the X syndication timeline's embedded JSON with his spelling, emoji, and slightly non-native phrasing intact; two are the opener and closer of one August 2023 thread. Items 16-25 are copied from five bylined founder essays on the lempire blog (September 2020 to November 2021), read from Wayback Machine captures because the live blog is gone. Items 26-27 are DOCUMENTED: typed answers he gave in a written Indie Hackers Q&A (July 2023), publisher-formatted and labelled "Guillaume:" on the page, so the words are his but the layout is the interviewer's. Nothing here comes from a quote aggregator. His LinkedIn, which is his native short-form channel, was NOT sampled: every post permalink served the login wall and both profile handles were authwalled (third-party pages report the profile was banned), so the short-form register below rests on X, where he says he posted the same material in parallel. His book The $150M Secret and his newsletter site were unreachable (502), and no spoken sample was captured.
+**Provenance note.** Items 1-25 are verbatim and written by him. Items 1-15 are his own X posts (@GuillaumeMbh, March 2021 to August 2023), read from the X syndication timeline's embedded JSON with his spelling, emoji, and slightly non-native phrasing intact; two are the opener and closer of one August 2023 thread. Items 16-25 are copied from five bylined founder essays on the lempire blog (September 2020 to November 2021), read from Wayback Machine captures because the live blog is gone. Items 26-27 are DOCUMENTED: typed answers he gave in a written Indie Hackers Q&A (July 2023), publisher-formatted and labelled "Guillaume:" on the page, so the words are his but the layout is the interviewer's. Nothing here comes from a quote aggregator. His LinkedIn, which is his native short-form channel, was NOT sampled: every post permalink served the login wall and both profile handles were authwalled (third-party pages report the profile was banned), so the short-form register below rests on X, where he says he posted the same material in parallel. His book The $150M Secret and his newsletter site were unreachable (502), and no spoken sample was captured. Update 2026-10-19: a spoken sample now exists; items 101-110 are documented-grade excerpts from one April 2026 English-language podcast interview, machine-transcribed with speaker diarization, and are not counted in the 27 written items.
 
 ## Verbatim excerpts (X @GuillaumeMbh, 2021-2023)
 
@@ -93,6 +93,38 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 27. "Bootstrapping isn't about being cheap, it's about spending wisely and being resourceful."
     From $0 to $22M ARR in 5 years, Indie Hackers written Q&A, 2023-07, https://www.indiehackers.com/post/from-0-to-22m-arr-in-5-years-heres-a-peek-at-guillaume-moubeche-s-finances-d24f03e880, documented, speaker: Guillaume Moubeche
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "So I failed like a- a few businesses, uh, and eventually like, um, I knew that the- the biggest struggle for businesses was to find customers."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:02:06, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "And I felt like sales, uh, for me is, you know, all about trust. And the best way to build trust is to be able to personalize and show people that you care."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:02:06, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "The truth in business is if no one has launched a business prior to you in that industry, it's probably a bad thing. And I feel like, uh, red oceans is, um, are often an execution play"
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:04:34, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "I think like, um, constraints forces creativity." / "And money gives you optionality."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:12:55 and 00:13:02, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context); two consecutive segments, the interviewer's "Mm." between them omitted
+
+105. "When you don't have money, you have no choice, you know what I mean?"
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:13:02, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "I would try to sell in France because we were based in France, but French are like really cheap bastard, uh, and I'm one of them. So I was like, it's not gonna work."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:13:02, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "And you know that you're doing the right thing if when most people around you are complaining because their business is not working and your business is actually not making that much money, but you don't feel like complaining."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:22:00, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "Because if you don't like doing ads and you just do ads because your board, your investor, your whatever mentor, whatever told you that it was the way to do it and it doesn't work, then you're just gonna be like miserable and banging your head against the wall and it's just not worth it."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:25:00, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "But my vision is like, every single year since I had my agency, people were saying that outbound is dead, and the reality is like, it's not, to be honest"
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:37:04, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "we see a lot of great demos from companies who have raised shit tons of money and have hired like the best whatever marketing agency to to create like a cool film or video, but once you try the product, it's highly deceptive."
+    Bootstrapping to $45M ARR: Guillaume Moubeche on scaling efficiently without any VC trade-offs, Making The Grade, 2026-04-02, https://podcasts.apple.com/us/podcast/bootstrapping-to-%2445m-arr-guillaume-moubeche-on-scaling/id1827033461?i=1000758773865, at 00:44:25, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~12 words on X, ~18 words in the essays; X posts are 1-8 lines with one sentence per line and no links.
@@ -107,4 +139,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Non-native phrasing kept intact: "be obsess with", "a recipe to success", "in fundings" (research notes); these are part of the voice and should not be corrected when quoting.
 - Favorite openers: a before/after number pair with a time span; "Reactions to my entrepreneurial journey:"; "#1 startup misconception:"; "One thing you should know about me is that I'm a French cheap bastard".
 - Favorite closers: a one-line moral followed by a heart or rocket ("Ignore the doubters", "Do what you love", "Be patient ..."); in essays, a restated mission or the "my job would be done" line with a heart.
-- Spoken register: unsampled. All 27 items are written; podcast and YouTube material is a known gap in the source map.
+- Spoken register (items 101-110, one April 2026 English podcast interview, documented-grade): far longer and looser than the X posts. Turns run several hundred words of 25-40 word sentences, with "like" as a near-constant filler (about 350 instances in his turns), "et cetera, et cetera" (about 25), and truth frames ("the reality is", "the truth is", "to be honest", about 20). The written aphorism survives as a spoken pair ("constraints forces creativity." / "And money gives you optionality."), the non-native phrasing is stronger aloud ("highly deceptive" for disappointing, "French are like really cheap bastard"), and the profanity is milder than the written "fuck" ("shit tons", "bastard"). The moral still lands last ("it's just not worth it.").

@@ -18,6 +18,7 @@ Amanda Natividad is the Zero Click Marketing girl, by her own description, which
 - Paragraphs end on an aphorism she coins herself: "Build your house instead of spray-painting someone else's." / "Resonance isn't the opposite of reach. It's the on-ramp to it." / "That's trust. And that's the kind of equity that compounds."
 - Rhetorical questions arrive in series of three: "You got the email, but did you earn the memory? You got the download, but did you actually change how the buyer thinks? You got the MQL, but did you create demand, or just count it?"
 - Spoken connectors survive the edit: "So, yeah." / "Heck, I've said it too." / "If you know, you know." / "stay with me! There's a payoff."
+- Out loud (corpus items 101-110) the answers run long and self-repair, hedge with "I don't know, right?" before the real claim, and end on a candid tag instead of a coined line: "That's kind of shitty to say, but it's true."
 - Native length: a 900-1,800 word essay in short paragraphs; on LinkedIn a 6-14 line post with line breaks, arrows, or 1/ 2/ 3/ numbering.
 
 ### Hook patterns
@@ -150,7 +151,7 @@ Natividad uses em dashes heavily in her essays and newsletter for the scoped asi
 
 - Never present output as actually authored by Amanda Natividad.
 - Never fabricate a quotation, a statistic, a study, or a client story attributed to her or to SparkToro. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 30 corpus items are verbatim written text (SparkToro blog, The Menu, LinkedIn, two X posts). There is no spoken sample: her Zero Click Marketing podcast was not transcribed, so spoken-register output is inferred from her written "edited talk" cadence and must be labeled as inferred when precision matters.
+- All 30 corpus items are verbatim written text (SparkToro blog, The Menu, LinkedIn, two X posts). Items 101-110 add a documented-grade spoken sample from one Zero Click Marketing episode (diarized machine transcript); spoken-register output rests on that single interview and should be labeled as thinly sampled when precision matters.
 - Research she cites (68% zero-click searches, the 95% out of market, the 116,000-post LinkedIn study) is Rand Fishkin's or third parties' work as reported by her. Credit the source as she does; do not invent adjacent numbers.
 - Her stories and coinages are hers. Ghostwritten copy needs the user's own objection, receipt, and career "L"; do not transplant hers.
 - The book Zero Click Marketing was pre-order only at research time; do not quote it.

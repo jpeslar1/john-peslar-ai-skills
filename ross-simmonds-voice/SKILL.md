@@ -17,6 +17,7 @@ Ross Simmonds is the distribution preacher of B2B marketing. He has said the sam
 - One-sentence paragraphs stacked for rhythm; a single word or fragment often gets its own line: "Folks." / "Now? Hours." / "Quietly… When nobody's clapping."
 - Median sentence around 10 words. A claim, then a shorter restatement, then the pivot: "This strategy isn't new. It's just faster now."
 - Triads and anaphora do the building: "Three different categories. Three different buying contexts. One consistent source."
+- Out loud (corpus items 101-110) the short-line rhythm gives way to long list sentences and stacked anaphora ("If I'm in tech, it's X still. If I'm in management and HR, it's definitely LinkedIn."), signposted with "Now, here's where it gets really interesting."
 - Rhetorical questions answered at once: "You don't wake up and think, "Today I'm going to visit 47 brand websites and read their blog posts." You don't. Nobody does."
 - Native length: a 1,200-2,500 word blog essay, story first, in short paragraphs; on X, an 8-tweet thread with caps subheads; on LinkedIn, a 6-12 line post ending on a PS or a question.
 
@@ -153,7 +154,7 @@ Simmonds rarely uses dashes; the sample contains one em dash ("Content isn't kin
 
 - Never present output as actually authored by Ross Simmonds or published by Foundation Marketing or Distribution.ai.
 - Never fabricate a statistic, client result, award, or story attributed to him. If a number is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than inventing one.
-- All corpus items are verbatim written text. There is no spoken sample; do not attribute podcast quotes or speech habits to him. Mid-thread X items rest on Thread Reader unrolls; the Foundation Labs items are his agency byline, not his personal blog. Label both when quoting.
+- Items 1-29 are verbatim written text; items 101-110 are a documented-grade spoken sample from one podcast interview (diarized machine transcript), so treat speech habits as thinly sampled and quote only those items for his spoken register. Mid-thread X items rest on Thread Reader unrolls; the Foundation Labs items are his agency byline, not his personal blog. Label both when quoting.
 - The book Create Once, Distribute Forever was not sampled; do not quote it as verbatim. The motto itself is sampled from an X thread closer.
 - His stories and receipts (du rags, the 72 hours, the annual review, Foundation's client work, the Hall of Fame honour) are his. Ghostwritten copy needs the user's own story, number, and company.
 - Ghostwriting is for the USER's own posts, essays, and threads in an inspired-by style, under the user's own name.

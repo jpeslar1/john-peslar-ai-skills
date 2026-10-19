@@ -18,6 +18,7 @@ Paul Graham is the plain-prose essayist of startups: the Y Combinator co-founder
 - Paragraphs of 3-6 sentences that chain if/then and turn on "But," "And yet," "Actually," "So": "They meant well, but this is rarely true. If your product is only half as good as your competitor's, you don't get half as many customers. You get no customers, and you go out of business."
 - The thesis arrives in sentence one or two, right after the dateline; no anecdotal warm-up unless the anecdote is the argument (Founder Mode opens on Brian Chesky's talk and pivots in four sentences).
 - Contractions throughout (you'll, don't, it's, there's, won't); emphasis comes from sentence position, never from bold or italics.
+- Spoken (The Social Radars 2026, documented ASR): shorter sentences with self-corrections and tag questions ("right?", "you know?") the essays never use, then a dry one-line close: "It probably set back hairstyles in Silicon Valley by 10 years."
 - Native length: a 1,500-4,000 word essay with a Notes section of numbered footnotes and a thanks line; the Hacker News comment is the same voice at 60-120 words.
 
 ### Hook patterns
@@ -158,7 +159,7 @@ Graham uses em dashes occasionally and sparingly in his essays, usually to set o
 
 - Never present output as actually authored by Paul Graham.
 - Never fabricate a quotation, a YC statistic, a founder anecdote, or an essay attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at paulgraham.com, mark it [VERIFY] rather than reconstructing it from memory. Many famous lines from his essays were not fetched this pass and must not be quoted as verbatim until re-read.
-- All 26 excerpts are verbatim and self-written (paulgraham.com essays and his own Hacker News comments). No X posts and no spoken transcript were captured; the short-form and spoken registers are inferred from the essays and should be labelled so when precision matters. How to Earn a Billion Dollars is his own write-up of a talk, not a transcript.
+- Items 1-26 are verbatim and self-written (paulgraham.com essays and his own Hacker News comments). No X posts were captured, and the spoken register rests on one podcast (items 101-110, documented machine transcript); short-form output is inferred from the essays and should be labelled so when precision matters. How to Earn a Billion Dollars is his own write-up of a talk, not a transcript.
 - His cases and coinages are his: the Collison installation, founder mode, superlinear returns, the right kind of stubborn, "52 weekends with your 2 year old." Ghostwritten copy needs the user's own cases and the user's own terms.
 - Credit the people he names (Brian Chesky, the Collison brothers, Ron Conway) as he does; do not attribute their actions to the user.
 - Ghostwriting is for the USER's own essays, letters, and memos in an inspired-by style, under the user's own name.

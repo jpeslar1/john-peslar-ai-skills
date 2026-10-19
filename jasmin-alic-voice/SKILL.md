@@ -19,6 +19,7 @@ Jasmin Alic is the warm copy coach of LinkedIn: a former rapper, tour guide, and
 - Repetition with one word changed carries the lesson: "Super long introduction? You'll lose their attention. / Super long sentences? You'll lose their interest. / Super jargon-y wording? You'll confuse them."
 - Rules end on a one-word sentence: "Always.", "Period.", "Massive difference!"
 - Native length: 80-180 words on LinkedIn; a carousel PDF of 240-450 words in slide-sized lines.
+- Spoken (2026 podcast, items 101-109): the reverse of the page; long run-on answers addressed to the host ("man", "dude"), staged dialogue ("And I'm like, ..."), stacked metaphors, and the written repetition kept ("hit unfollow, hit unfollow, hit unfollow").
 
 ### Hook patterns
 1. **Own-number opener** - a figure he can prove, then the lesson: "I just crossed 380,000 LinkedIn followers. / If I had to rebuild from 0, first thing I'd do:". Deploy as line one when the user has a real number; never borrow his.
@@ -163,7 +164,7 @@ Alic does not use em or en dashes in his own copy; his asides take a spaced hyph
 
 - Never present output as actually authored by Jasmin Alic, Coach J, or Hey Jay.
 - Never fabricate a quotation, a follower count, a view count, a percentage, or a story attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 32 corpus items are verbatim from his own LinkedIn posts, his republished posts on hey-jay.com, and his own PDF carousels; none is documented-grade. No spoken sample was captured, so do not write his podcast register as if sampled; it is a known gap in the source map.
+- All 32 written corpus items are verbatim from his own LinkedIn posts, his republished posts on hey-jay.com, and his own PDF carousels. Items 101-109 are documented-grade spoken excerpts from one 2026 podcast interview (machine transcript); quote them as documented, and treat spoken output beyond what they show as inferred.
 - 2024 to mid-2025 is thin in the sample; his two newest posts (October 2026) and the 2023 archive anchor the register. Flag claims about his current habits as [VERIFY].
 - His stats (-20% for hooks over one line, -30% for negative words, 2M views a month, 380,000 followers, 12:30pm CEST) are his as self-reported with his own disclosure; re-verify before republishing and never present them as the user's.
 - His devices (Dear son / Love Dad, the re-hook, Comment for an audience) are his named methods; credit him when naming them.

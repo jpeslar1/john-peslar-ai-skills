@@ -18,6 +18,7 @@ Grant Cardone is the volume evangelist of sales: write everyone up, swing the ba
 - Opens on a direct second-person question or a flat command: "Where do you get your advice from?" / "If you want money, you've got to get on offense."
 - Paragraphs are 1-3 sentences and end on an exclamation mark about half the time: "Settling for average is suicide for your dreams!" / "'Big think' changes the world!"
 - Rhetorical question answered by himself, fast: "Look, the now is what? It's the past now! Do you get it?"
+- Spoken (interview ASR, items 101-110): the same short bursts, but stacked restarts ("Don't, don't, don't buy one unit"), "okay?" and "by the way" tag checks, and one phrase hammered instead of an exclamation mark: "You don't need cash, you need cash flow."
 - Native length: a 500-900 word column or blog post built from 6-10 short paragraphs, signed "Be great, GC" on his own site. On X: one or two lines of product-listing specificity (year, model, hours, square feet).
 
 ### Hook patterns
@@ -149,7 +150,7 @@ Dare: [one-line close]
 - Using this register as the operator's default. It conflicts with careful, qualified outbound and with the operator's own brand; the library says "Avoid when: default John-brand copy." A cold email, LinkedIn post, or client deliverable that drifts into this voice without being asked for is a defect.
 - Over-imitation tells: "10X" in every paragraph; an exclamation mark on every sentence; the triple frame used three times in one piece; "Look," opening every paragraph; a biography proof in every section.
 - Presenting his stories (father dead at 10, the house sold within a month, the divorce, the third strike, the cable-network board, the jet and the 700 BTC house) or his branded rules (10X, 95/5, write everyone up) as the user's own. They are his. Credit or rename them.
-- Writing him as spoken-stage Cardone. No spoken sample was obtained (see Guardrails); the shouty cadence here is inferred from written passages that mimic speech, not from a transcript.
+- Writing him as spoken-stage Cardone. The only spoken sample is one interview (items 101-110); the stage and keynote cadence is still inferred from written passages that mimic speech, not from a transcript.
 
 ## Punctuation Override
 
@@ -159,7 +160,7 @@ Cardone uses an em dash occasionally in long-form ("10X Balls—whatever gender 
 
 - Never present output as actually authored by Grant Cardone.
 - Never fabricate a quotation, a statistic, a deal, or a story attributed to him. If a line or number is not in `references/voice-corpus.md` or freshly re-verified at a primary URL, mark it [VERIFY] rather than reconstructing it from memory. Famous lines from The 10X Rule and Sell or Be Sold were NOT fetched from a primary source and must not be quoted as verbatim.
-- All 31 corpus items are written-verbatim under his byline (Entrepreneur columns, his own blog via Wayback, his own X posts). There is NO spoken sample: yt-dlp was rate-limited (HTTP 429) three times, so his stage and YouTube voice is unsampled. Any claim about his spoken cadence is inferred and must be labelled so.
+- Items 1-31 are written-verbatim under his byline (Entrepreneur columns, his own blog via Wayback, his own X posts). Items 101-110 are documented-grade diarized ASR of one 2026 interview (Cardone Zone Ep 315); label them so when quoted. His stage and keynote voice is still unsampled, so claims about stage cadence are inferred and must be labelled so.
 - The columns are 2017-2018 vintage and the X sample is three posts; his current long-form written voice is under-sampled. Flag 2024-2026 register claims as thin.
 - His biography and his branded rules are his. The playbooks borrow the form (accusing question, binary sort, confession to command, triple frame); the content must be the user's own and the branded terms credited.
 - This register is a deliberate choice, never a default. Do not apply it to the operator's own outbound, LinkedIn, or client copy unless asked by name; the operator's library marks it "Avoid when: default John-brand copy."
@@ -168,4 +169,4 @@ Cardone uses an em dash occasionally in long-form ("10X Balls—whatever gender 
 
 ## Output Format
 
-Default: 3 variants plus one recommended pick with a one-line why, and a one-line audience check stating whether this register fits the stated reader (if the reader is the operator's own brand or a careful B2B buyer, say so and offer a cooler voice from this repo). Return scripts as the labeled template; return takes as finished short paragraphs. Flag every statistic, dollar figure, quotation, and biography detail as [VERIFY] unless it is drawn directly from `references/voice-corpus.md`, and label any spoken-cadence claim as inferred because no transcript was sampled.
+Default: 3 variants plus one recommended pick with a one-line why, and a one-line audience check stating whether this register fits the stated reader (if the reader is the operator's own brand or a careful B2B buyer, say so and offer a cooler voice from this repo). Return scripts as the labeled template; return takes as finished short paragraphs. Flag every statistic, dollar figure, quotation, and biography detail as [VERIFY] unless it is drawn directly from `references/voice-corpus.md`, and label any stage-cadence claim as inferred because only one interview transcript was sampled.

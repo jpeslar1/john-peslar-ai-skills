@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 28 items are verbatim and written by him. Items 1-15 are copied from the full text of 12 of his own LinkedIn posts (2020-2023), fetched logged-out from search-indexed permalinks, with his double-dot pauses, caps, and skin-tone emoji intact; several of these posts are the captions of his own coaching videos. Items 16-25 are from three bylined HubSpot Sales Blog 'Master in Sales' columns (updated 2024-2025), written under his name but passed through HubSpot's editors; this is where the em dashes and the word 'folks' live. Items 26-27 are from a guest issue he wrote for the 30 Minutes to President's Club newsletter (2023-07-28). Item 28 is the opening post of an X thread (2024-08-08); only the first post was retrievable. Nothing here comes from a quote aggregator. amp-creative.com does not resolve and his AMP newsletter has no public archive, so no owned-site material was sampled; his YouTube channel was not captioned. No LinkedIn post from 2024-2026 is in the corpus; the HubSpot columns cover that window in written form.
+**Provenance note.** All 28 items are verbatim and written by him. Items 1-15 are copied from the full text of 12 of his own LinkedIn posts (2020-2023), fetched logged-out from search-indexed permalinks, with his double-dot pauses, caps, and skin-tone emoji intact; several of these posts are the captions of his own coaching videos. Items 16-25 are from three bylined HubSpot Sales Blog 'Master in Sales' columns (updated 2024-2025), written under his name but passed through HubSpot's editors; this is where the em dashes and the word 'folks' live. Items 26-27 are from a guest issue he wrote for the 30 Minutes to President's Club newsletter (2023-07-28). Item 28 is the opening post of an X thread (2024-08-08); only the first post was retrievable. Nothing here comes from a quote aggregator. amp-creative.com does not resolve and his AMP newsletter has no public archive, so no owned-site material was sampled; his YouTube channel was not captioned. No LinkedIn post from 2024-2026 is in the corpus; the HubSpot columns cover that window in written form. Items 101-110 are a separate documented-grade spoken sample: his own answers in one 2026 podcast interview (Be Better Tribe, Ep. 36), machine-transcribed with speaker diarization and quoted as transcribed.
 
 **Punctuation note.** Three HubSpot excerpts preserve em dashes because they are verbatim quotations of edited copy (items 17, 18, 20); his native LinkedIn posts use double dots ('..') and line breaks instead, and item 23 uses a plain hyphen inside a quoted message. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
@@ -100,6 +100,38 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 28. "LinkedIn voice notes are a money printer. / Here's how I schedule 20-30 meetings per month with LinkedIn voice notes:"
     X post (thread opener), X / @morganjingram, 2024-08-08, https://x.com/morganjingram/status/1821547290819023048, verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "Excited to be here, man. Excited to chop it up."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:03:48, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "If we are like, oh, I kind of want it or maybe, then you maybe won't get it. And so when I started off as an SDR, the first 3 months I did not hit quota, which- which was gut-wrenching."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:04:56, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "So my whole thing in my career, if you look at all the moves I've made and how I speak on things, is I'm always looking at where is the puck going, not where the per- puck currently is at. So I was like, all right, if nobody's doing this, then like, all right, I guess I'll do it."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:08:09, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "I just wanted to prove people wrong. So I was like, all right, if I got rejected 20 times, like, I'm going to show you all I know how to actually do marketing."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:10:13, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "I tell them the goal is for you to be a curator rather than a creator. [...] I'm saying that the number one currency in the world is trust. So if that is the case, my North Star is how do I maintain and elevate trust?"
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:14:36, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "Yeah, so I wrote a post, it was a couple- a couple months ago, and I said there's only 2 luxury skills left in the next decade that you need to- that you need to, like, hyper focus on. [...] And people can argue me and tell me other skills, but all the other skills that you would mention would fall under the hierarchy of these 2 things I just- I talked about."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:17:46, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "So I say the three traits you need to focus on are being magnetic, intuitive, and consistent. [...] And if you focus on those 3 traits, that's how you are going to stand out because a lot of people are effectively just automating mediocrity."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:18:26, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "So, it's called URL to IRL, and then the last part is gotta catch them all, which is Pokémon. So you're probably like- [...] You're like, what is this? What are you talking about?"
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:24:40 and 00:25:27, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "Telling you all right now, like, this is, it's not a doom and gloom scenario. [...] If you look at the data right now, 51% of the internet are bots. So my, in 12 months, it's probably going to be 65. So I'm te- I'm not saying doom and gloom, I'm just giving you the data."
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:27:05, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "So these are all the things I'm saying are data backed, and that's how I operate. And then I'm like, okay, but based on the data, what do we do?"
+    "Ep. 36 - Morgan J Ingram: Sales Legend", Be Better Tribe, 2026-09-09, https://podcasts.apple.com/us/podcast/ep-36-morgan-j-ingram-sales-legend/id1867542908?i=1000788666351, at 00:29:37, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~9 words in posts (mean ~11); HubSpot columns run 12-18 words with the same one-idea-per-sentence habit.
@@ -115,4 +147,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Profanity: zero. Mocking a prospect or an SDR: zero. Politics: zero.
 - Favorite openers: a label and colon; a quoted objection with an emoji; 'Can I share a secret?'; 'Here's exactly what I say.'; 'Its Morgan J Ingram here'.
 - Favorite closers: a question to the room ('What would you add? 👇🏾', 'How are you practicing every single day?', 'So why wouldn't you try this?'), 'Try this out. It works.', or a P.S. offer ('DM me. I got you.').
-- Spoken vs written: no transcript sampled, but most posts caption his own coaching videos, so the written cadence is already the spoken one (short declaratives, 'Hold up', 'folks').
+- Spoken vs written (items 101-110, one 2026 podcast interview): spoken sentences run 20-40 words against ~9 in posts, chained on 'and', 'so', and 'like'; self-repairs stay in ('which- which was', 'the per- puck', 'I'm te- I'm not saying'); the written frames survive the switch ('So my whole thing...', 'I'm just giving you the data', named three-part frameworks such as URL to IRL and magnetic, intuitive, consistent); no double dots, caps, or emoji carry the pause, and profanity is zero, as in writing.

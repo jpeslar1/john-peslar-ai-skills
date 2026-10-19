@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 30 items are verbatim written text copied from raw fetched sources on the research date. Items 1-17 are from her bylined SparkToro blog posts (2025-2026), pulled through the site's WordPress REST API with full post bodies. Items 18-21 are from her own Substack newsletter The Menu (2026), pulled through the Substack posts API; every issue checked is free to all readers. Items 22-28 are her own LinkedIn posts, read from logged-out permalinks with the full post text and a machine-readable publish date. Items 29-30 are her own X posts (@amandanat), pulled by status ID from the X syndication endpoint; item 29 is a thread opener with slashes marking the original line breaks. Typographic apostrophes and quotation marks were normalized to straight ASCII; wording and punctuation are otherwise untouched. Nothing here comes from a quote aggregator. There are no documented-grade items: her Zero Click Marketing podcast was not transcribed, the X profile timeline was rate-limited so only two tweets were sampled, and the Zero Click Marketing book was pre-order only with no public excerpt.
+**Provenance note.** All 30 items are verbatim written text copied from raw fetched sources on the research date. Items 1-17 are from her bylined SparkToro blog posts (2025-2026), pulled through the site's WordPress REST API with full post bodies. Items 18-21 are from her own Substack newsletter The Menu (2026), pulled through the Substack posts API; every issue checked is free to all readers. Items 22-28 are her own LinkedIn posts, read from logged-out permalinks with the full post text and a machine-readable publish date. Items 29-30 are her own X posts (@amandanat), pulled by status ID from the X syndication endpoint; item 29 is a thread opener with slashes marking the original line breaks. Typographic apostrophes and quotation marks were normalized to straight ASCII; wording and punctuation are otherwise untouched. Nothing here comes from a quote aggregator. There are no documented-grade items: her Zero Click Marketing podcast was not transcribed, the X profile timeline was rate-limited so only two tweets were sampled, and the Zero Click Marketing book was pre-order only with no public excerpt. A spoken section (items 101-110, documented grade, one Zero Click Marketing episode transcribed by diarized machine ASR) was added on 2026-10-19 below the written excerpts.
 
 **Punctuation note.** Items 1, 2, 6, 11, 15, 18, 20, and 22 preserve em dashes because they are verbatim quotations; items 13 and 14 carry an em dash in the title of the source post. She also uses the arrow character for journey sequences (item 25). The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
@@ -106,6 +106,38 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 30. "Applies to most things. Pumpkin spice-flavored food & drink is not my favorite, but I love how excited people get about PSL season."
     X reply, @amandanat, 2021-08-18, https://x.com/amandanat/status/1428042531502055433 (fetched via cdn.syndication.twimg.com), verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "So the click still matters, but it's increasingly the result of influence, not the only signal that influence happened. So if you only optimize for clicks, you will certainly undercount what's working and over reward what's easiest to track."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:03:32, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "Now, I don't know if, if it's like, okay, for sure, you know, because of Rand's keynotes, we got 300 signups, we got 210. I don't know, right? But what I do know is, well, we got a bump in signups."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:04:43, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "We don't, so we don't have, we don't have any marketing budget for that. Like, our marketing budget is tools, my my salary, Rand's salary."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:06:43, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "Yeah, that's a super interesting question. No one's ever asked me that. I think it would be, I think in an ideal world, yes, it's consistent, and it doesn't have to be consistent in the same, like, word for word, like, copy and paste thing."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:13:09, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "Yeah. I think I would just say, like, well, what attention do you want? Like, what do you think is going to happen as a result of this? Like, you know, it's the whole thing between, it's the difference between a spicy take and a spiky take."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:15:49, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "However, here's what I would push back is you, depending on what you're selling, right? Now, if you're s- if you're slinging, like, $5 Notion templates, that's probably fine."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:18:04, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "sales hates marketing, that CMO is out next quarter, you know it. But if sales likes marketing, marketing gets to keep their jobs. That's kind of shitty to say, but it's true."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:33:11, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "I think people underestimate the fact that a lot of people, most of us are lazy, and we're not gonna do the thing."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:39:33, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "Yeah, I mean, why is it? I think part of it is like, can we just, part of it, can we just pay people to do their jobs? Like, your job is to do the marketing. Great, that's part of it."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:42:28, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "I don't keep track of, like, algorithmic changes day to day, because I think that's kind of a waste of time. I'm much more interested in understanding what's going to be durable in general for the next year or so."
+    What If You Can't Prove Your Marketing Worked?, Zero Click Marketing (SparkToro; conversation originally published on Wistia's Talking Too Loud), 2026-08-25, https://share.transistor.fm/s/3edc1cfa, at 00:46:18, fillers removed (one "um"), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context; fillers removed)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~14 words in essays and newsletter issues, with frequent 2-5 word fragments ("Get seen.", "That's not the point.", "Make the change. Move on."); LinkedIn lines run ~10 words.
@@ -120,4 +152,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Credits by name: at least one named colleague or researcher (Rand, Jay Acunzo, Talia Wolf, Kevin Indig, Wil Reynolds, Sam Cassman) in most essays.
 - Favorite openers: a complete declarative sentence with a stance; a quoted objection; "Here's an uncomfortable truth:"; "Hey, I'm the Zero Click Marketing girl"; "There are two types of people:".
 - Favorite closers: a self-coined aphorism ("Build your house instead of spray-painting someone else's.", "Resonance isn't the opposite of reach. It's the on-ramp to it.") or a one-line imperative ("Get seen.", "Keep stepping."); no CTA or link in the sampled posts.
-- Spoken vs written: no spoken sample; the essays read as edited talk ("So, yeah.", "Heck", contractions throughout), so treat spoken-register output as inferred.
+- Spoken vs written (items 101-110, one episode): out loud her median sentence is about the same as the written one (~14 words across items 101-110), but answers run as several such sentences in a row, chained with "right?", "like," and "you know" and repaired mid-clause ("We don't, so we don't have, we don't have"); "I don't know" works as a hedge before the real claim ("I don't know, right? But what I do know is"). The coined aphorism closers of the essays mostly drop out in favor of candid tags ("That's kind of shitty to say, but it's true."), and the one mild profanity in the sample appears only in speech; the written corpus has none. The scope-then-claim habit survives intact ("depending on what you're selling").

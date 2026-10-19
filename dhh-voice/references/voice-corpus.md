@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 32 items are verbatim and written by him. Items 1-21 are copied from the full bodies of HEY World posts (world.hey.com/dhh) published between December 2025 and October 2026, pulled from the blog's own Atom feed, which returns complete text with ISO timestamps; the newest post is eleven days old at research time. Items 22-25 are from the two cloud-exit posts on the same blog (October 2022 and June 2023), read from their public post pages. Items 26-27 are from the Rails is omakase essay on his personal site dhh.dk (December 2012), and items 28-29 from The Majestic Monolith on the Signal v. Noise archive (February 2016); one typo ("distribute computing", item 29) is his. Items 30-32 are his own X posts (@dhh, July to October 2026), fetched one by one from the syndication single-tweet endpoint using IDs he linked from inside his own HEY posts. Nothing here comes from a quote aggregator. No spoken sample was captured: the Lex Fridman transcript page returned 404 and no caption pull was spent, so his Rails World keynotes and podcast register are unsampled. The co-authored books (Rework, Remote, It Doesn't Have to Be Crazy at Work) were not pulled because single-author attribution is unclear there.
+**Provenance note.** All 32 items are verbatim and written by him. Items 1-21 are copied from the full bodies of HEY World posts (world.hey.com/dhh) published between December 2025 and October 2026, pulled from the blog's own Atom feed, which returns complete text with ISO timestamps; the newest post is eleven days old at research time. Items 22-25 are from the two cloud-exit posts on the same blog (October 2022 and June 2023), read from their public post pages. Items 26-27 are from the Rails is omakase essay on his personal site dhh.dk (December 2012), and items 28-29 from The Majestic Monolith on the Signal v. Noise archive (February 2016); one typo ("distribute computing", item 29) is his. Items 30-32 are his own X posts (@dhh, July to October 2026), fetched one by one from the syndication single-tweet endpoint using IDs he linked from inside his own HEY posts. Nothing here comes from a quote aggregator. No spoken sample was captured in the first pass; on 2026-10-19 a spoken section (items 101-110, documented grade) was added from a machine transcript of Lex Fridman Podcast #474, while his Rails World keynotes remain unsampled. The co-authored books (Rework, Remote, It Doesn't Have to Be Crazy at Work) were not pulled because single-author attribution is unclear there.
 
 ## Verbatim excerpts (HEY World, world.hey.com/dhh, Dec 2025 to Oct 2026)
 
@@ -110,6 +110,40 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 32. "The Model Y is the superior transportation appliance, but when the mission is about more than getting from A to B, there's still no beating the internal combustion engine. Collecting a stable of great cars is one of the finest rewards of entrepreneurial success."
     X post by @dhh (status 2079955830057931207), X, 2026-07-22, https://x.com/dhh/status/2079955830057931207, verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+Items 101-110 come from one episode, minutes 6-46 of a 375-minute recording, transcribed by machine and diarized per 20-minute chunk; DHH was identified as the guest answering Lex Fridman's questions. These are documented, not verbatim: ASR drops most fillers and adds its own punctuation.
+
+101. "100% that's true. And it's even better than that, because it's PHP to me didn't just give me a start in terms of making my own web applications, it actually gave me a bar. In many ways, I think the pinnacle of developer, web developer ergonomics is late 90s PHP."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:22:49, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "A lot of people, I think, are very uncomfortable with the fact that they are essentially CRUD monkeys. They just make systems that create, read, update, or delete rows in a database, and they have to compensate for that existential dread by overcomplicating things."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:22:49 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "I knew they knew how to do FTP, and then after the third time I had overridden their changes, I was like, God damn it, I guess I got to teach Jason CVS to not do that again."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:25:40, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "we've been far too willing to hand over far too much of our developer ergonomics to the merchants of complexity."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:26:00, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "And it should be. Why should it be harder than that? Our computers today are almost infinitely faster than what they were in the 90s."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:26:38, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "I do think you can start just fantasizing that everything was better in the 90s. It wasn't. I mean, I was there. There was a lot of things that sucked."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:26:38 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "I often joke that JavaScript is my second favorite programming language. It's a very distant second."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:26:38 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "It's a disaster. And I say that as someone who's been very sympathetic to the antitrust fight, because I do think we have antitrust problems in technology."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:37:03, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "Everyone hates it universally, yet we can't seem to do anything about it. That's a bankruptcy declaration for any body of bureaucrats who pretend or portend to make things better for not just citizens, but people around the world."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:40:19, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "I like Firefox in many ways. I like the ethos of it, but Chrome is a better browser than Firefox, full stop."
+    #474, DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting, Lex Fridman Podcast, 2025-07-12, https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3, at 00:42:23, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~16 words, with a wide spread: a 25-35 word setup sentence is routinely followed by a 2-6 word punch ("That is literally the progress!", "Bzzzzzzzzt!! Wrong!").
@@ -124,4 +158,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Favorite openers: a dated statistic ("In the 18th century, 90% of Americans..."); a flat thesis ("Rails is omakase."); a scene from his own week ("Two weeks ago at Rails World, I told my fellow programmers...").
 - Favorite closers: an imperative or benediction in one short line ("Don't go down with the pencils. There's so much to build. We need you.", "What a time to be alive."), or a wink that extends the metaphor ("How is next Thursday for you?", "try not to slam it on your way out"); never a summary paragraph.
 - Metaphor discipline: one governing image per post carried to the last line (omakase and the restaurant door; pencils; sacred cows and the feast; the Terminator); roughly 1 in 3 sampled posts is built this way.
-- Spoken register: unsampled. Treat spoken-style output as inferred from the written polemic register; his keynotes are a known gap in the source map.
+- Spoken vs written (items 101-110, one podcast): the verdict still comes first ("It's a disaster.", "100% that's true."), but sentences run about 17 words on average across his ~6,000 transcribed words and chain clauses with "and" and "but" instead of landing a 2-6 word punch; he steelmans then flips ("Now, I don't buy that."); profanity is casual and frequent ("God damn it", "goddamn Mars", "sucked", "freaking"); coinages recur as spoken catchphrases ("merchants of complexity", "full stop", "good intentions leading straight to hell"). ASR shows only ~1.3 fillers per 1,000 words, an undercount since the model drops most of them. No exclamation marks survive transcription, so emphasis in speech is carried by repetition ("I begged and I begged and I begged").

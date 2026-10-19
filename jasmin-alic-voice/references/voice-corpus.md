@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 32 items are verbatim and written by him. Items 1-27 are copied from the full text of fifteen of his own LinkedIn post permalinks (November 2022 to October 2026), read from the logged-out permalink pages' meta description and attributed-text blocks; line breaks are joined with " / ", his arrows, scare quotes, and emoji are intact, and elided list items are marked in the source line. Items 28-30 are LinkedIn posts from January to March 2023 that he republished himself on his site hey-jay.com/resources. Items 31-32 are slide text from two self-published PDF carousels hosted on hey-jay.com (his commenting course and his "Dear son / Love, Dad" copy hack), extracted with pdftotext and flattened. Nothing here comes from a quote aggregator, and nothing is documented-grade. No spoken sample was captured: three podcast appearances are listed in the source map but were not transcribed. His Link Up community, his newsletter, and his larger carousel PDFs were not fetched, and 2024 to mid-2025 is thinly represented.
+**Provenance note.** All 32 items are verbatim and written by him. Items 1-27 are copied from the full text of fifteen of his own LinkedIn post permalinks (November 2022 to October 2026), read from the logged-out permalink pages' meta description and attributed-text blocks; line breaks are joined with " / ", his arrows, scare quotes, and emoji are intact, and elided list items are marked in the source line. Items 28-30 are LinkedIn posts from January to March 2023 that he republished himself on his site hey-jay.com/resources. Items 31-32 are slide text from two self-published PDF carousels hosted on hey-jay.com (his commenting course and his "Dear son / Love, Dad" copy hack), extracted with pdftotext and flattened. Nothing here comes from a quote aggregator, and nothing is documented-grade. No spoken sample was captured: three podcast appearances are listed in the source map but were not transcribed. His Link Up community, his newsletter, and his larger carousel PDFs were not fetched, and 2024 to mid-2025 is thinly represented. Update 2026-10-19: a spoken sample now exists; items 101-109 are documented-grade excerpts from one February 2026 podcast interview, machine-transcribed with speaker diarization, and are not counted in the 32 written items.
 
 ## Verbatim excerpts (LinkedIn posts, linkedin.com/in/alicjasmin, 2022-2026)
 
@@ -108,6 +108,35 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 32. "Please make sure to always delete those two parts after you're done writing... / Otherwise, your client or CEO could get a hell of an email on a Monday morning / (don't ask me how I know that)"
     PDF "LinkedIn's #1 Copywriting Hack", hey-jay.com, undated (c. 2023), https://www.hey-jay.com/s/LinkedIns-1-Copywriting-Hack.pdf, verbatim (slide text, layout flattened)
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+101. "And here I am sitting like, dude, like, you do realize that every small result is still a result, you know?"
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:02:00, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "My personal opinion is this: if you're a very, very, like, complete beginner on a platform, you just started writing content, don't use AI at all. Don't use AI at all. And I know it's a hot take."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:06:15, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "I've been writing for 17 years every single day straight. I used to be a rapper. I got 6 albums behind me. I'm not letting anyone, no machine, touch my words."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:06:15, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "And I'm like, guys, just think about this. Reach is irrelevant. Reach is pretty much irrelevant. You could go viral every single day. You could receive 10 million impressions per post. What's it to you?"
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:10:44, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "The post is merely a conduit. The po- post is merely like a submarine, a tube, a subway leading you to the destination."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:10:44, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "If it is really bad for you, get rid of it. As simple as that. Empty out your fridge, man. It's like empty out your feed. Really hit unfollow, hit unfollow, hit unfollow."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:16:05, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "Treat your comments as thoughts, the very thing we discussed first in today's conversation. Leave thoughts, not reactions. These two are very different. A reaction is, hey, Darren, great shirt. That's a reaction."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:16:21, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "That's your Trojan horse. The comments are your Trojan horse. Bring people in, win the battle. That's how you do it."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:20:37, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "Trust me, the second we fix this for a lot of clients, like to your question, like everyone's doing all the right things and they're still not getting leads. Just insert a freaking CTA, man."
+    #325 Jasmin Alic - The LinkedIn Content System to Scale to $30,000/Month, Kickoff Sessions, 2026-02-15, https://podcasts.apple.com/us/podcast/325-jasmin-al%C3%ADc-the-linkedin-content-system-to-scale/id1541531544?i=1000749828689, at 00:26:15, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~8 words; nearly every line is one sentence or one fragment, and his own rule caps the hook at one line under 45 characters.
@@ -122,4 +151,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Hedges: near zero; rules end in "Always." or "Period." Confidence is softened by warmth and self-mockery ("Thanks for coming to my TEDTalk.", "Yepsolutely!") rather than qualifiers.
 - Favorite openers: a one-line rule or own-number; "My recipe for ... posts:"; "Copywriting tip: ..."; "I don't know who needs to hear this but..."; "Look...".
 - Favorite closers: a quotable one-liner ("Write better. Sell better.", "Keep it challenging = keep it interesting. Always."), then "Hope this helps. Cheers!" or "Happy writing!", a parenthetical repost ask with the recycle emoji, a one-question P.S., and from 2025 the sign-off "Coach J" with a heart.
-- Spoken register: unsampled. All 32 items are written LinkedIn or carousel text; three podcast appearances are a known gap in the source map.
+- Spoken register (items 101-109, one February 2026 podcast interview, documented-grade): the reverse of his choppy page. His longer answers run 400-900 words of 15-30 word sentences, against ~8-word lines in writing. He addresses the host constantly ("man" about 20 times, "dude" about 10) and stages reported dialogue ("And I'm like, ...", "they're like, ...", nearly 30 times). What survives from the written register is the repetition with a small change ("Reach is irrelevant. Reach is pretty much irrelevant.", "hit unfollow, hit unfollow, hit unfollow") and the quotable rule ("Leave thoughts, not reactions."). Metaphors stack in a row (submarine, tube, subway; fridge; Trojan horse), profanity stays mild ("freaking", "what the hell"), and the written sign-offs ("Hope this helps. Cheers!") do not appear.

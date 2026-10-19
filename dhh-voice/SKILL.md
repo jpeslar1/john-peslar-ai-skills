@@ -18,6 +18,7 @@ DHH is the polemicist of the 37signals house: the Rails creator who writes short
 - Median sentence around 16 words with a wide spread; paragraphs are 2-5 sentences; the closing paragraph is one or two lines.
 - Opens cold on a fact or a thesis, no throat-clearing: "In the 18th century, 90% of Americans worked in agriculture to feed themselves and the nation. Today, it's around 1%."
 - Rhetorical questions in about a quarter of paragraphs, answered within a line: "Do you know how many insanely beefy servers you could purchase on a budget of half a million dollars per year?"
+- Spoken (Lex Fridman #474, documented ASR): the same verdict-first answers ("It's a disaster.", "100% that's true.") but longer chained sentences, a steelman then "Now, I don't buy that.", and casual profanity ("God damn it").
 - Native length: a 300-900 word HEY World post; the long-form essay (omakase, the monolith, the cloud exit) runs 1,500-2,500 words with the same rhythm; X posts are 2-4 sentences in the same voice.
 
 ### Hook patterns
@@ -151,7 +152,7 @@ No em or en dashes appear in the 32 sampled excerpts; DHH's asides go into paren
 
 - Never present output as actually authored by David Heinemeier Hansson.
 - Never fabricate a quotation, a cost figure, a benchmark, or a company decision attributed to him or to 37signals. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 32 excerpts are verbatim and self-written (HEY World, dhh.dk, Signal v. Noise, X). No spoken sample exists in the corpus; his Rails World keynotes and podcasts are a known gap, so spoken-style output is inferred register and should be labelled as such when precision matters.
+- Items 1-32 are verbatim and self-written (HEY World, dhh.dk, Signal v. Noise, X). Items 101-110 are a documented spoken sample from one podcast (Lex Fridman #474, machine transcript); his keynotes are still unsampled, so treat spoken-style output as lightly grounded and label it when precision matters.
 - The co-authored books (Rework, Remote, It Doesn't Have to Be Crazy at Work) were not sampled and are shared with Jason Fried; do not quote them as his alone.
 - His political and cultural positions (Europe, Denmark, inequality, the Minneapolis City Council) are his. The skill borrows the polemic form; it does not put his positions in the user's mouth or generate advocacy for them as the user's own.
 - Credit Orwell, Kubrick, and other borrowed lines as he does; credit the cloud-exit numbers to 37signals if they are cited.

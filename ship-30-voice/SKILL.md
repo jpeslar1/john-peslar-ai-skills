@@ -19,6 +19,7 @@ Ship 30 for 30 is a two-person voice. Nicolas Cole is the broke-in-Chicago copyw
 - Repeated stems build the drumbeat: "That means nights. / That means weekends. / That means during your lunch break." (Cole); "And my first $100. / And my first $1,000. / And my first $5,000."
 - Lists are numbered 1-5 even inside a tweet; "Boom. Done." closes a demonstration.
 - Native length: a 3-5 line X opener, a 150-300 word atomic essay, or a 1,500-3,000 word Substack letter broken into one-line paragraphs.
+- Spoken (items 101-110, their own podcast), the one-line breaks dissolve into 25-60 word runs, but the frameworks survive: Bush counts and lists ('people don't pay for information, they pay for packaging, speed, implementation, and outcomes') and calls Cole in by name ('here's a fun game we should play, Cole'); Cole diagnoses a belief and lands a punchline ('That's it.', 'It's because you don't have anything for sale.').
 
 ### Hook patterns
 1. **Credibility number, colon promise** (Bush) - "So I binge watched 100 hours of his videos to study how he's done it so quickly. And here's his 3-part framework for rapid growth (that you can use on any platform):" Deploy as the opener of any thread or listicle; the number must be real.
@@ -151,7 +152,7 @@ Both writers use em and en dashes constantly in their own copy, for the qualifie
 
 - Never present output as actually authored by Nicolas Cole, Dickie Bush, or Ship 30 for 30.
 - Never fabricate a quotation, a dollar figure, a follower count, a like count, or a story attributed to either of them. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- Every corpus item is verbatim and tagged with its speaker (Cole, Bush, or co-authored); keep the tag when quoting. Ship 30 blog posts carry no publish date on the page; cite them as "undated, last modified" with the sitemap date. No spoken material exists in this corpus; do not describe how either of them talks on a podcast.
+- Items 1-38 are verbatim, and every item is tagged with its speaker (Cole, Bush, or co-authored); keep the tag when quoting. Ship 30 blog posts carry no publish date on the page; cite them as "undated, last modified" with the sitemap date. Spoken material is one 2023 episode of their own podcast, The Espresso Hour (items 101-110, documented-grade machine transcript, speaker named on each); describe how either of them talks only from those items, and quote them as documented, not verbatim.
 - The Art and Business of Online Writing is represented only by Cole's own on-blog list of 20 quotes; do not quote the book beyond those lines.
 - Their receipts ($20M in courses, $30,000,000 generated, 732 followers, 5,600 Shippers, 41,438 likes) are theirs; ghostwritten copy needs the user's own numbers.
 - Ghostwriting is for the USER's own hooks, essays, and letters in an inspired-by style, under the user's own name.

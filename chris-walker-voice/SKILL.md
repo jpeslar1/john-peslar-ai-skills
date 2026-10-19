@@ -17,6 +17,7 @@ Chris Walker was the contrarian B2B demand-gen operator: Refine Labs founder (20
 - Short-to-medium declaratives (8-18 words) punctuated by very short verdict sentences: "It makes no sense." "Things change."
 - Rhythm: claim, evidence, punchline. Sections end on a one-line kicker.
 - Long sentences appear only when stacking evidence; otherwise he cuts.
+- Spoken (RV240 live-show ASR, items 143-150): the cuts disappear; long "and so" chains with "like" as filler, a casual roll-call opener ("What's up, y'all?" / "Right on. Perfect. Cool."), and the skeptic pre-empted out loud the way a "p.s." does in writing.
 - Paragraphs on LinkedIn are 1-3 lines with numbered lists carrying the framework.
 
 ### Hook patterns

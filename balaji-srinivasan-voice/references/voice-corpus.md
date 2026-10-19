@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 35 items are verbatim and written by him. Items 1-15 are copied from the public chapter pages of The Network State at thenetworkstate.com (2022, marked continuously updated), one section per URL, with the chapter named on each source line. Items 16-27 are from his Substack at balajis.com (January 2024 to October 2025), read from the Substack JSON post API, which returns full bodies with dates; he describes these posts as popular X threads turned into articles, so they double as a record of his long-form X voice. Items 28-35 are his own X posts (@balajis, September 2021 to June 2023), fetched one by one from the syndication single-tweet endpoint using IDs he linked from his own Substack posts; where only the opening lines of a long post were captured, the source line says so. Nothing here comes from a quote aggregator. No spoken sample was captured: the guessed Lex Fridman and Tim Ferriss transcript URLs returned 404 and no caption pull was spent. His 2024-2026 X posting, his pre-Substack essays, and the 1729.com newsletter were not sampled.
+**Provenance note.** All 35 items are verbatim and written by him. Items 1-15 are copied from the public chapter pages of The Network State at thenetworkstate.com (2022, marked continuously updated), one section per URL, with the chapter named on each source line. Items 16-27 are from his Substack at balajis.com (January 2024 to October 2025), read from the Substack JSON post API, which returns full bodies with dates; he describes these posts as popular X threads turned into articles, so they double as a record of his long-form X voice. Items 28-35 are his own X posts (@balajis, September 2021 to June 2023), fetched one by one from the syndication single-tweet endpoint using IDs he linked from his own Substack posts; where only the opening lines of a long post were captured, the source line says so. Nothing here comes from a quote aggregator. No spoken sample was captured in the first pass: the guessed Lex Fridman and Tim Ferriss transcript URLs returned 404 and no caption pull was spent. On 2026-10-19 a spoken section (items 101-110, documented grade) was added from a machine transcript of his Uncapped with Jack Altman interview (September 2025). His 2024-2026 X posting, his pre-Substack essays, and the 1729.com newsletter were not sampled.
 
 **Punctuation note.** One book excerpt (item 4) preserves em dashes because it is a verbatim quotation ("cloud first, land last — but not land never"); the research notes record that em dashes appear in the book text while his X posts use line breaks instead of punctuation. The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
@@ -119,6 +119,40 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 35. "You are simultaneously supposed to take everything from this government on faith, *and* be sophisticated enough to know that the Fed is lying to you."
     X post by @balajis (status 1665016667582132224), X, 2023-06-03, https://x.com/balajis/status/1665016667582132224, verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+Items 101-110 come from one episode, minutes 1-46 of a 51-minute interview, transcribed by machine and diarized per 20-minute chunk; Balaji was identified as the guest greeted by name and answering Jack Altman's questions. These are documented, not verbatim: ASR drops some fillers and adds its own punctuation.
+
+101. "So I will reduce it to a few graphs, and then from that derive a bunch of other things."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:01:41 (opening answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "Okay, so the internet disrupted blue media, and you know the saying, go woke, go broke. It was actually in reverse, it was go broke, go woke."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:01:41 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "So it's actually not two factions, left and right, it's four factions: the internet, blue America, red America, China."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:01:41 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "it's a country of a million people. It's not a company of a billion dollars. We've done that. That's, that's old news."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:04:05, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "There's just no contest, unfortunately. I'm just, I'm a reality shill. I'm not a China shill."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:07:16, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "And the way of thinking about it is, imagine I increase the price of your iPhone 40%. I just gave you an incentive to build Apple. Why aren't you building Apple in America, huh?"
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:12:43 (on tariffs), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "So in a deep sense, and this is the deep point, dollar inflation is global taxation."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:21:28, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "It's already happened. It just hasn't been priced in."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:32:34, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "So the issue is, tech isn't a race, but you know what tech is?"
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:38:18 (he answers himself at 00:38:35 after a one-word host interjection: "Tech is a class."), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "No, because AI does it middle to middle, not end to end."
+    Uncapped #24 | Balaji Srinivasan, Uncapped with Jack Altman, 2025-09-18, https://anchor.fm/s/1156f1c04/podcast/play/123449619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428790035-44100-2-a37f7e86382a4.mp3, at 00:45:45, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~14 words in the book and Substack; X lines run 3-9 words, one complete clause per line, five to seven lines per post.
@@ -133,4 +167,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Connectives: "That is:", "Basically", "So", "Indeed", "Let me explain why.", "Let's go."; rhetorical questions are answered in the next line.
 - Favorite openers: a one-sentence outrageous thesis then "Let me explain why." or "Let's go."; "Here are ten thoughts on..."; a question ("Why am I not that worried about AGI?").
 - Favorite closers: the opening thesis repeated as a refrain ("All property becomes cryptography."), a flat forecast ("A debt crisis is coming.", "We're just getting started."), or an inversion of a familiar phrase ("the hard part isn't getting people online, but getting communities offline"); never a summary, never a CTA.
-- Spoken register: unsampled. The research notes expect a faster, more digressive register on podcasts; treat any spoken-style output as inferred.
+- Spoken vs written (items 101-110, one podcast): the written thesis-then-enumeration skeleton survives ("I will reduce it to a few graphs", "four factions", "A, they're tariffing allies, B..."), but the answers run as long monologues, about 17 words per sentence across his ~8,200 transcribed words, and digress through historical examples before "Anyway, point is" pulls them back (6 times). Verbal tics the written sample lacks are dense: "you know" about 76 times, "right?" about 57, "okay" about 43, and "so on and so forth" 11 times in 45 minutes. He quizzes the host ("do you know what the cantillon effect is?", "you know what tech is?") and answers himself. Unlike the zero-profanity written sample, speech includes "F you" and "retarded". Coinages still arrive as compressed pairs ("go broke, go woke", "middle to middle, not end to end", "reality shill").

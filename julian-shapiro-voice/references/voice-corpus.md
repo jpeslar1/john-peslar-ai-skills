@@ -4,7 +4,7 @@ Research date: 2026-10-19
 
 The excerpts below are short quotations from public posts, articles, and talks, included under fair use for style analysis and attribution. They are third-party content and NOT covered by this repository's MIT license.
 
-**Provenance note.** All 30 items are verbatim. Items 1-22 are copied from the raw HTML of his own site, julian.com: items 1-17 from the Writing Well handbook pages (Intro, Ideas, First Drafts, Rewriting, Style; the guide pages carry no publication date), items 18-21 from dated blog posts (2016-2021), and item 22 from the Start a Startup handbook intro (undated). Items 23-30 are his own X posts (@Julian) from three threads (2021-01-25, 2021-10-05, 2024-11-04), each fetched individually by status ID via fxtwitter or the X syndication single-tweet endpoint, not from an aggregator or an unroll service. Where the source broke a quote across lines (tweet line breaks, handbook one-sentence paragraphs), the lines are joined here with " / ". This is a two-channel corpus: julian.com is his main long-form channel and X the secondary. His monthly newsletter archive is password-protected and was not sampled, and no spoken sample was collected (his podcast appearances have no published transcripts), so the corpus is written-voice only.
+**Provenance note.** All 30 items are verbatim. Items 1-22 are copied from the raw HTML of his own site, julian.com: items 1-17 from the Writing Well handbook pages (Intro, Ideas, First Drafts, Rewriting, Style; the guide pages carry no publication date), items 18-21 from dated blog posts (2016-2021), and item 22 from the Start a Startup handbook intro (undated). Items 23-30 are his own X posts (@Julian) from three threads (2021-01-25, 2021-10-05, 2024-11-04), each fetched individually by status ID via fxtwitter or the X syndication single-tweet endpoint, not from an aggregator or an unroll service. Where the source broke a quote across lines (tweet line breaks, handbook one-sentence paragraphs), the lines are joined here with " / ". This is a two-channel corpus: julian.com is his main long-form channel and X the secondary. His monthly newsletter archive is password-protected and was not sampled, and no spoken sample was collected in the first pass (his podcast appearances have no published transcripts). On 2026-10-19 a spoken section (items 101-110, documented grade) was added from a machine transcript of his September 2022 Lenny's Podcast interview.
 
 **Punctuation note.** Several excerpts preserve em dashes because they are verbatim quotations (items 8, 10, 12, 20, 25, 29); he uses them heavily in long-form for asides and for the hook-to-payoff pivot ("Here's the kicker—the point of this whole thread:"). The operator's copy rule still bans em and en dashes in anything generated in this voice; see the Punctuation Override in SKILL.md.
 
@@ -102,6 +102,40 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 30. "When a post-product business is still a young startup, it's not a traditional business yet. / *It's an experimentation factory in search of distribution insights and storytelling.* / Set your priorities accordingly."
     X post (thread closer), @Julian, 2024-11-04, https://x.com/Julian/status/1853511100110897175, verbatim
 
+## Spoken excerpts (documented, diarized machine transcript), added 2026-10-19
+
+Items 101-110 come from one episode, minutes 3-46 of a 60-minute interview, transcribed by machine and diarized per 20-minute chunk; Shapiro was identified as the guest Lenny Rachitsky introduces and welcomes by name. These are documented, not verbatim: ASR drops some fillers and adds its own punctuation. Note this is Julian Shapiro of julian.com and Demand Curve, not the comedian Julian Shapiro-Barnum, whose many podcast appearances crowd search results.
+
+101. "One is a lot of people were writing threads, and I found this to be very cringe. They're like these fortune cookie threads, like, here's 21 ways to, you know, rework your startup or something."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:04:57, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+102. "here's a mental model for thinking about the quality of your followers. You have people who follow you for the quality of your brain, and you have people who follow you for sort of you being a glorified curator."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:04:57 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+103. "So I just care more about the quality of the follower than I do the volume."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:04:57 (closing line of the same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+104. "They're forcing functions for me to hold myself accountable and to be thorough when learning something for my own benefit. That's all they are."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:10:04 (on why he writes handbooks), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+105. "Yeah, so product-led acquisition to your audience will be more commonly known as product-led growth, but I think product-led growth is a bit of a misnomer."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:13:50, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+106. "Yeah, well, the real lesson is don't start a company if you have no idea how it's going to grow."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:20:17, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+107. "this building state concept is why mediocre companies like eBay or Craigslist remain completely unbeatable for decades. Even though the UX is bad, people don't like using them, they fail to innovate, no one topples them, and it's because of state."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:30:01, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+108. "So state, kind of like my PLA mega spiel, mega rant there, subdivides into a few categories, but I'll make this one shorter and less boring."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:30:01 (same answer), documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+109. "But I find this term actually very misleading because very few companies have actual moats."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:37:01, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
+110. "And so novelty I define as new idea, so something I haven't heard of before, that's also significant, so it's not some trivial fact about Kim Kardashian, and it's something that I wouldn't have easily intuited on my own."
+    Growth tactics, retention strategies, and becoming a better writer, Lenny's Podcast, 2022-09-25, https://pscrb.fm/rss/p/api.substack.com/feed/podcast/74172395/b368039d8a073d05a3779773a4f04586.mp3, at 00:39:03, documented (MAI-Transcribe-2 diarized ASR via OpenRouter; speaker identified from context)
+
 ## Derived stats (honest estimates from this corpus)
 
 - Median sentence length: ~12 words in the handbooks; tweets run ~10 words per line with one thought per line.
@@ -116,4 +150,4 @@ The excerpts below are short quotations from public posts, articles, and talks, 
 - Favorite openers: a definitional thesis ("Writing is…", "A hook is…", "Novelty is…"), "My day job is…", "It's done!", "A funny lie of adulthood is…", "Visualize…", "Pardon me while…".
 - Favorite closers: a one-line restatement of the mechanism ("It's strange how well this works.", "Set your priorities accordingly.", "It's fraudulent voice."), a colon that hands off to the thread body, and a soft CTA ("See mine: @julian", "Hope this helps!").
 - Teaching devices: before/after rewrites, "In other words:", footnote asterisks, bullets with "•" on X, numbered "1/" threads, and a thread "kicker" announced as such before the payoff.
-- Spoken vs written: no spoken sample. Handbook and X are one register; X compresses it to bullets and numbered points with a credential line up top.
+- Spoken vs written: handbook and X are one register; X compresses it to bullets and numbered points with a credential line up top. Speech (items 101-110, one podcast) inverts the compression: answers run as long structured monologues, about 21 words per sentence across his ~7,000 transcribed words against roughly 12 in the handbooks, with "so" about 151 times (some 90 of them opening a sentence), "basically" 21 times, and "like" 81 times. The written skeleton survives aloud: he coins and renames ("product-led growth is a bit of a misnomer", "labor followers" vs "mind followers", "building state"), defines in one sentence, then walks numbered categories ("Okay, so that's category 1"). Fillers are rare in the ASR (under 1 per 1,000 words); profanity is mild and rare ("pissing off"). He flags his own length ("my PLA mega spiel, mega rant") the way the handbooks flag a section.

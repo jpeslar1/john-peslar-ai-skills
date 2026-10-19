@@ -14,15 +14,16 @@ Refresh cadence: every 6 months (next: 2027-04)
 | "Rails is omakase" (Dec 27 2012) | https://dhh.dk/2012/rails-is-omakase.html | The defining Rails-philosophy essay: the menu, the chefs, "The door is right over there" | Open |
 | "The Majestic Monolith" (Feb 29 2016) | https://signalvnoise.com/svn3/the-majestic-monolith/ (mirror: https://m.signalvnoise.com/the-majestic-monolith-29166d022228) | Architecture polemic: "Bzzzzzzzzt!! Wrong!", "Don't distribute your computing!" | Open |
 | X @dhh | https://x.com/dhh | Short takes in the same voice; 3 posts quoted (Jul-Oct 2026), IDs harvested from links inside his own HEY posts | `https://cdn.syndication.twimg.com/tweet-result?id=<id>&token=a` returns text and ISO date; profile timeline endpoint 429'd |
-| Rails World keynotes and podcasts (e.g. Lex Fridman #474) | https://lexfridman.com/dhh-transcript (404 at research time) | Spoken register | NOT fetched this round |
+| Lex Fridman Podcast #474 (2025-07-12), audio | https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dhh_david_heinemeier_hansson.mp3 (feed: https://lexfridman.com/feed/podcast/) | Spoken register: items 101-110 from minutes 6-46 (childhood programming, PHP, JavaScript churn, Chrome antitrust, cookie banners) | RSS enclosure, transcribed with `scripts/voice-dna/transcribe.py` (MAI-Transcribe-2 via OpenRouter, $0.07 for 40 min); documented grade |
+| Rails World keynotes | https://rubyonrails.org/world | Spoken register at the podium | NOT fetched this round |
 
 ## What the corpus rests on
 
-All thirty-two excerpts are verbatim and written by him: twenty-one from HEY World posts published in the eleven months before research (pulled from the blog's own Atom feed), four from the two cloud-exit posts on the same blog (2022-2023), two from the Rails is omakase essay on dhh.dk (2012), two from The Majestic Monolith on the Signal v. Noise archive (2016), and three from his own X account (2026). The written register is covered across fourteen years and four channels and is consistent throughout, so confidence in wording and structure is high. No spoken sample was captured, and the X sample is thin. Nothing comes from a quote aggregator; no ghostwriter credit appears on any of the channels.
+All thirty-two excerpts are verbatim and written by him: twenty-one from HEY World posts published in the eleven months before research (pulled from the blog's own Atom feed), four from the two cloud-exit posts on the same blog (2022-2023), two from the Rails is omakase essay on dhh.dk (2012), two from The Majestic Monolith on the Signal v. Noise archive (2016), and three from his own X account (2026). The written register is covered across fourteen years and four channels and is consistent throughout, so confidence in wording and structure is high. The spoken sample is one podcast episode (items 101-110, documented machine transcript), and the X sample is thin. Nothing comes from a quote aggregator; no ghostwriter credit appears on any of the channels.
 
 ## Known gaps
 
-- **No spoken-word excerpts.** The Lex Fridman transcript page returned 404 and no yt-dlp caption pull was spent on him. His Rails World 2026 keynote ("put down the pencils") is the ideal spoken sample and remains unsampled; spoken-style output is inferred from the written register.
+- **Spoken sample is thin.** Items 101-110 cover 40 minutes of one conversational podcast (Lex Fridman #474, 2025), documented grade from a diarized machine transcript. His keynote register (Rails World 2026, "put down the pencils") and his REWORK podcast with Jason Fried remain unsampled; one interview is not enough to fix spoken stats.
 - **X coverage is thin.** Five posts were located (three quoted), all from 2026, found only through links inside his own HEY posts; the profile timeline endpoint rate-limited. He posts far more on X than this sample suggests, and his short-form rhythm is under-represented.
 - **Co-authored books were not pulled.** Rework, Remote, and It Doesn't Have to Be Crazy at Work are shared with Jason Fried, so single-author attribution is unclear; do not quote them as his alone.
 - **Pre-2012 Signal v. Noise posts were not sampled.** The archive is open; only The Majestic Monolith (2016) was read.
@@ -37,6 +38,7 @@ All thirty-two excerpts are verbatim and written by him: twenty-one from HEY Wor
 4. Read two or three pre-2012 Signal v. Noise posts by him (byline "DHH") from the archive and add 2-4 verbatim excerpts in the essays section to widen the era coverage.
 5. If 37signals publishes a new operations or cost post under his byline, add its receipts to the corpus and refresh the Build-in-Public Writer template's example numbers.
 6. Re-verify that every URL is still live. Never carry a quote forward that was not re-read at its source.
+7. For more spoken register, take an MP3 from an official RSS feed (for example a REWORK episode or a later long-form interview) and run `python3 scripts/voice-dna/transcribe.py "<mp3-url>" --out /private/tmp/claude-501/stt/dhh-voice --start-min 2 --max-min 45 --budget 0.15` with `OPENROUTER_API_KEY` set; identify his speaker label in each 20-minute chunk from context and add 6-10 documented items to the spoken section.
 
 ## Pattern notes
 

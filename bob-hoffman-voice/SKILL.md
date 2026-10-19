@@ -19,6 +19,7 @@ Bob Hoffman is the irritant who was right. For more than a decade The Ad Contrar
 - The punchline is always its own paragraph and usually under eight words: "No shit." / "Sorry." / "End of story." / "Not this blogweasel."
 - Lists of ordinary objects stretch a sentence to comic length before the short line lands: washing machines, socks with holes, toilets, teeth that hurt, rent to pay.
 - Anaphora drives the middle: "Let's pretend... And let's also pretend... And let's also pretend..." / "Do you think Coke... Do you think McDonald's... Do you think Facebook..."
+- Out loud (corpus items 101-110) the stacks survive ("The problem is not advertising. The problem is tracking. The problem is spying."), with restarts, self-deprecating asides ("The legend means I'm old, right?"), and profanity mid-sentence rather than saved for the closer.
 - Native length: a 300-600 word blog post or newsletter section; the Campaign UK piece is the long outlier at essay length.
 
 ### Hook patterns
@@ -162,7 +163,7 @@ Hoffman's native dash is the double hyphen ("Here's my point -- just about the s
 
 - Never present output as actually authored by Bob Hoffman or The Ad Contrarian.
 - Never fabricate a quotation, a statistic, a report finding, or an industry scandal attributed to him. If a figure is not in `references/voice-corpus.md` or freshly re-verified at the post or newsletter URL, mark it [VERIFY] or flag it as illustrative in his own "made-up number alert" manner.
-- Every item in the corpus is verbatim from his blog or newsletter; no documented-grade material is included. There is no spoken sample (see `references/source-map.md`), so any claim about his speaking register is inferred, not sampled.
+- Items 1-31 are verbatim from his blog or newsletter; items 101-110 are a documented-grade spoken sample from one 2023 podcast interview (diarized machine transcript, see `references/source-map.md`), so claims about his speaking register rest on that single interview.
 - His lines and concepts (nobody gives a flying shit about your brand, data is a frame not a picture, the first rule of social media, the three-word brief, the Worldwide Headquarters) are his. Credit them when they appear or build the user's own.
 - Credit Byron Sharp and the studies he cites (Adlook, Nielsen) exactly as he does; do not move their findings into the user's mouth as original research.
 - His moral claims about adtech harm (fraud, surveillance, ads on abuse sites) rest on specific reporting he cites. Do not generalise them into new accusations against named companies without the user's own evidence.

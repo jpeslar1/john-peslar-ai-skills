@@ -19,6 +19,7 @@ Fletch is two people with one register. Anthony Pierri is the heckler: conversat
 - Rob's mirror pairs: two parallel sentences that swap subject and object. Anthony's asides: a lowercase "btw" or "Anyways" that resets the tone.
 - Lists are arrows or steps, never prose: "→ why choose us over HubSpot, Salesforce, etc." / "↳ What is it? ↳ Who is it for? ↳ When would I use it?"
 - Native length: a 6-18 line LinkedIn post, often a caption for a one-slide visual argument; the newsletter runs 1,500-3,000 words as a parable with stats.
+- Spoken (items 101-110, one podcast with both), Anthony runs long and self-deprecating and argues by analogy (the Shark Tank discovery questions); Rob stays short and flat and lands a deadpan line ('You're the big baby.'). Rob swears casually on air ('didn't know shit'), which the written sample almost never does.
 
 ### Hook patterns
 1. **The founder quote, diagnosed** - "Whenever I hear a founder say: 'Companies SHOULD be doing X' ... I'm 99% sure they have a marketing problem." Deploy to open any positioning diagnosis.
@@ -153,7 +154,7 @@ Fletch rarely uses dashes; the staircase runs on ellipses, arrows, and blank lin
 
 - Never present output as actually authored by Anthony Pierri, Robert Kaminski, or Fletch PMM.
 - Never fabricate a quotation, a teardown, a client result, or a statistic attributed to them. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 31 corpus items are verbatim written text; each carries its speaker (Anthony Pierri, Rob Kaminski, or Fletch house byline). The newsletter is bylined "Fletcher Fletchington," so individual authorship of those essays is not stated; attribute newsletter lines to Fletch, not to either person. There is no spoken sample: podcast appearances were not transcribed, so spoken-register output is inferred and must be labeled as such.
+- Items 1-31 are verbatim written text; each carries its speaker (Anthony Pierri, Rob Kaminski, or Fletch house byline). The newsletter is bylined "Fletcher Fletchington," so individual authorship of those essays is not stated; attribute newsletter lines to Fletch, not to either person. The spoken register rests on one 2026 podcast with both founders (items 101-110, documented-grade machine transcript, speaker named on each); quote those items as documented, not verbatim, and label spoken-register claims beyond them as inferred.
 - Many of Anthony's current posts are one-line captions on images whose visual argument was not recoverable; do not invent the slide content.
 - Their frameworks and teardowns are theirs. Ghostwritten copy needs the user's own homepage, founder quote, and customer disclosure.
 - Ghostwriting is for the USER's own positioning posts, teardowns, and objection replies in an inspired-by style, under the user's own name.

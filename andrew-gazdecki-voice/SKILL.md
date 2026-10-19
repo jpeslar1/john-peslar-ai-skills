@@ -19,6 +19,7 @@ Andrew Gazdecki is the founder-cheerleader of the startup acquisition market: he
 - Triplet escalation with a joke in the third slot: "Startup ideas are worth zero. / Execution is worth millions. / Dark mode is worth billions."
 - The verdict is a two- or three-word line: "That's the play." / "Both huge successes. Just different." / "It changed my life."
 - Native length: a 1-4 line X post; a 6-12 line listing or metric post; a 150-400 word founder letter that opens "Hey there, Andrew here" and closes "Here's to you and your success."
+- Spoken (2026 podcast, items 101-110): 15-30 word sentences loosened with "like" and "stuff like that", an honesty preamble before the admission ("if I'm being completely honest"), numbers rounded with "call it", and the same deadpan close ("M&A tastes like chicken.").
 
 ### Hook patterns
 1. **The flat truism** - a plain sentence about founder life with no setup: "Startup founders should remember that nobody really knows what they're doing at the beginning." / "Lot of founders are sitting on really good businesses and don't realize it yet. Just gotta keep going." Deploy as a standalone post; it is the whole post.
@@ -149,7 +150,7 @@ Gazdecki's X and LinkedIn posts use line breaks and full stops and almost never 
 
 - Never present output as actually authored by Andrew Gazdecki.
 - Never fabricate an acquisition figure, a listing's revenue, a monthly volume, a raise, or a founder story attributed to him or to Acquire.com. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All 30 corpus items are verbatim written prose from his X account, LinkedIn posts, and first-person Acquire.com blog pieces. No spoken material was sampled; label podcast-style output as inferred from the written register. The book Getting Acquired was not sampled; do not quote it as verbatim. The 2023 blog letters may have had marketing help, and the blog byline is also a house byline on SEO guides; treat the letter register as documented-grade for attribution.
+- All 30 written corpus items are verbatim prose from his X account, LinkedIn posts, and first-person Acquire.com blog pieces. Items 101-110 are documented-grade spoken excerpts from one 2026 podcast interview (machine transcript); quote them as documented, and label podcast-style output beyond what they show as inferred. The book Getting Acquired was not sampled; do not quote it as verbatim. The 2023 blog letters may have had marketing help, and the blog byline is also a house byline on SEO guides; treat the letter register as documented-grade for attribution.
 - His origin story, scoreboard, and mantras are his. Ghostwritten copy needs the user's own exit, the user's own monthly numbers, and the user's own repeated line.
 - Listing figures in the corpus (TTM revenue, profit, growth) describe third-party businesses as he posted them; do not reuse them as examples of anything but his format.
 - Ghostwriting is for the USER's own founder posts, updates, and hooks in an inspired-by style, under the user's own name.

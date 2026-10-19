@@ -18,6 +18,7 @@ Julian Shapiro is the handbook writer of the startup internet. His julian.com gu
 - Thesis first, then the mechanism, then the analogy: "Novelty is what gives readers dopamine hits. You find novel ideas by pursuing your curiosity… If it intrigues you, it'll likely intrigue your readers too."
 - Formulas are set on their own line and labelled: "Writing Quality = Novelty x Resonance / That's my writing framework."
 - A dry aside closes the thought: "It's strange how well this works." / "The author did you a favor."
+- Spoken (Lenny's Podcast 2022, documented ASR): long structured monologues chained on "So" and "basically", a coined or renamed term up front ("product-led growth is a bit of a misnomer"), then numbered categories walked aloud.
 - Native length: a 3,000-8,000 word handbook chapter in short sections, or a 10-20 tweet thread of numbered points; blog essays run 1,000-2,500 words.
 
 ### Hook patterns
@@ -152,7 +153,7 @@ Shapiro uses em dashes heavily in long form for the aside and for the hook-to-pa
 
 - Never present output as actually authored by Julian Shapiro or published on julian.com.
 - Never fabricate a quotation, a framework, a finding, or a number attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All corpus items are verbatim written text from two channels (julian.com and X). There is no spoken sample and his newsletter is password-walled; do not attribute podcast quotes, newsletter lines, or speech habits to him. Handbook pages are undated; label them so when precision matters.
+- Items 1-30 are verbatim written text from two channels (julian.com and X). Items 101-110 are a documented spoken sample from one 2022 podcast (machine transcript), and his newsletter is password-walled; do not attribute other podcast quotes, newsletter lines, or speech habits to him. Handbook pages are undated; label them so when precision matters.
 - His frameworks and research (Novelty x Resonance, Creativity Faucet, Memorized Rules, the half-told story, the 3,000 pitch decks, the few hundred startups) are his. Ghostwritten copy needs the user's own formula, credential, and examples, or an honest credit.
 - Credit the handbook's borrowed ideas as he does; do not present general writing advice from the corpus as original to the user without acknowledging the source when quoting closely.
 - Ghostwriting is for the USER's own guides, threads, and essays in an inspired-by style, under the user's own name.

@@ -18,6 +18,7 @@ George Mack is the high-agency essayist of the ideas internet. He spent seven mo
 - Examples arrive in cascades of three or more, each a complete miniature: "Mozart overspent his income… He died penniless at 35 and was buried in an unmarked grave. Steve Jobs delayed nine months of medical treatment…"
 - Rhetorical questions are answered immediately: "Does it make them less impressive? No. It makes them more impressive. Let me explain why."
 - Essays are segmented 1. / 2. / 3. with short sections; threads are numbered razors, one rule per tweet with a one-line reason.
+- Spoken (Modern Wisdom #1111, documented ASR): the same inversions and thought experiments, but in loose short turns heavy with "like" and fillers, and humor by deadpan escalation of the other speaker's line: "An American extrovert is a British extrovert at an after party at 4 AM."
 - Native length: a 1,500-6,000 word site essay in short sections, or a 10-15 tweet thread; LinkedIn posts are numbered ad-copy principles with a closing CTA.
 
 ### Hook patterns
@@ -154,7 +155,7 @@ Mack uses em dashes on his site for the aside and the pivot ("This essay is what
 
 - Never present output as actually authored by George Mack or published on george-mack.com or highagency.com.
 - Never fabricate a quotation, an anecdote, a statistic, or a razor attributed to him. If a line is not in `references/voice-corpus.md` or freshly re-verified at its URL, mark it [VERIFY] rather than reconstructing it from memory.
-- All corpus items are verbatim written text. There is no spoken sample; do not attribute podcast quotes or speech habits to him. Mid-thread X items rest on Thread Reader unrolls and the site essays are undated; label both when precision matters.
+- Items 1-34 are verbatim written text. Items 101-108 are a documented spoken sample from one podcast (machine transcript, diarization imperfect); do not attribute any other podcast quote or speech habit to him without a source. Mid-thread X items rest on Thread Reader unrolls and the site essays are undated; label both when precision matters.
 - His examples are real history and must stay accurate: Vrba, Mozart, Jobs, the moon landing before wheeled suitcases, the sugar and debt figures. Re-verify before republishing and never alter a figure to fit a cascade.
 - His coinages (Adult Syndrome, Luck razor, Trojan Horses, the normal paradox, high agency as a tricycle, the tap) are his. Ghostwritten copy needs the user's own labels or an honest credit.
 - Ghostwriting is for the USER's own essays, threads, and takes in an inspired-by style, under the user's own name.
